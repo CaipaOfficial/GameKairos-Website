@@ -1,5 +1,4 @@
 # GameKairos-Website
 Leaked by Flow aka NullByte
 
-Reason: Owner dont wanted to pay my Job that i done without reason for a Long time and told me nothing,
-and wasted my time with fake Crashed that not even existed
+Reason: Owner not paid my Job that i done and Blocked me :) and he self said i can leak it so.
