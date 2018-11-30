@@ -1,0 +1,10 @@
+2018-09-17 23:03:24: m4690.jfernandorojasc-gmail-com.goodsync is REMOTE, trying DIRECT at 213.136.67.9:33333
+2018-09-17 23:03:24: MustRetry after Recv: Recv: [requesting Digest auth]: 
+2018-09-17 23:03:26: -- Análisis iniciado por On File Change Incremental
+2018-09-17 23:03:28: Cambios: 2, Conflictos: 0, CopiaFecha: 0, CopiaEstado: 0, Errores: 0, All: 1163
+2018-09-17 23:03:28: Right to Left: Copy File: 2 
+2018-09-17 23:03:28: == Sinc comenzada por On File Change Incremental
+2018-09-17 23:03:28: Crear Carpeta 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/Pillory/controller'
+2018-09-17 23:03:29: Crear Carpeta 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/Pillory/view'
+2018-09-17 23:03:32: == Sinc. Completa. Tiempo: 00:00:04, Velocidad: 8,00 KB/s, OK: 2, Errores: 0
+2018-09-17 23:03:32: 

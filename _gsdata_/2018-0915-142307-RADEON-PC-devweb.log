@@ -1,0 +1,10 @@
+2018-09-15 14:23:08: m4690.jfernandorojasc-gmail-com.goodsync is REMOTE, trying DIRECT at 213.136.67.9:33333
+2018-09-15 14:23:09: MustRetry after Recv: Recv: [requesting Digest auth]: 
+2018-09-15 14:23:10: -- Análisis iniciado por On File Change Incremental
+2018-09-15 14:23:13: Cambios: 2, Conflictos: 0, CopiaFecha: 0, CopiaEstado: 0, Errores: 0, All: 954
+2018-09-15 14:23:13: Right to Left: Copy File: 1 Delete File: 1 
+2018-09-15 14:23:13: == Sinc comenzada por On File Change Incremental
+2018-09-15 14:23:16: Borrar Archivo 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/favico/Kairosicon.ico'
+2018-09-15 14:23:18: Copiar Sobre 'C:/Users/RADEON/Desktop/wwwroot/favico/favicon.ico' -> 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/favico/favicon.ico' (27.198)
+2018-09-15 14:23:21: == Sinc. Completa. Tiempo: 00:00:08, Velocidad: 6,91 KB/s, OK: 2, Errores: 0
+2018-09-15 14:23:21: 

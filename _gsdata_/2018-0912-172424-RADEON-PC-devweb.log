@@ -1,0 +1,10 @@
+2018-09-12 17:24:26: m4690.jfernandorojasc-gmail-com.goodsync is REMOTE, trying DIRECT at 213.136.67.9:33333
+2018-09-12 17:24:27: MustRetry after Recv: Recv: [requesting Digest auth]: 
+2018-09-12 17:24:28: -- Análisis iniciado por On File Change Incremental
+2018-09-12 17:24:30: Cambios: 2, Conflictos: 0, CopiaFecha: 0, CopiaEstado: 0, Errores: 0, All: 741
+2018-09-12 17:24:30: Right to Left: Copy File: 2 
+2018-09-12 17:24:30: == Sinc comenzada por On File Change Incremental
+2018-09-12 17:24:33: Copiar Sobre 'C:/Users/RADEON/Desktop/wwwroot/translate/_EN.php' -> 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/translate/_EN.php' (1.606)
+2018-09-12 17:24:35: Copiar Sobre 'C:/Users/RADEON/Desktop/wwwroot/translate/_ES.php' -> 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/translate/_ES.php' (1.715)
+2018-09-12 17:24:38: == Sinc. Completa. Tiempo: 00:00:08, Velocidad: 1,93 KB/s, OK: 2, Errores: 0
+2018-09-12 17:24:38: 

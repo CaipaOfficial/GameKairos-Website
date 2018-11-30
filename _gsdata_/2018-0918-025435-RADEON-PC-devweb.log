@@ -1,0 +1,9 @@
+2018-09-18 02:54:37: m4690.jfernandorojasc-gmail-com.goodsync is REMOTE, trying DIRECT at 213.136.67.9:33333
+2018-09-18 02:54:38: MustRetry after Recv: Recv: [requesting Digest auth]: 
+2018-09-18 02:54:39: -- Análisis iniciado por On File Change Incremental
+2018-09-18 02:54:42: Cambios: 1, Conflictos: 0, CopiaFecha: 0, CopiaEstado: 0, Errores: 0, All: 1166
+2018-09-18 02:54:42: Right to Left: Copy File: 1 
+2018-09-18 02:54:42: == Sinc comenzada por On File Change Incremental
+2018-09-18 02:54:45: Copiar Sobre 'C:/Users/RADEON/Desktop/wwwroot/Pillory/view/pillory_view.php' -> 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/Pillory/view/pillory_view.php' (3.030)
+2018-09-18 02:54:48: == Sinc. Completa. Tiempo: 00:00:06, Velocidad: 1010 bytes/s, OK: 1, Errores: 0
+2018-09-18 02:54:48: 

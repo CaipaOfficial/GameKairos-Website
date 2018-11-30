@@ -1,0 +1,4858 @@
+1	Wooden Stick	1	1	1
+2	Wooden Stick	4	2	1
+3	Wooden Sword	7	3	1
+4	Wooden Hammer	10	4	1
+5	Heavy Wooden Hammer	13	5	1
+6	Trainee's Wooden Sword	15	6	1
+7	Adventurer's Sword	18	7	1
+8	Wooden Catapult	1	8	1
+9	Heavy Wooden Catapult	6	9	1
+10	Trainee's Wooden Catapult	12	10	1
+11	Adventurer's Catapult	16	11	1
+12	Clothing	1	12	1
+13	Training Uniform	3	13	1
+14	Adventurer's Uniform	8	14	1
+15	Training Uniform	11	15	1
+16	Adventurer's Cloak Set	14	16	1
+17	Warm Cloak Set	17	17	1
+18	Beginner's Sword	15	18	2
+19	Short Sword	20	19	2
+20	Sword of Pain	26	20	2
+21	Short Sword	29	21	2
+22	Bronze Sword	34	22	2
+23	Sabre	36	23	2
+24	Broad Sword of Spirit	40	24	2
+25	Falchion	42	25	2
+26	Golden Sabre	46	26	2
+27	Broadsword	48	27	2
+28	Longsword of Power	52	28	2
+29	Bastard Sword	53	29	2
+30	Skyabona	57	30	2
+31	Claymore	60	31	2
+32	Beginner's Bow	15	32	4
+33	Small Bow	20	33	4
+34	Bow of Speed	26	34	4
+35	Bamboo Bow	29	35	4
+36	Magic Bow	34	36	4
+37	Oak Bow	36	37	4
+38	Wind Bow	40	38	4
+39	Horned Bow	42	39	4
+40	Leather Bow	46	40	4
+41	Hunting Bow	48	41	4
+42	Bow of Courage	52	42	4
+43	Long Bow	53	43	4
+44	Bronze Bow	57	44	4
+45	Bow of Spirit	60	45	4
+46	Beginner's Wand	15	46	8
+47	Red Bead Wand	20	47	8
+48	Wand of Spirit	26	48	8
+49	Ruby Wand	29	49	8
+50	Enchanted Magic Wand	34	50	8
+51	Blue Bead Wand	36	51	8
+52	Magic Wand of Light	40	52	8
+53	Opal Wand	42	53	8
+54	Mana Wand	46	54	8
+55	Coral Magic Wand	48	55	8
+56	Magic Wand of Honour	52	56	8
+57	Crystal Magic Wand	53	57	8
+58	Magic Wand of Intelligence	57	58	8
+59	Magic Wand of Shadows	60	59	8
+60	Leather Gloves	15	60	0
+61	Tough Gloves	19	61	0
+62	Adventurer's Shoes	5	62	0
+63	Heeled Boots	11	63	0
+64	Leather Shoes	16	64	0
+65	Roller Skates	20	65	0
+66	Master's Sword	21	20	1
+67	Master's Catapult	19	67	1
+68	Beginner's Crossbow	15	68	2
+69	Oak Crossbow	20	69	2
+70	Fairy Crossbow	27	70	2
+71	Slim Gloves	4	71	0
+72	Rubber Gloves	10	72	0
+73	Steel Crossbow	33	73	2
+74	Masterpiece Crossbow	41	74	2
+75	Shadow Crossbow	47	75	2
+76	Beechwood Crossbow	53	76	2
+77	Crossbow of Courage	58	77	2
+78	Beginner's Dagger	15	78	4
+79	Dagger	20	79	4
+80	Dirk of Ordeals	27	80	4
+81	Refined Dirk	33	81	4
+82	Masterpiece Dirk	41	82	4
+83	Brazen Dagger	47	83	4
+84	Ruby Dagger	53	84	4
+85	Dagger of Spirit	58	85	4
+86	Beginner's Spell Gun	15	86	8
+87	Small Spell Gun	20	87	8
+88	Magic Spell Gun	27	88	8
+89	Gold Spell Gun	33	89	8
+90	Masterpiece Spell Gun	41	90	8
+91	Brass Spell Gun	47	91	8
+92	Dignified Spell Gun	53	92	8
+93	Spell Gun of Shadows	58	93	8
+94	Trainee Swordsman's Armour	15	94	2
+95	Padded Armour	19	95	2
+96	Quilted Armour	24	96	2
+97	Leather Armour	27	97	2
+98	Armour of Stamina	32	98	2
+99	Studded Leather Armour	34	99	2
+100	Reinforced Leather Armour	39	100	2
+101	Scale Armour	41	101	2
+102	Armour of Morale	46	102	2
+103	Plate Armour	50	103	2
+104	Golden Rivet Armour	55	104	2
+105	Brigandine	57	105	2
+106	Armour of Valour	62	106	2
+107	Trainee Archer's Tunic	15	107	4
+108	Lambskin Tunic	19	108	4
+109	Velour Tunic	24	109	4
+110	Goat Leather Tunic	27	110	4
+111	Tunic of Evasion	32	111	4
+112	Calfskin Tunic	34	112	4
+113	Suede Tunic	39	113	4
+114	Cow Leather Tunic	41	114	4
+115	Eagle-Eyed Tunic	46	115	4
+116	Peccary Tunic	50	116	4
+117	Nubuck Tunic	55	117	4
+118	Tuscany Tunic	57	118	4
+119	Spirit Tunic	62	119	4
+120	Trainee Sorcerer's Robe	15	120	8
+121	Cotton Robe	19	121	8
+122	Magic Cotton Robe	24	122	8
+123	Linen Robe	27	123	8
+124	Recovery Robe	32	124	8
+125	Tweed Robe	34	125	8
+126	Reinforced Linen Robe	39	126	8
+127	Muslin Robe	41	127	8
+128	Elemental Robe	46	128	8
+129	Silk Robe	50	129	8
+130	Chequered Robe	55	130	8
+131	Herringbone Robe	57	131	8
+132	Robe of Darkness	62	132	8
+133	Old Adventurers' Cloak	20	189	1
+134	Kovolt Mask (GM)	0	134	0
+135	Gladius	21	135	2
+136	Walloon Sword	30	136	2
+137	Viking Sword	37	137	2
+138	Cutlass	43	138	2
+139	Katzbalger	49	139	2
+140	Knight's Sword	54	140	2
+141	Slayer	63	141	2
+142	Bow of Life	21	142	4
+143	Flame Bow	30	143	4
+144	Synthetic Bow	37	144	4
+145	Double Bow	43	145	4
+146	Wild Bow	49	146	4
+147	Large Bow	54	147	4
+148	Siege Bow	63	148	4
+149	Magic Wand of Life	21	149	8
+150	Magic Wand of Flame	30	150	8
+151	Ice Wand	37	151	8
+152	Loon's Wand	43	152	8
+153	Magic Spell Wand	49	153	8
+154	Holy Wand	54	154	8
+155	Soul Wand	63	155	8
+156	Combat Crossbow	21	156	2
+157	Siege Crossbow	48	157	2
+158	Highlander Dirk	21	158	4
+159	Poignard Dagger	48	159	4
+160	Normal Spell Gun	21	160	8
+161	Bronze Spell Gun	48	161	8
+162	Durable Armour	20	162	2
+163	Hard Leather Armour	28	163	2
+164	Victor's Armour	35	164	2
+165	Guardian Armour	42	165	2
+166	Knight's Armour	51	166	2
+167	Stone Armour	58	167	2
+168	Flash Tunic	20	168	4
+169	Tunic of Nature	28	169	4
+170	Sharkskin Tunic	35	170	4
+171	Breath Tunic	42	171	4
+172	Wind Tunic	51	172	4
+173	Dryad Tunic	58	173	4
+174	Beginner's Robe	20	174	8
+175	Soft Robe	28	175	8
+176	Robe of Clarity	35	176	8
+177	Patterned Robe	42	177	8
+178	Magic Robe	51	178	8
+179	Robe of Origins	58	179	8
+180	Amulet of Attack Level	10	180	0
+181	Amulet of Defence Level	10	181	0
+182	Amulet of Attack and Defence Levels	10	182	0
+183	Amulet of Attack Power	10	183	0
+184	Amulet of Defence	10	184	0
+185	Lord Hatus' Gift Box	0	302	0
+186	Smart Men's Hat (30 Days)	20	821	14
+187	Smart Men's Suit (30 Days)	20	820	14
+188	Smart Men's Suit (7 Days)	20	820	14
+189	Smart Men's Suit (Permanent)	20	820	14
+190	Smart Men's Hat (7 Days)	20	821	14
+191	Smart Men's Hat (Permanent)	20	821	14
+192	Samurai Bushtail	1	192	0
+193	Starlight School Uniform (7 Days)	20	193	14
+194	Starlight School Uniform (30 Days)	20	193	14
+195	Starlight School Uniform (Permanent)	20	193	14
+196	Starlight Hairband (7 Days)	20	196	14
+197	Starlight Hairband (30 Days)	20	196	14
+198	Starlight Hairband (Permanent)	20	196	14
+199	Hatus' Dark Lance	88	350	2
+200	Headband	1	200	15
+201	Soft Hat	1	203	1
+202	Leaves for Disguise	3	201	1
+203	Mandra Ear Defenders	7	202	1
+204	Hippo Hat	18	204	15
+205	Smart Glasses	5	205	1
+206	Kovolt Mask	14	206	1
+207	Smart Glasses	5	207	1
+208	Smart Glasses	5	208	1
+209	Smart Glasses	5	209	1
+210	Smart Glasses	5	210	1
+211	Smart Glasses	5	211	1
+212	Smart Glasses	5	212	1
+213	Smart Glasses	5	213	1
+214	Smart Glasses	5	214	1
+215	Antler Hat	20	215	14
+216	Plunger Hat	20	216	14
+217	Head Gear	20	217	14
+218	Feelers	20	218	14
+219	Oracle's Headband	20	219	14
+220	Funny Fish Hat	20	220	14
+221	Beanie Hat	20	221	14
+222	Water Buffalo Horn	20	222	14
+223	Rectangular Glasses	20	223	14
+224	Winking Mask	20	224	14
+225	Bat Mask	20	225	14
+226	Monocle	20	226	14
+227	X Mask	20	227	14
+228	Beard and Make-up	20	228	14
+229	Smart Glasses	5	229	1
+230	Rectangular Glasses	20	230	14
+231	Rectangular Glasses	20	231	14
+232	Rectangular Glasses	20	232	14
+233	Rectangular Glasses	20	233	14
+234	Rectangular Glasses	20	234	14
+235	Rectangular Glasses	20	235	14
+236	Rectangular Glasses	20	236	14
+237	Rectangular Glasses	20	237	14
+238	Rectangular Glasses	20	238	14
+239	Monocle	20	239	14
+240	Monocle	20	240	14
+241	Monocle	20	241	14
+242	Monocle	20	242	14
+243	Monocle	20	243	14
+244	Monocle	20	244	14
+245	Monocle	20	245	14
+246	Monocle	20	246	14
+247	Monocle	20	247	14
+248	Amulet for Blocking All Attacks	10	248	0
+249	Amulet of Fire	10	249	0
+250	Amulet of Water	10	250	0
+251	Amulet of Light	10	251	0
+252	Amulet of Shadow	10	252	0
+253	Amulet for Increasing Dark Energy	10	253	0
+254	Little Chick	0	254	10
+255	Dancing Chicky	0	255	10
+256	Grumbly Chicky	0	256	10
+257	Amulet of Betting Protection (Weapon)	1	257	0
+258	Amulet of Betting Protection (Equipment)	1	258	0
+259	Amulet for Increasing Rarity	1	259	0
+260	Amulet for Improving Fixed-Level Weapons	1	260	0
+261	Amulet of Reinforced Equipment	1	261	0
+262	Elvin's Sword	45	262	2
+263	Glorious Sabre	65	263	2
+264	Broken Elemental Sword	75	264	2
+265	Red Bow	45	265	4
+266	Bow of Peace	65	266	4
+267	Majestic Bow	75	267	4
+268	Red Sage Wand	45	268	8
+269	Ghost Whisper Wand	65	269	8
+270	Majestic Wand	75	270	8
+271	Blue Robe of the Wise	55	271	8
+272	Trial Robe	69	272	8
+273	Solaris	3	804	10
+274	Sellaim	1	274	10
+275	Woondine	2	275	10
+276	Eperial	3	276	10
+277	Turik	4	277	10
+278	Grown Sellaim	1	274	10
+279	Grown Woondine	2	275	10
+280	Grown Eperial	3	276	10
+281	Grown Turik	4	277	10
+282	Blessing Amulet	1	282	0
+283	Protection Amulet	1	283	0
+284	Amulet of Reinforcement	1	284	0
+285	Pet Bead	0	285	0
+286	Partner Bead	0	286	0
+287	Specialist Card Holder	0	287	0
+288	NosMall Inauguration Amulet	10	288	0
+289	Scrammer	44	289	4
+290	Kris	67	290	4
+291	Winslet Crossbow	44	291	2
+292	Balenty Crossbow	67	292	2
+293	Plaz Spell Gun	44	293	8
+294	Ray Spell Gun	67	294	8
+295	Sentinel Look	55	295	4
+296	Robe of Light	69	296	4
+297	Brave Defender	55	297	2
+298	Splendid Defender	69	298	2
+299	Flamberge	70	299	2
+300	Piercing Force Bow	70	300	4
+301	Kai's Wand	70	301	8
+302	Raid Box	0	302	0
+303	Noble Orichalcum Necklace	62	303	0
+304	Ancient Orichalcum Necklace	67	304	0
+305	Noble Orichalcum Ring	63	305	0
+306	Ancient Orichalcum Ring	69	306	0
+307	Noble Orichalcum Bracelet	65	307	0
+308	Ancient Orichalcum Bracelet	70	308	0
+309	Ancient Crystal Necklace	43	309	0
+310	Ancient Crystal Ring	44	310	0
+311	Ancient Crystal Bracelet	45	311	0
+312	Ancient Diamond Necklace	53	312	0
+313	Ancient Diamond Ring	54	313	0
+314	Ancient Diamond Bracelet	55	314	0
+315	Flame Gloves	42	315	0
+316	Storm Gloves	65	316	0
+317	Divine Gloves	71	317	0
+318	Death Gloves	56	318	0
+319	Blaze Shoes	66	319	0
+320	Wave Shoes	57	320	0
+321	Sparkle Shoes	43	321	0
+322	Shadow Shoes	71	322	0
+323	Radal's Red Ring	74	323	0
+324	Radal's Blue Ring	74	324	0
+325	Insoluble Gloves	45	325	0
+326	Guard's Sword	0	326	0
+327	Regular Necklace	0	327	0
+328	Rare Dagger	0	328	0
+329	Rare Sword	0	329	0
+330	Rare Wand	0	330	0
+331	Hellhound Necklace	1	331	0
+332	Phantom's Amulet	0	332	0
+333	Sealed Jajamaru Specialist Card	0	333	0
+334	Sealed Princess Sakura Bead	0	334	0
+335	Sakura	1	335	0
+336	NOS Event Box	0	336	0
+337	Cat Hat	20	337	14
+338	Donkey Hat	20	338	14
+339	Cowboy Hat	20	339	14
+340	Monkey Hat	20	340	14
+341	Antelope Horn Hat	20	341	14
+342	Morning Glory Hat	20	342	14
+343	Penguin Hat	20	343	14
+344	Old Gentleman's Hat	20	344	14
+345	Big Ear Hairband	20	345	14
+346	Flower Vase Hat	20	346	14
+347	Red Mask	1	1211	0
+348	Grasslin Fairy	1	348	0
+349	Thronblade	85	349	2
+350	Eglance	88	350	2
+351	Darkscramer	85	351	4
+352	Hero's Crossbow	85	352	2
+353	Elemental Bow	85	353	4
+354	Hazard Bow	88	354	4
+355	Winged Spell Gun	85	355	8
+356	Seraphim Wand	85	356	8
+357	Taracen Wand	88	357	8
+358	New Armour (Magical)	0	358	8
+359	New Armour (Distance)	0	359	4
+360	New Armour (Physical)	0	360	2
+361	Fierce Mask A	20	361	14
+362	Fierce Mask B	20	362	14
+363	Fierce Mask C	20	363	14
+364	NotUse	20	364	0
+365	Blinder5	20	365	0
+366	Silence Mask A	20	366	14
+367	Silence Mask B	20	367	14
+368	Silence Mask C	20	368	14
+369	Mask4	20	369	0
+370	Mask5	20	370	0
+371	Abyssal Eye Bandage A	20	371	14
+372	Abyssal Eye Bandage B	20	372	14
+373	Abyssal Eye Bandage B	20	373	14
+374	Blinder2 4	20	374	0
+375	Blinder2 5	20	375	0
+376	Shining Battle Gauntlets	45	705	0
+377	Shining Chain Gauntlets	45	706	0
+378	Shining Fast Gloves	45	704	0
+379	Shining Resistance Gloves	45	719	0
+380	Shining Storm Gloves	70	316	0
+381	Shining Flame Gloves	70	315	0
+382	Shining Divine Gloves	70	317	0
+383	Shining Death Gloves	70	318	0
+384	Shining Protective Boots	45	713	0
+385	Shining Heavy Metal Boots	45	715	0
+386	Shining Wind Boots	45	714	0
+387	Shining Steel Boots	45	712	0
+388	Shining Wave Shoes	70	320	0
+389	Shining Fire Shoes	70	319	0
+390	Shining Sparkle Shoes	70	321	0
+391	Shining Shadow Shoes	70	322	0
+392	Treasure Chest (Level 1)	0	392	0
+393	Treasure Chest (Level 2)	0	393	0
+394	Treasure Chest (Level 3)	0	394	0
+395	Treasure Chest (Level 4)	0	395	0
+396	Treasure Chest (Level 5)	0	396	0
+397	Brown Bushi	1	397	0
+398	Gladiator Bushi	1	398	0
+399	Exterminator Bushi	1	399	0
+400	Loopuster	71	400	2
+401	Broken Sword	79	401	2
+402	Bergarce	74	402	2
+403	Seraphion	71	403	4
+404	Caipe'ru	79	404	4
+405	Eca'ra'cci	74	405	4
+406	Mook'razue	71	406	8
+407	Fair'losue	79	407	8
+408	Renobi'r	74	408	8
+409	Cai'lander	78	409	2
+410	Suphi'rudin	78	410	4
+411	Ridy'arce	78	411	8
+412	Roob'raph's Gloves	76	412	0
+413	Executioner Gauntlets	83	413	0
+414	Hazerumble Shoes	77	414	0
+415	Ku'ru'kelron Boots	85	415	0
+416	Diareason Necklace	74	416	0
+417	Rudiselrun's Necklace	77	417	0
+418	Kedenoss Necklace	85	418	0
+419	Diareason Ring	73	419	0
+420	Rudiselrun's Ring	77	420	0
+421	Kedenoss Ring	84	421	0
+422	Diareason Bracelet	75	422	0
+423	Rudiselrun's Bracelet	78	423	0
+424	Kedenoss Bracelet	86	424	0
+425	Azuris	3	425	10
+426	Knight Helmet	20	426	14
+427	Knight Mask	20	427	14
+428	Wig	20	428	30
+429	Spiky Hairstyle	20	429	30
+430	Brown Bushi (Japan)	1	397	0
+431	Exterminator Bushi (Japan)	1	399	0
+432	Fierce Mask A (Japan)	20	361	14
+433	Fierce Mask B (Japan)	20	362	14
+434	Fierce Mask C (Japan)	20	363	14
+435	Abyssal Eye Bandage A (Japan)	20	371	14
+436	Abyssal Eye Bandage B (Japan)	20	372	14
+437	Abyssal Eye Bandage C (Japan)	20	373	14
+438	Silence Mask A (Japan)	20	366	14
+439	Silence Mask B (Japan)	20	367	14
+440	Silence Mask C (Japan)	20	368	14
+441	Colourful Wig	20	441	30
+442	Rare Spiky Hairstyle	20	442	30
+443	Brown Wig	20	428	14
+444	Santa Bushi	1	444	0
+445	Snowman	1	445	0
+446	Panda Hat (7 Days)	20	446	14
+447	Sick Bushtail	1	447	0
+448	New Year Lucky Pig	1	448	0
+449	Lucky Rat	1	449	0
+450	Asian Black Bear Costume (7 Days)	20	450	14
+451	Polar Bear Costume (7 Days)	20	451	14
+452	Panda Costume (7 Days)	20	452	14
+453	Teddy Bear Costume (7 Days)	20	453	14
+454	Asian Black Bear Hat (7 Days)	20	454	14
+455	Polar Bear Hat (7 Days)	20	455	14
+456	Teddy Bear Hat (7 Days)	20	456	14
+457	Rat Hat (Permanent)	20	457	14
+458	Hip-Hop Outfit (7 Days)	20	458	14
+459	Noire Black Sportswear (7 Days)	20	459	14
+460	Sunny Sportswear (7 Days)	20	460	14
+461	Coral Pink Sportswear (7 Days)	20	461	14
+462	Fire Sportswear (7 Days)	20	462	14
+463	Bluesky Sportswear (7 Days)	20	463	14
+464	Fashion Sportswear (7 Days)	20	464	14
+465	Hot Pink Sportswear (7 Days)	20	465	14
+466	Denim Clothing (7 Days)	20	466	14
+467	Green School Uniform (7 Days)	20	467	14
+468	Military Clothing (7 Days)	20	468	14
+469	Yellow School Uniform (7 Days)	20	469	14
+470	Forester Outfit (7 Days)	20	470	14
+471	Purple School Uniform (7 Days)	20	471	14
+472	Fire Clothing (7 Days)	20	472	14
+473	Casual cloth 4 for woman	20	473	14
+474	Heavy Metal Clothes (7 Days)	20	474	14
+475	Casual cloth 5 for woman	20	475	14
+476	Adventurer Clothing (7 Days)	20	476	14
+477	Casual cloth 6 for woman	20	477	14
+478	Orange Hat (Permanent)	20	478	14
+479	Luxury Flowerpot Hat (Permanent)	20	479	14
+480	Nutshell Hat (Permanent)	20	480	14
+481	Blue Founder Hat (Permanent)	20	481	14
+482	Green Founder Hat (Permanent)	20	482	14
+483	Red Founder Hat (Permanent)	20	483	14
+484	Rat Hat (7 Days)	20	457	14
+485	Rat Hat (30 Days)	20	457	14
+486	Orange Hat (7 Days)	20	478	14
+487	Orange Hat (30 Days)	20	478	14
+488	Luxury Flowerpot Hat (7 Days)	20	479	14
+489	Luxury Flowerpot Hat (30 Days)	20	479	14
+490	Nutshell Hat (7 Days)	20	480	14
+491	Nutshell Hat (30 Days)	20	480	14
+492	Blue Founder Hat (7 Days)	20	481	14
+493	Blue Founder Hat (30 Days)	20	481	14
+494	Green Founder Hat (7 Days)	20	482	14
+495	Green Founder Hat (30 Days)	20	482	14
+496	Red Founder Hat (7 Days)	20	483	14
+497	Red Founder Hat (30 Day)	20	483	14
+498	Blessing Amulet (Double Use)	1	498	0
+499	Protection Amulet (Double Use)	1	499	0
+500	Simple Gold Necklace	9	500	0
+501	Refined Gold Necklace	14	501	0
+502	Silver Ring	13	502	0
+503	Fashionable Bracelet	16	503	0
+504	Ancient Mano Necklace	20	504	0
+505	Ancient Mano Ring	21	505	0
+506	Ancient Mano Bracelet	22	506	0
+507	Noble Mano Necklace	23	507	0
+508	Noble Mano Ring	24	508	0
+509	Noble Mano Bracelet	25	509	0
+510	Luxurious Mano Bracelet	26	510	0
+511	Cat's Eye Necklace	30	511	0
+512	Cat's Eye Ring	31	512	0
+513	Cat's Eye Bracelet	32	513	0
+514	Noble Cat's Eye Necklace	33	514	0
+515	Noble Cat's Eye Ring	34	515	0
+516	Noble Cat's Eye Bracelet	35	516	0
+517	Luxurious Cat's Eye Necklace	36	517	0
+518	Luxurious Cat's Eye Bracelet	37	518	0
+519	Crystal Necklace	40	519	0
+520	Crystal Ring	41	520	0
+521	Crystal Bracelet	42	521	0
+522	Noble Crystal Necklace	43	522	0
+523	Noble Crystal Ring	44	523	0
+524	Noble Crystal Bracelet	45	524	0
+525	Luxurious Crystal Ring	46	525	0
+526	Luxurious Crystal Bracelet	47	526	0
+527	Diamond Necklace	50	527	0
+528	Diamond Ring	51	528	0
+529	Diamond Bracelet	52	529	0
+530	Noble Diamond Necklace	53	530	0
+531	Noble Diamond Ring	54	531	0
+532	Noble Diamond Bracelet	55	532	0
+533	Luxurious Diamond Necklace	56	533	0
+534	Luxurious Diamond Ring	57	534	0
+535	Luxurious Diamond Bracelet	58	535	0
+536	Amulet of Strength	10	536	0
+537	Amulet of Resolve	11	537	0
+538	Egg Fairy	1	538	0
+539	Baby Dander	1	539	0
+540	Seedle	1	540	0
+541	Pii	1	541	0
+542	Weak Fire Vampie	1	542	0
+543	Walker	1	543	0
+544	Tired Pink Jelly	1	544	0
+545	Vampie	1	545	0
+546	Boing	1	546	0
+547	Ayam (7 Days)	20	547	14
+548	Ayam (30 Days)	20	547	14
+549	Ayam (Permanent)	20	547	14
+550	Empress Coronet (7 Days)	20	550	14
+551	Empress Coronet (30 Days)	20	550	14
+552	Empress Coronet (Permanent)	20	550	14
+553	Flower Hairpin (7 Days)	20	553	14
+554	Flower Hairpin (30 Days)	20	553	14
+555	Flower Hairpin (Permanent)	20	553	14
+556	Hogeon (7 Days)	20	556	14
+557	Hogeon (30 Days)	20	556	14
+558	Hogeon (Permanent)	20	556	14
+559	Asian Hat (7 Days)	20	559	14
+560	Asian Hat (30 Days)	20	559	14
+561	Asian Hat (Permanent)	20	559	14
+562	Ebosi (7 Days)	20	562	14
+563	Ebosi (30 Days)	20	562	14
+564	Ebosi (Permanent)	20	562	14
+565	Full Shell (Weapon)	0	565	0
+566	Full Shell (Weapon)	0	565	0
+567	Full Shell (Weapon)	0	565	0
+568	Special Shell (Weapon)	0	568	0
+569	Special Shell (Weapon)	0	568	0
+570	Special Shell (Weapon)	0	568	0
+571	PvP Shell (Weapon)	0	571	0
+572	PvP Shell (Weapon)	0	571	0
+573	PvP Shell (Weapon)	0	571	0
+574	Perfect Shell (Weapon)	0	574	0
+575	Perfect Shell (Weapon)	0	574	0
+576	Perfect Shell (Weapon)	0	574	0
+577	Full Shell (Armour)	0	577	0
+578	Full Shell (Armour)	0	577	0
+579	Full Shell (Armour)	0	577	0
+580	Special Shell (Armour)	0	580	0
+581	Special Shell (Armour)	0	580	0
+582	Special Shell (Armour)	0	580	0
+583	PvP Shell (Armour)	0	583	0
+584	PvP Shell (Armour)	0	583	0
+585	PvP Shell (Armour)	0	583	0
+586	Perfect Shell (Armour)	0	586	0
+587	Perfect Shell (Armour)	0	586	0
+588	Perfect Shell (Armour)	0	586	0
+589	Half Shell (Weapon)	0	589	0
+590	Half Shell (Weapon)	0	589	0
+591	Half Shell (Weapon)	0	589	0
+592	Half Shell (Weapon)	0	589	0
+593	Half Shell (Weapon)	0	589	0
+594	Half Shell (Weapon)	0	589	0
+595	Half Shell (Weapon)	0	589	0
+596	Half Shell (Weapon)	0	589	0
+597	Half Shell (Weapon)	0	589	0
+598	Half Shell (Weapon)	0	589	0
+599	Half Shell (Armour)	0	599	0
+600	Asian Black Bear Costume (30 Days)	20	450	14
+601	Polar Bear Costume (30 Days)	20	451	14
+602	Panda Costume (30 Days)	20	452	14
+603	Teddy Bear Costume (30 Days)	20	453	14
+604	Hip-Hop Outfit (30 Days)	20	458	14
+605	Noire Black Sportswear (30 Days)	20	459	14
+606	Sunny Sportswear (30 Days)	20	460	14
+607	Coral Pink Sportswear (30 Days)	20	461	14
+608	Fire Sportswear (30 Days)	20	462	14
+609	Bluesky Sportswear (30 Days)	20	463	14
+610	Fashion Sportswear (30 Days)	20	464	14
+611	Hot Pink Sportswear (30 Days)	20	465	14
+612	Denim Clothing (30 Days)	20	466	14
+613	Green School Uniform (30 Days)	20	467	14
+614	Military Clothing (30 Days)	20	468	14
+615	Yellow School Uniform (30 Days)	20	469	14
+616	Forester Outfit (30 Days)	20	470	14
+617	Purple School Uniform (30 Days)	20	471	14
+618	Fire Clothing (30 Days)	20	472	14
+619	Casual cloth 4 for woman (30 days)	20	473	14
+620	Heavy Metal Clothes (30 Days)	20	474	14
+621	Casual cloth 5 for women (30 days)	20	475	14
+622	Adventurer Clothing (30 Days)	20	476	14
+623	Casual cloth 6 for women (30 days)	20	477	14
+624	Asian Black Bear Costume (Permanent)	20	450	14
+625	Polar Bear Costume (Permanent)	20	451	14
+626	Panda Costume (Permanent)	20	452	14
+627	Teddy Bear Costume (Permanent)	20	453	14
+628	Hiphop Outfit (Permanent)	20	458	14
+629	Noire Black Sportswear (Permanent)	20	459	14
+630	Sunny Sportswear (Permanent)	20	460	14
+631	Coral Pink Sportswear (Permanent)	20	461	14
+632	Fire Sportswear (Permanent)	20	462	14
+633	Bluesky Sportswear (Permanent)	20	463	14
+634	Fashion Sportswear (Permanent)	20	464	14
+635	Hot Pink Sportswear (Permanent)	20	465	14
+636	Denim Clothing (Permanent)	20	466	14
+637	Green School Uniform (Permanent)	20	467	14
+638	Military Clothing (Permanent)	20	468	14
+639	Yellow School Uniform (Permanent)	20	469	14
+640	Forester Outfit (Permanent)	20	470	14
+641	Purple School Uniform (Permanent)	20	471	14
+642	Fire Clothing (Permanent)	20	472	14
+643	Casual cloth 4 for woman (permanent)	20	473	14
+644	Heavy Metal Clothes (Permanent)	20	474	14
+645	Casual cloth 5 for woman (permanent)	20	475	14
+646	Adventurer Clothing (Permanent)	20	476	14
+647	Casual cloth 6 for woman (permanent)	20	477	14
+648	Panda Hat (30 Days)	20	446	14
+649	Asian Black Bear Hat (30 Days)	20	454	14
+650	Polar Bear Hat (30 Days)	20	455	14
+651	Teddy Bear Hat (30 Days)	20	456	14
+652	Panda Hat (Permanent)	20	446	14
+653	Asian Black Bear Hat (Permanent)	20	454	14
+654	Polar Bear Hat (Permanent)	20	455	14
+655	Teddy Bear Hat (Permanent)	20	456	14
+656	Half Shell (Armour)	0	599	0
+657	Half Shell (Armour)	0	599	0
+658	Half Shell (Armour)	0	599	0
+659	Half Shell (Armour)	0	599	0
+660	Half Shell (Armour)	0	599	0
+661	Half Shell (Armour)	0	599	0
+662	Half Shell (Armour)	0	599	0
+663	Half Shell (Armour)	0	599	0
+664	Half Shell (Armour)	0	599	0
+665	Spring Hanbok (7 Days)	20	665	14
+666	Spring Hanbok (30 Days)	20	665	14
+667	Spring Hanbok (Permanent)	20	665	14
+668	Rainbow Hanbok (7 Days)	20	668	14
+669	Rainbow Hanbok (30 Days)	20	668	14
+670	Rainbow Hanbok (Permanent)	20	668	14
+671	Summer Hanbok (7 Days)	20	671	14
+672	Summer Hanbok (30 Days)	20	671	14
+673	Summer Hanbok (Permanent)	20	671	14
+674	Kung Fu Chipao (7 Days)	20	674	14
+675	Kung Fu Chipao (30 Days)	20	674	14
+676	Kung Fu Chipao (Permanent)	20	674	14
+677	Emperor Chipao (7 Days)	20	677	14
+678	Emperor Chipao (30 Days)	20	677	14
+679	Emperor Chipao (Permanent)	20	677	14
+680	Dragon Chipao (7 Days)	20	680	14
+681	Dragon Chipao (30 Days)	20	680	14
+682	Dragon Chipao (Permanent)	20	680	14
+683	Moonlight Kimono (7 Days)	20	683	14
+684	Moonlight Kimono (30 Days)	20	683	14
+685	Moonlight Kimono (Permanent)	20	683	14
+686	Sunlight Kimono (7 Days)	20	686	14
+687	Sunlight Kimono (30 Days)	20	686	14
+688	Sunlight Kimono (Permanent)	20	686	14
+689	Dadami Kimono (7 Days)	20	689	14
+690	Dadami Kimono (30 Days)	20	689	14
+691	Dadami Kimono (Permanent)	20	689	14
+692	Fire Rose Costume (7 Days)	20	692	14
+693	Fire Rose Costume (30 Days)	20	692	14
+694	Fire Rose Costume (Permanent)	20	692	14
+695	Fresh Mint Costume (7 Days)	20	695	14
+696	Fresh Mint Costume (30 Days)	20	695	14
+697	Fresh Mint Costume (Permanent)	20	695	14
+698	Chocolate Costume (7 Days)	20	698	14
+699	Chocolate Costume (30 Days)	20	698	14
+700	Light Gloves	22	700	0
+701	Silk Gloves	27	701	0
+702	Magic Gloves	34	702	0
+703	Light Gauntlets	39	703	0
+704	Fast Gloves	43	704	0
+705	Battle Gauntlets	48	705	0
+706	Chain Gauntlets	52	706	0
+707	Flash Gloves	57	707	0
+708	Light Boots	24	708	0
+709	Fast Shoes	26	709	0
+710	Chain Boots	33	710	0
+711	Leather Boots	38	711	0
+712	Steel Boots	42	712	0
+713	Protective Boots	47	713	0
+714	Wind Boots	51	714	0
+715	Heavy Metal Boots	56	715	0
+716	Oven Mitts	17	716	0
+717	Shining Gloves	25	717	0
+718	Wind Gloves	30	718	0
+719	Gloves of Resistance	54	719	0
+720	Shadow Gloves	61	720	0
+721	Black Shoes	18	721	0
+722	Water Shoes	30	722	0
+723	Punk Boots	40	723	0
+724	Flame Boots	49	724	0
+725	Deep Sea Boots	60	725	0
+726	Chocolate Costume (Permanent)	20	698	14
+727	Azalea Hanbok (7 Days)	20	727	14
+728	Azalea Hanbok (30 Days)	20	727	14
+729	Azalea Hanbok (Permanent)	20	727	14
+730	Crocus Hanbok (7 Days)	20	730	14
+731	Crocus Hanbok (30 Days)	20	730	14
+732	Crocus Hanbok (Permanent)	20	730	14
+733	Rose Hanbok (7 Days)	20	733	14
+734	Rose Hanbok (30 Days)	20	733	14
+735	Rose Hanbok (Permanent)	20	733	14
+736	Lavender Chipao (7 Days)	20	736	14
+737	Lavender Chipao (30 Days)	20	736	14
+738	Lavender Chipao (Permanent)	20	736	14
+739	Phoenix Chipao (7 Days)	20	739	14
+740	Phoenix Chipao (30 Days)	20	739	14
+741	Phoenix Chipao (Permanent)	20	739	14
+742	Black Chipao (7 Days)	20	742	14
+743	Black Chipao (30 Days)	20	742	14
+744	Black Chipao (Permanent)	20	742	14
+745	Cherry Blossom Kimono (7 Days)	20	745	14
+746	Cherry Blossom Kimono (30 Days)	20	745	14
+747	Cherry Blossom Kimono (Permanent)	20	745	14
+748	Lily Kimono (7 Days)	20	748	14
+749	Lily Kimono (30 Days)	20	748	14
+750	Lily Kimono (Permanent)	20	748	14
+751	Kunoichi Kimono (7 Days)	20	751	14
+752	Kunoichi Kimono (30 Days)	20	751	14
+753	Kunoichi Kimono (Permanent)	20	751	14
+754	Fast Sabre	68	263	2
+755	Heavy Greatsword	73	299	2
+756	Forest Bow	68	266	4
+757	Dark Angelus Bow	73	300	4
+758	Red Skull Wand	68	269	8
+759	Archmage Wand	73	301	8
+760	Elven Crossbow	64	77	2
+761	Ballista	72	292	2
+762	Elven Dagger	64	85	4
+763	Shadow Kris	72	290	4
+764	Spirit Spell Gun	64	93	8
+765	Star Spell Gun	72	294	8
+766	Bodyguard	65	106	2
+767	Heavy Defender	74	298	2
+768	Hunter's Tunic	65	119	4
+769	Breezy Robe	74	296	4
+770	Evil Robe	65	132	8
+771	Robe of Wisdom	74	272	8
+772	Midnight Boots	64	725	0
+773	Spirit Shoes	64	414	0
+774	Dawn Gloves	66	720	0
+775	Blaze Gloves	66	412	0
+776	Full Moon Amulet	65	303	0
+777	Amethyst Necklace	75	416	0
+778	Emerald Bracelet	62	535	0
+779	Full Moon Bracelet	68	307	0
+780	Aquamarine Ring	60	313	0
+781	Full Moon Ring	66	305	0
+782	Dalmatian Costume (7 Days)	20	782	14
+783	Dalmatian Costume (30 Days)	20	782	14
+784	Dalmatian Costume (Permanent)	20	782	14
+785	Rottweiler Costume (7 Days)	20	785	14
+786	Rottweiler Costume (30 Days)	20	785	14
+787	Rottweiler Costume (Permanent)	20	785	14
+788	Siamese Cat Costume (7 Days)	20	788	14
+789	Siamese Cat Costume (30 Days)	20	788	14
+790	Siamese Cat Costume (Permanent)	20	788	14
+791	Russian Blue Cat Costume (7 Days)	20	791	14
+792	Russian Blue Cat Costume (30 Days)	20	791	14
+793	Russian Blue Cat Costume (Permanent)	20	791	14
+794	Playful Bunny Costume (7 Days)	20	794	14
+795	Playful Bunny Costume (30 Days)	20	794	14
+796	Playful Bunny Costume (Permanent)	20	794	14
+797	Adorable Bunny Costume (7 Days)	20	797	14
+798	Adorable Bunny Costume (30 Days)	20	797	14
+799	Adorable Bunny Costume (Permanent)	20	797	14
+800	Fire Fairy	1	800	10
+801	Water Fairy	2	801	10
+802	Light Fairy	3	802	10
+803	Shadow Fairy	4	803	10
+804	Light Lion Costume (7 Days)	20	805	14
+805	Light Lion Costume (30 Days)	20	805	14
+806	Light Lion Costume (Permanent)	20	805	14
+807	Dark Lion Costume (7 Days)	20	807	14
+808	Dark Lion Costume (30 Days)	20	807	14
+809	Dark Lion Costume (Permanent)	20	807	14
+810	Bulldog Costume (7 Days)	20	810	14
+811	Bulldog Costume (30 Days)	20	810	14
+812	Bulldog Costume (Permanent)	20	810	14
+813	Saint Bernard Costume (7 Days)	20	813	14
+814	Saint Bernard Costume (30 Days)	20	813	14
+815	Saint Bernard Costume (Permanent)	20	813	14
+816	Burma Cat Costume (7 Days)	20	816	14
+817	Burma Cat Costume (30 Days)	20	816	14
+818	Burma Cat Costume (Permanent)	20	816	14
+819	Korat Cat Costume (7 Days)	20	819	14
+820	Korat Cat Costume (30 Days)	20	819	14
+821	Korat Cat Costume (Permanent)	20	819	14
+822	March Hare Costume (7 Days)	20	822	14
+823	March Hare Costume (30 Days)	20	822	14
+824	March Hare Costume (Permanent)	20	822	14
+825	White Rabbit Costume (7 Days)	20	825	14
+826	White Rabbit Costume (30 Days)	20	825	14
+827	White Rabbit Costume (Permanent)	20	825	14
+828	Golden Lion Costume (7 Days)	20	828	14
+829	Golden Lion Costume (30 Days)	20	828	14
+830	Golden Lion Costume (Permanent)	20	828	14
+831	Black Lion Costume (7 Days)	20	831	14
+832	Black Lion Costume (30 Days)	20	831	14
+833	Black Lion Costume (Permanent)	20	831	14
+834	Dalmatian Hat (7 Days)	20	834	14
+835	Dalmatian Hat (30 Days)	20	834	14
+836	Dalmatian Hat (Permanent)	20	834	14
+837	Rottweiler Hat (7 Days)	20	837	14
+838	Rottweiler Hat (30 Days)	20	837	14
+839	Rottweiler Hat (Permanent)	20	837	14
+840	Siamese Cat Hat (7 Days)	20	840	14
+841	Siamese Cat Hat (30 Days)	20	840	14
+842	Siamese Cat Hat (Permanent)	20	840	14
+843	Russian Blue Cat Hat (7 Days)	20	843	14
+844	Russian Blue Cat Hat (30 Days)	20	843	14
+845	Russian Blue Cat Hat (Permanent)	20	843	14
+846	Playful Bunny Ears (7 Days)	20	846	14
+847	Playful Bunny Ears (30 Days)	20	846	14
+848	Playful Bunny Ears (Permanent)	20	846	14
+849	Adorable Bunny Ears (7 Days)	20	849	14
+850	Adorable Bunny Ears (30 Days)	20	849	14
+851	Adorable Bunny Ears (Permanent)	20	849	14
+852	Light Lion Hat (7 Days)	20	852	14
+853	Light Lion Hat (30 Days)	20	852	14
+854	Light Lion Hat (Permanent)	20	852	14
+855	Dark Lion Hat (7 Days)	20	855	14
+856	Dark Lion Hat (30 Days)	20	855	14
+857	Dark Lion Hat (Permanent)	20	855	14
+858	Bulldog Hat (7 Days)	20	858	14
+859	Bulldog Hat (30 Days)	20	858	14
+860	Bulldog Hat (Permanent)	20	858	14
+861	Saint Bernard Hat (7 Days)	20	861	14
+862	Saint Bernard Hat (30 Days)	20	861	14
+863	Saint Bernard Hat (Permanent)	20	861	14
+864	Burma Cat Hat (7 Days)	20	864	14
+865	Burma Cat Hat (30 Days)	20	864	14
+866	Burma Cat Hat (Permanent)	20	864	14
+867	Korat Cat Hat (7 Days)	20	867	14
+868	Korat Cat Hat (30 Days)	20	867	14
+869	Korat Cat Hat (Permanent)	20	867	14
+870	March Hare Hat (7 Days)	20	870	14
+871	March Hare Hat (30 Days)	20	870	14
+872	March Hare Hat (Permanent)	20	870	14
+873	White Rabbit Hat (7 Days)	20	873	14
+874	White Rabbit Hat (30 Days)	20	873	14
+875	White Rabbit Hat (Permanent)	20	873	14
+876	Golden Lion Hat (7 Days)	20	876	14
+877	Golden Lion Hat (30 Days)	20	876	14
+878	Golden Lion Hat (Permanent)	20	876	14
+879	Black Lion Hat (7 Days)	20	879	14
+880	Black Lion Hat (30 Days)	20	879	14
+881	Black Lion Hat (Permanent)	20	879	14
+882	Lord Morcos' Chest	0	302	0
+883	Lord Mukraju's Box	0	1168	0
+884	Fire Fairy (30%)	1	800	10
+885	Water Fairy (30%)	2	801	10
+886	Light Fairy (30%)	3	802	10
+887	Shadow Fairy (30%)	4	803	10
+888	Aqua Bushtail	1	888	0
+889	Fairy Costume (7 Days)	20	889	14
+890	Fairy Costume (30 Days)	20	889	14
+891	Fairy Costume (Permanent)	20	889	14
+892	Demon Costume (7 Days)	20	892	14
+893	Demon Costume (30 Days)	20	892	14
+894	Demon Costume (Permanent)	20	892	14
+895	Fairy Hairband (7 Days)	20	895	14
+896	Fairy Hairband (30 Days)	20	895	14
+897	Fairy Hairband (Permanent)	20	895	14
+898	Demon Hat (7 Days)	20	898	14
+899	Demon Hat (30 Days)	20	898	14
+900	Pyjama Specialist Card	1	900	31
+901	Warrior Specialist Card	1	901	2
+902	Ninja Specialist Card	1	902	2
+903	Ranger Specialist Card	1	903	4
+904	Assassin Specialist Card	1	904	4
+905	Red Magician Specialist Card	1	905	8
+906	Holy Mage SP	1	906	8
+907	Chicken Specialist Card	1	907	31
+908	Jajamaru Specialist Card	1	908	30
+909	Crusader Specialist Card	1	909	2
+910	Berserker Specialist Card	1	910	2
+911	Destroyer Specialist Card	1	911	4
+912	Wild Keeper Specialist Card	1	912	4
+913	Blue Magician Specialist Card	1	913	8
+914	Dark Gunner Specialist Card	1	914	8
+915	Demon Hat (Permanent)	20	898	14
+916	Fairy Hairband (1 Day)	20	895	14
+917	Demon Hat (1 Day)	20	898	14
+918	Fairy Costume (1 Day)	20	889	14
+919	Demon Costume (1 Day)	20	892	14
+920	Red Magical Fairy	1	920	10
+921	Eternal Flame Gloves	70	315	14
+922	Eternal Storm Gloves	70	316	14
+923	Eternal Divine Gloves	70	317	14
+924	Eternal Death Gloves	70	318	14
+925	Hawaii Costume (m) (7 Days)	20	925	14
+926	Hawaii Costume (m) (30 Days)	20	925	14
+927	Hawaii Costume (m) (Permanent)	20	925	14
+928	Hawaii Costume (f) (7 Days)	20	934	14
+929	Pegasus	1	929	0
+930	Cute Bunny	1	930	0
+931	Hawaii Costume (f) (30 Days)	20	934	14
+932	Hawaii Costume (f) (Permanent)	20	934	14
+933	Hawaii Headdress (m) (7 Days)	20	933	14
+934	Hawaii Headdress (m) (30 Days)	20	933	14
+935	Hawaii Headdress (m) (Permanent)	20	933	14
+936	Hawaii Headdress (f) (7 Days)	20	936	14
+937	Hawaii Headdress (f) (30 Days)	20	936	14
+938	Hawaii Headdress (f) (Permanent)	20	936	14
+939	none	0	939	0
+940	Hatus' Abyss Bow	88	354	4
+941	Hatus' Infernal Staff	88	357	8
+942	Lady Calvinas' Gift Box	0	302	0
+943	Boxer Bushi	1	943	0
+944	Calvinas' Firestorm Sword	88	350	2
+945	Calvinas' Redwave Bow	88	354	4
+946	Calvinas' Waterflower Wand	88	357	8
+947	Calvinas' Bluethorn Crossbow	88	292	2
+948	Calvinas' Bluetooth Dagger	88	290	4
+949	Calvinas' Bluehorn Spellgun	88	294	8
+950	Pumpkin Bushtail	1	950	0
+951	Blue Marine Suit (1 Day)	20	951	14
+952	Blue Marine Suit (7 Days)	20	951	14
+953	Blue Marine Suit (30 Days)	20	951	14
+954	Blue Marine Suit (Permanent)	20	951	14
+955	Blue Sailor Suit (1 Day)	20	955	14
+956	Blue Sailor Suit (7 Days)	20	955	14
+957	Blue Sailor Suit (30 Days)	20	955	14
+958	Blue Sailor Suit (Permanent)	20	955	14
+959	Blue Marine Cap (1 Day)	20	959	14
+960	Blue Marine Cap (7 Days)	20	959	14
+961	Blue Marine Cap (30 Days)	20	959	14
+962	Blue Marine Cap (Permanent)	20	959	14
+963	Blue Sailor Cap (1 Day)	20	963	14
+964	Blue Sailor Cap (7 Days)	20	963	14
+965	Blue Sailor Cap (30 Days)	20	963	14
+966	Blue Sailor Cap (Permanent)	20	963	14
+967	Tarot Card (Death)	1	660	0
+968	Tarot Card (The Sun)	1	588	0
+969	none	20	969	14
+970	Classic Bushi Costume (Permanent)	20	969	14
+971	none	20	971	14
+972	Classic Bushi Hat (Permanent)	20	971	14
+973	Christmas Hat (1 Day)	20	973	14
+974	Christmas Hat (7 Days)	20	973	14
+975	Christmas Hat (30 Days)	20	973	14
+976	Christmas Costume (1 Day)	20	976	14
+977	Christmas Costume (7 Days)	20	976	14
+978	Christmas Costume (30 Days)	20	976	14
+979	Super Santa Bushi	1	444	0
+980	Bull Bushtail	1	921	0
+981	Wedding Clothes (3 Days)	20	981	30
+982	Wedding Clothes (7 Days)	20	981	30
+983	Wedding Clothes (30 Days)	20	981	30
+984	Wedding Clothes (Permanent)	20	981	30
+985	Wedding Hairstyle (3 Days)	20	4000	30
+986	Wedding Hairstyle (7 Days)	20	4000	30
+987	Wedding Hairstyle (30 Days)	20	4000	30
+988	Wedding Hairstyle (Permanent)	20	4000	30
+989	Berios' Crystal Robe	70	281	8
+990	Weapon for Partner (Melee)	0	990	0
+991	Weapon for Partner (Ranged)	0	991	0
+992	Weapon for Partner (Magic)	0	992	0
+993	Berios' Crystal Tunic	70	280	4
+994	Berios' Crystal Armour	70	279	2
+995	Armour for Partner (Magic)	0	995	0
+996	Armour for Partner (Ranged)	0	996	0
+997	Armour for Partner (Melee)	0	997	0
+998	none	1	259	0
+999	Baron Berios' Treasure Chest	0	302	0
+1000	Pull Lever (Before)	-24	1000	0
+1001	Old Box	4	1001	0
+1002	Small Health Potion	44	1002	0
+1003	Medium Health Potion	88	1003	0
+1004	Large Health Potion	-24	1004	0
+1005	Small Mana Potion	0	1005	0
+1006	Medium Mana Potion	0	1006	0
+1007	Large Mana Potion	0	1007	0
+1008	Small Recovery Potion	44	1008	0
+1009	Medium Recovery Potion	88	1009	0
+1010	Large Recovery Potion	-24	1010	0
+1011	Huge Recovery Potion	-36	1011	0
+1012	Seed of Power	0	1012	0
+1013	Gillion Stone	0	1013	0
+1014	Cella Powder	0	1014	0
+1015	Soul Gem	0	1015	0
+1016	Complete Soul Gem	0	1016	0
+1017	Cellon (Level 1)	100	1017	0
+1018	Cellon (Level 2)	100	1018	0
+1019	Cellon (Level 3)	100	1019	0
+1020	Cellon (Level 4)	100	1020	0
+1021	Cellon (Level 5)	100	1021	0
+1022	Cellon (Level 6)	100	1022	0
+1023	Cellon (Level 7)	100	1023	0
+1024	Cellon (Level 8)	100	1024	0
+1025	Cellon (Level 9)	100	1025	0
+1026	Cellon (Level 10)	0	1026	0
+1027	Dona River Sand	0	1027	0
+1028	New Moon Crystal	0	1028	0
+1029	Half Moon Crystal	0	1029	0
+1030	Full Moon Crystal	0	1030	0
+1031	Red Crystal Piece	0	1031	0
+1032	Blue Crystal Piece	0	1032	0
+1033	White Crystal Piece	0	1033	0
+1034	Black Crystal Piece	0	1034	0
+1035	Production Tools for Adventurers	100	1035	0
+1036	Soul Gem Refiner	10	1036	0
+1037	Cellon Refiner	10	1037	0
+1038	Crystal Refiner	10	1038	0
+1039	Production Tools for Swordsmen	100	1039	0
+1040	Produces Tools for Archers	100	1040	0
+1041	Produces Tools for Sorcerers	100	1041	0
+1042	Regular Box	4	1042	0
+1043	Luxurious Box	4	1043	0
+1044	Secret Box	4	1044	0
+1045	Pull Lever (After)	-24	1045	0
+1046	Gold	70	1046	0
+1047	Production Tools for Accessories	100	1047	0
+1048	Mysterious Crystal Ball (Before)	-23	1048	0
+1049	Mysterious Crystal Ball (After)	-23	1049	0
+1050	Bonus Box	4	1050	0
+1051	Button (Before)	-24	1051	0
+1052	Button (After)	-24	1052	0
+1053	Wooden Lever (Before)	-24	1053	0
+1054	Wooden Lever (After)	-24	1054	0
+1055	Devil Sculpture (Before)	-23	1055	0
+1056	Devil Sculpture (After)	-23	1056	0
+1057	Sealed Key	4	1057	0
+1058	Duke's Research Materials	0	1058	0
+1059	Artifact	0	1059	0
+1060	Increases attack power.	20	1044	0
+1061	Increases defence power.	20	1044	0
+1062	Increases melee defence.	20	1044	0
+1063	Increases ranged defence.	20	1044	0
+1064	Increases magic defence.	20	1044	0
+1065	Mana Chest	20	1044	0
+1066	Strong Energy	20	1044	0
+1067	Recovery Chest	20	1044	0
+1068	Random Effect	21	1044	0
+1069	NosMate Resurrection	20	1044	0
+1070	Acceleration	20	1044	0
+1071	Mighty Shield	20	1044	0
+1072	Production Tools for Gems, Cellons and Crystals	100	1072	0
+1073	Production Tools for Raw Materials	100	1073	0
+1074	Healing Capsule	12	2138	0
+1075	Click Miniland	9	1053	0
+1076	Huge Recovery Potion	12	1011	0
+1077	NotUse	0	1077	0
+1078	Specialist Point Potion	-106	1078	0
+1079	Land Point Recharger	0	1079	0
+1080	Quick Time Stone	0	1080	0
+1081	Picnic Basket	-120	1081	0
+1082	Barbecue	-32	1082	0
+1083	Production Tools for Gloves and Shoes	100	1083	0
+1084	Small Signpost	100	1084	0
+1085	Large Signpost	100	1085	0
+1086	Wild Sound Flower	0	1086	0
+1087	Sound Flower	0	1087	0
+1088	Gold Reward	0	1088	0
+1089	Experience Reward	0	1089	0
+1090	Job Experience Reward	0	1090	0
+1091	Reputation Reward	0	1091	0
+1092	Group Time-Space Piece	100	1092	0
+1093	Individual Time-Space Piece	100	1093	0
+1094	Raid Time-Space Piece	100	1094	0
+1095	Hunting Time-Space Piece	100	1095	0
+1096	Laboratory Time-Space Piece	100	1093	0
+1097	Bonus Points	0	1097	0
+1098	Mysterious Box	0	1098	0
+1099	Chicken Feathers	-47	1099	0
+1100	Blue Cuby	-47	1100	0
+1101	Deserted Skull	0	1101	0
+1102	Spider Troops - Part 2	-116	1102	0
+1103	Skin for Bob	49	1103	0
+1104	Shackles of the Past - Part 2	-116	1102	0
+1105	Shackles of the Past - Part 3	-116	1102	0
+1106	Cake	0	1106	0
+1107	N (Event)	100	1107	0
+1108	O (Event)	100	1108	0
+1109	S (Event)	100	1109	0
+1110	! (Event)	100	1110	0
+1111	Duke's Research Data	0	1111	0
+1112	New Item	0	1112	0
+1113	Lily of Purity	-48	1113	0
+1114	Instant Recharge Specialist Card	71	2144	0
+1115	Medal of Erenia	-55	1115	0
+1116	Adventurer's Medal	-54	1116	0
+1117	Self-Introduction	-53	1117	0
+1118	Small Special Potion	-105	1118	0
+1119	Medium Special Potion	-105	1119	0
+1120	Large Special Potion	-105	1120	0
+1121	Laboratory Finale Time-Space Piece	-116	1102	0
+1122	Cylloan Spring Water	-72	1122	0
+1123	NosMall Inauguration Quest	0	1123	0
+1124	Balloon Decoration	-48	1124	0
+1125	Golden Bell	0	1125	0
+1126	Silver Bell	0	1126	0
+1127	Mother Cuby Seal	45	1127	0
+1128	Ginseng Seal	45	1128	0
+1129	Dark Castra Seal	45	1129	0
+1130	Giant Black Spider Seal	45	1130	0
+1131	Massive Slade Seal	45	1131	0
+1132	Mysterious Box	0	1132	0
+1133	Event Box	0	1133	0
+1134	Event Coupon	-56	1134	0
+1135	Trigger	-23	1135	0
+1136	Trigger (After)	-23	1136	0
+1137	Teleport Lever	-23	1137	0
+1138	Teleport Lever	-23	1138	0
+1139	Teleport Bone	-23	1139	0
+1140	Teleport Bone	-23	1140	0
+1141	Skin for Tom	49	1141	0
+1142	Skin for Kliff	49	1142	0
+1143	Specialist Medal	-52	1143	0
+1144	Bronze Bell	0	1144	0
+1145	Antler	0	1145	0
+1146	1st Secret Partner Time-Space Stone	-116	1146	0
+1147	2nd Secret Partner Time-Space Stone	-116	1146	0
+1148	3rd Secret Partner Time-Space Stone	-116	1146	0
+1149	Medal of Friendship	-51	1149	0
+1150	Shadow of Zenas Raid Seal	0	1150	0
+1151	Black Slate	33	1151	0
+1152	Captain Lance's Cigarette Packet	0	1152	0
+1153	Fragrant Grass	0	1153	0
+1154	Glittering Water	0	1154	0
+1155	Mandra Flower	0	1155	0
+1156	Homing Perfume	81	1156	0
+1157	Sniffer Net	82	1157	0
+1158	Magic Powder	119	1158	0
+1159	Fire Slade's Glowing Heart	0	1159	0
+1160	Blood-Red Ruby	-115	1160	0
+1161	Small Blood-Red Ruby	0	1161	0
+1162	Blossom Tree Fruit	0	1162	0
+1163	Mole Whiskers	0	1163	0
+1164	Super Mask	-80	1164	0
+1165	Super Pants	-80	1165	0
+1166	Super Cloak	-80	1166	0
+1167	Super Spellgun	-80	1167	0
+1168	Treasure Chest	0	1168	0
+1169	Whirl Sculpture	-78	1169	0
+1170	Black Gourd Bottle	0	1170	0
+1171	Black Dog Bone	0	1171	0
+1172	Black Powder	0	1172	0
+1173	Suction Funnel	-112	1173	0
+1174	Kenko Bead	0	1174	0
+1175	Amulet of Soul	-66	1175	0
+1176	Branch of Innocence	0	1176	0
+1177	Holy Branch	0	1177	0
+1178	Wheat	0	1178	0
+1179	Iron Ore	0	1179	0
+1180	Sniffer	0	1180	0
+1181	NotUse	0	1181	0
+1182	Block Button	-23	1135	0
+1183	Block Button (Used)	-23	1136	0
+1184	Gate 1	-116	1102	0
+1185	Gate 2	-116	1102	0
+1186	Gate 3	-116	1102	0
+1187	Mimi's Medal	-50	1149	0
+1188	Ribbon	0	1188	0
+1189	Gift Box	0	1189	0
+1190	Valentine's Day Gift	-55	1190	0
+1191	Amber of Light	0	1191	0
+1192	Amber of Shadows	0	1192	0
+1193	Amber of Water	0	1193	0
+1194	Amber of Fire	0	1194	0
+1195	Chicken King Seal	45	1195	0
+1196	NotUse	0	1196	0
+1197	none	0	1370	0
+1198	none	-54	1198	0
+1199	Fruit Juice	0	1199	0
+1200	Sticky Clay	0	1200	0
+1201	Shinebone Statue	-66	1201	0
+1202	Brick	-63	1202	0
+1203	Lawn	-62	1203	0
+1204	Spade	-61	1204	0
+1205	Treasure Map	-60	1205	0
+1206	Dog Mask	-58	1206	0
+1207	Shiny Hat	-23	1207	0
+1208	Pickaxe	-26	1208	0
+1209	Sparkling Rock	-25	1209	0
+1210	Small Hand Mirror	-21	1210	0
+1211	Potion of Salvation	0	347	0
+1212	Red Cloth	-19	1212	0
+1213	Beast Tooth	0	1213	0
+1214	Precious Vase	-9	1214	0
+1215	Part of a Letter	2	1215	0
+1216	Black Diamond Key	0	1216	0
+1217	Hammer of Pain	0	1217	0
+1218	Equipment Protection Scroll	0	1218	0
+1219	Release Scroll	0	1219	0
+1220	Giant Hammer	0	1220	0
+1221	Spirit Essence	0	1221	0
+1222	Fairy Dust	0	1222	0
+1223	Soul Crystal	0	1223	0
+1224	Princess Sakura's Hairpin	0	1224	0
+1225	Hat-Shaped Stone	0	1225	0
+1226	Namaju Raid Seal	45	1226	0
+1227	Rainbow Battle Registration	0	1227	0
+1228	Damaged Key	26	1228	0
+1229	Black Diamond	26	1229	0
+1230	Chicken Drumstick	-53	1230	0
+1231	Bamboo	-53	1231	0
+1232	Fragrant Bag	0	1232	0
+1233	Rice	-53	1233	0
+1234	Grasslin Seal	45	1234	0
+1235	Construction Plan (Level 1)	100	1235	0
+1236	Construction Plan (Level 2)	100	1236	0
+1237	Boot Combination Recipe A	100	1237	0
+1238	Boot Combination Recipe B	100	1238	0
+1239	Glove Combination Recipe A	100	1239	0
+1240	Glove Combination Recipe B	100	1240	0
+1241	Consumables Recipe	100	1241	0
+1242	Divine Health Potion	0	1242	0
+1243	Divine Mana Potion	0	1243	0
+1244	Divine Recovery Potion	0	1244	0
+1245	Basic SP Recovery Potion	-104	1245	0
+1246	Attack Potion	0	1246	0
+1247	Defence Potion	0	1247	0
+1248	Energy Potion	0	1248	0
+1249	Experience Potion	0	1249	0
+1250	Altair's Heart	0	1250	0
+1251	Vega's Tears	0	1251	0
+1252	Feather	0	1252	0
+1253	Chilsug Present	0	1253	0
+1254	Cold Heart	0	1254	0
+1255	Daisy	0	1255	0
+1256	Iris	0	1256	0
+1257	Small Bell	-78	1257	0
+1258	Fever's Moulted Skin	0	1258	0
+1259	Moth Powder	0	1259	0
+1260	Spirit Dust	0	1260	0
+1261	Bubble Gum	0	1261	0
+1262	Rumbler's Horn	0	1262	0
+1263	Soul Crystal	0	1263	0
+1264	Golden Maple Leaf	0	1264	0
+1265	Golden Stamen	0	1265	0
+1266	Mole Mother's Beard	0	1266	0
+1267	Cloudy Water	0	1267	0
+1268	Raccoon Bird Tail	0	1268	0
+1269	Durability Coupon	0	1269	0
+1270	Reward Coupon	0	1270	0
+1271	Production Coupon	0	1271	0
+1272	Adventurer's Knapsack (10 Days)	-49	1272	0
+1273	Adventurer's Knapsack (30 Days)	-49	1272	0
+1274	Adventurer's Knapsack (60 Days)	-49	1272	0
+1275	Partner's Backpack (10 Days)	0	1275	0
+1276	Partner's Backpack (30 Days)	0	1275	0
+1277	Partner's Backpack (60 Days)	0	1275	0
+1278	Pet Basket (10 Days)	-4	1278	0
+1279	Pet Basket (30 Days)	-4	1278	0
+1280	Pet Basket (60 Days)	-4	1278	0
+1281	Backpack set 10days	0	1281	0
+1282	Backpack set 30days	0	1281	0
+1283	Backpack set 60days	0	1281	0
+1284	Erenia's Blessing	-47	1284	0
+1285	Guardian Angel's Blessing	-46	10120	0
+1286	Ancelloan's Blessing	-48	10119	0
+1287	Blessing set	0	1287	0
+1288	Holy water of rebirth	0	1288	0
+1289	Mysterious Box A	-12	1289	0
+1290	Mysterious Box B	-12	1290	0
+1291	Mysterious Box C	-12	1291	0
+1292	Polluted Water	0	1292	0
+1293	Filthy Water	0	1293	0
+1294	Clear Water	0	1294	0
+1295	Hellhound Liver	0	1295	0
+1296	Fairy Booster	-6	1296	0
+1297	Energy booster	-5	1297	0
+1298	Gift Box	100	1189	0
+1299	Green Mooncake	-36	1299	0
+1300	Red Mooncake	-36	1300	0
+1301	White Mooncake	-36	1301	0
+1302	Rebecca's Jewelled Belt	12	1302	0
+1303	Bloody Stone	0	1160	0
+1304	Piena's Diary	12	1205	0
+1305	Torn Page	0	1215	0
+1306	Lucky Stone Necklace	12	327	0
+1307	Holy Water Bottle	0	1154	0
+1308	Justin's Portrait	12	1308	0
+1309	Small Safe	0	1168	0
+1310	Triangular Key	0	1216	0
+1311	Ruddy's Handkerchief	12	1311	0
+1312	Amir's Armour Parchment	100	1312	0
+1313	Amir's Weapon Parchment A	100	1313	0
+1314	Amir's Weapon Parchment B	100	1314	0
+1315	Amir's Weapon Specifications	100	1315	0
+1316	Amir's Weapon Specification Book Cover	100	1316	0
+1317	Basilisk Time-Space Piece	100	1095	0
+1318	Hell Knight Time-Space Piece	100	1095	0
+1319	Treekun Time-Space Piece	100	1095	0
+1320	Chrysos Time-Space Piece	100	1095	0
+1321	Special Bleach	12	1209	0
+1322	Special Bleach Recipe	100	1241	0
+1323	Straw	12	1178	0
+1324	Bean Pod	12	1324	0
+1325	Flint	12	1202	0
+1326	The Elementary Book of Adventurer	12	1315	0
+1327	Time-Space: Frozen Heart	-116	1102	0
+1328	Time-Space: Destroyer	-116	1102	0
+1329	Time-Space: Guardian of Light	-116	1102	0
+1330	Time-Space: Archtheridon	-116	1102	0
+1331	Special Water Bottle	12	1221	0
+1332	Airwaves Blackcurrant	0	1332	0
+1333	Airwaves Eucalyptus	0	1333	0
+1334	Airwaves Strawberry	0	1334	0
+1335	Airwaves Menthol	0	1335	0
+1336	Airwaves Lemon	0	1336	0
+1337	Airwaves Orange	0	1337	0
+1338	Airwaves Sweets	0	1338	0
+1339	Airwaves Cherry	0	1339	0
+1340	Violet Memory Fragment	52	1340	0
+1341	Green Memory Fragment	52	1341	0
+1342	Red Memory Fragment	52	1342	0
+1343	White Memory Fragment	52	1343	0
+1344	Whitney's Treatise	0	1344	0
+1345	Natalie's Headband	0	1345	0
+1346	Piepe's Necklace	52	1346	0
+1347	Wooden Wolf Doll	52	1347	0
+1348	Seina's Ring	0	1348	0
+1349	Demon Crystal	0	1349	0
+1350	Unfinished Priest's Spear	52	1350	0
+1351	Priest's Spear	52	1351	0
+1352	Unknown Ore	52	1352	0
+1353	Angel's Feather	52	1353	0
+1354	Enkidu Mane	52	1354	0
+1355	Seli-Lusha Leaf	52	1355	0
+1356	Fever's Thread	52	1356	0
+1357	Time-Space: Unlimited Hatred	-116	1102	0
+1358	Time-Space: Hermit	-116	1102	0
+1359	Time-Space: Black Flame	-116	1102	0
+1360	Time-Space: Echekaruel Mysticaron	-116	1102	0
+1361	Recipe for the Unfinished Priest's Spear	100	2937	0
+1362	Soulstone Blessing	0	1362	0
+1363	Lower SP Protection Scroll	0	1363	0
+1364	Higher SP Protection Scroll	0	1364	0
+1365	Soul Revival Stone	0	1365	0
+1366	Point Initialisation Potion	0	1366	0
+1367	Christmas Stocking	0	1367	0
+1368	Falling Star	0	1368	0
+1369	Jingle Bell	0	1369	0
+1370	Winter Event Gift Box	0	1370	0
+1371	Snowman Raid Seal	45	1371	0
+1372	Mysterious Box Set	88	1372	0
+1373	Gift Box	0	1370	0
+1374	Gift Envelope	0	1374	0
+1375	Wood for a Small Campfire	38	1375	0
+1376	Wood for a Large Campfire	38	1376	0
+1377	Mimi Mentor's Letter	13	1377	0
+1378	Anni's Letter	14	1378	0
+1379	Anni's Recommendation Letter	22	1379	0
+1380	none	88	1498	0
+1381	Y (Event)	88	1381	0
+1382	E (Event)	88	1382	0
+1383	A (Event)	88	1383	0
+1384	R (Event)	88	1384	0
+1385	none	0	1427	0
+1386	Latheore's Egg	46	1386	0
+1387	Leika's Recommendation Letter	21	1387	0
+1388	Logbook	27	1388	0
+1389	1st Reconnaissance Report	30	1389	0
+1390	First Clue	37	1390	0
+1391	Second Clue	37	1391	0
+1392	Third Clue	37	1392	0
+1393	Old Tablet	37	1393	0
+1394	Torn Reconnaissance Report	37	1394	0
+1395	Bitoren Tundra Reconnaissance Report	37	1395	0
+1396	2nd Reconnaissance Report	42	1396	0
+1397	Mukraju's Magic Book	45	1397	0
+1398	Bundle of Reports	100	1398	0
+1399	Magic Box	0	1399	0
+1400	Fortune Key	0	1400	0
+1401	Legendary Treasure Chest	0	1401	0
+1402	Mysterious Treasure Chest	0	1402	0
+1403	Antique Treasure Chest	0	1403	0
+1404	Deluxe Treasure Chest	0	1404	0
+1405	Pretty Treasure Chest	0	1405	0
+1406	Red Easter Egg (Event)	0	1406	0
+1407	Blue Easter Egg	0	1407	0
+1408	White Easter Egg	0	1408	0
+1409	Yellow Easter Egg (Event)	0	1409	0
+1410	Soul of Easter	0	1410	0
+1411	Birthday Present	0	1253	0
+1412	Merge Present	0	1168	0
+1413	Magic Treasure Chest (School Uniforms for Women)	0	1399	0
+1414	Magic Treasure Chest (Sportswear for Women)	0	1399	0
+1415	Magic Treasure Chest (Uniforms for Men)	0	1399	0
+1416	Magic Treasure Chest (Costumes for Men)	0	1399	0
+1417	Magic Treasure Chest (Cool Outfits for Men)	0	1399	0
+1418	Magic Treasure Chest (Sportswear for Men)	0	1399	0
+1419	Second Fortune Key	0	1400	0
+1420	Second Legendary Treasure Chest	0	1401	0
+1421	Second Mysterious Treasure Chest	0	1402	0
+1422	Second Antique Treasure Chest	0	1403	0
+1423	Second Deluxe Treasure Chest	0	1404	0
+1424	Second Pretty Treasure Chest	0	1405	0
+1425	Mysterious White Treasure Chest A	0	1399	0
+1426	Mysterious White Treasure Chest B	0	1399	0
+1427	Point Initialisation Potion (Event)	0	1366	0
+1428	Perfume	0	1428	0
+1429	Rainbow Pearl	0	1429	0
+1430	Magic Eraser	0	1430	0
+1431	Third Fortune Key	0	1400	0
+1432	Third Legendary Treasure Chest	0	1401	0
+1433	Third Mysterious Treasure Chest	0	1402	0
+1434	Third Antique Treasure Chest	0	1403	0
+1435	Third Deluxe Treasure Chest	0	1404	0
+1436	Third Pretty Treasure Chest	0	1405	0
+1437	Ice Machine	38	1437	0
+1438	Glacernon Box	98	1370	0
+1439	Hanbok Magic Chest	-68	1399	0
+1440	Emperor's Magic Chest	-68	1399	0
+1441	Magic Yin Yang Chest	-68	1399	0
+1442	Traditional Clothing Magic Box	-68	1399	0
+1443	Chipao Magic Chest	-68	1399	0
+1444	Kimono Magic Chest	-68	1399	0
+1445	Flower Magic Chest	-68	1399	0
+1446	Angel Base Flag	0	1446	0
+1447	Demon Base Flag	0	1447	0
+1448	Bag Package (30 Days)	0	1448	0
+1449	Bag Package (10 Days)	0	1449	0
+1450	Blessing Package (10 Units)	0	1450	0
+1451	Blessing Package (5 Units)	0	1450	0
+1452	Ancelloan's Blessing (Event)	-48	10119	0
+1453	Gift Box A (Act 4)	0	1401	0
+1454	Gift Box B (Act 4)	0	1402	0
+1455	PvP Attack Capsule	0	1455	0
+1456	PvP Defence Capsule	0	1456	0
+1457	PvP Resistance Capsule	0	1457	0
+1458	Family Summoning Horn	0	1458	0
+1459	Angel Sanctum Construction Kit	0	1459	0
+1460	Devil Altar Construction Kit	0	1460	0
+1461	Fourth Fortune Key	0	1400	0
+1462	Fourth Legendary Treasure Chest	0	1401	0
+1463	Fourth Mysterious Treasure Chest	0	1402	0
+1464	Fourth Antique Treasure Chest	0	1403	0
+1465	Fourth Deluxe Treasure Chest	0	1404	0
+1466	Fourth Pretty Treasure Chest	0	1405	0
+1467	Summer Hanbok Treasure Chest	-68	1370	0
+1468	Spring Hanbok Treasure Chest	-68	1370	0
+1469	Emperor Chipao Treasure Chest	-68	1370	0
+1470	Kung Fu Chipao Treasure Chest	-68	1370	0
+1471	Sunlight Kimono Treasure Chest	-68	1370	0
+1472	Moonlight Kimono Treasure Chest	-68	1370	0
+1473	Azalea Hanbok Treasure Chest	-68	1370	0
+1474	Crocus Hanbok Treasure Chest	-68	1370	0
+1475	Phoenix Chipao Treasure Chest	-68	1370	0
+1476	Lavender Chipao Treasure Chest	-68	1370	0
+1477	Cherry Blossom Kimono Treasure Chest	-68	1370	0
+1478	Kunoichi Kimono Treasure Chest	-68	1370	0
+1479	Winner's Costume Treasure Box	0	1399	0
+1480	Fairy Treasure Chest	0	1370	0
+1481	Demon Treasure Chest	0	1370	0
+1482	Traditional Hats for Men Treasure Chest	0	1399	0
+1483	Traditional Hats for Women Treasure Chest	0	1399	0
+1484	Traditional Female Costume Box A	0	1399	0
+1485	Traditional Female Costume Box B	0	1399	0
+1486	Traditional Female Costume Box C	0	1399	0
+1487	Traditional Male Costume Box A	0	1399	0
+1488	Traditional Male Costume Box B	0	1399	0
+1489	Traditional Male Costume Box C	0	1399	0
+1490	Bear Costume Box	0	1399	0
+1491	School Uniforms for Women Box	0	1399	0
+1492	Sportswear for Women Box	0	1399	0
+1493	Men's Outfits Box	0	1399	0
+1494	Men's Adventurer Clothing Box	0	1399	0
+1495	Men's Hip Hop Clothing Box	0	1399	0
+1496	Men's Sportswear Box	0	1399	0
+1497	Specialist Improvement Box	0	1399	0
+1498	Huge Recovery Potion (Event)	-36	1011	0
+1499	Guardian Angel's Blessing (Event)	-46	10120	0
+1500	Fifth Fortune Key	0	1400	0
+1501	Fifth Legendary Treasure Chest	0	1401	0
+1502	Fifth Mysterious Treasure Chest	0	1402	0
+1503	Fifth Antique Treasure Chest	0	1403	0
+1504	Fifth Deluxe Treasure Chest	0	1404	0
+1505	Fifth Pretty Treasure Chest	0	1405	0
+1506	Event Treasure Chest B	0	1399	0
+1507	National Holiday Gift Box (Event)	0	1370	0
+1508	Reward Box	0	1403	0
+1509	Rabbit Box	0	1402	0
+1510	Bunny Box	0	1402	0
+1511	Female Dog Box	0	1399	0
+1512	Male Dog Box	0	1399	0
+1513	Female Cat Box	0	1399	0
+1514	Male Cat Box	0	1399	0
+1515	Lioness Box	0	1399	0
+1516	Lion Box	0	1399	0
+1517	Dalmatian Costume Box	0	1405	0
+1518	Rottweiler Costume Box	0	1405	0
+1519	Siamese Cat Costume Box	0	1405	0
+1520	Russian Blue Costume Box	0	1405	0
+1521	Dark Lion Costume Box	0	1405	0
+1522	Light Lion Costume Box	0	1405	0
+1523	Bulldog Costume Box	0	1405	0
+1524	Saint Bernard's Costume Box	0	1405	0
+1525	Burma Cat Costume Box	0	1405	0
+1526	Korat Cat Costume Box	0	1405	0
+1527	Black Lion Costume Box	0	1405	0
+1528	Golden Lion Costume Box	0	1405	0
+1529	March Hare Costume Box	0	1405	0
+1530	White Rabbit Costume Box	0	1405	0
+1531	Adorable Bunny Costume Box	0	1405	0
+1532	Playful Bunny Costume Box	0	1405	0
+1533	Sixth Fortune Key	0	1400	0
+1534	Sixth Legendary Treasure Chest	0	1401	0
+1535	Sixth Mysterious Treasure Chest	0	1402	0
+1536	Sixth Antique Treasure Chest	0	1403	0
+1537	Sixth Deluxe Treasure Chest	0	1404	0
+1538	Sixth Pretty Treasure Chest	0	1405	0
+1539	Malcolm's Halloween Box	0	1539	0
+1540	Eva's Halloween Box	0	1540	0
+1541	Soraya's Halloween Box	0	1541	0
+1542	Men's Fashion Box A (Hat)	0	1542	0
+1543	Men's Fashion Box A (Costume)	0	1542	0
+1544	Men's Fashion Box E (Hat)	0	1544	0
+1545	Men's Fashion Box E (Costume)	0	1544	0
+1546	Women's Fashion Box A (Hat)	0	1546	0
+1547	Women's Fashion Box A (Costume)	0	1546	0
+1548	Women's Fashion Box E (Hat)	0	1548	0
+1549	Women's Fashion Box E (Costume)	0	1548	0
+1550	Men's Fashion Box C (Hat)	0	1834	0
+1551	Men's Fashion Box C (Costume)	0	1834	0
+1552	Men's Fashion Box D (Hat)	0	1835	0
+1553	Men's Fashion Box D (Costume)	0	1835	0
+1554	Men's Fashion Box D (Hat)	0	1836	0
+1555	Men's Fashion Box G (Costume)	0	1836	0
+1556	Women's Fashion Box C (Hat)	0	1837	0
+1557	Women's Fashion Box C (Costume)	0	1837	0
+1558	Women's Fashion Box D (Hat)	0	1838	0
+1559	Women's Fashion Box D (Costume)	0	1838	0
+1560	Women's Fashion Box G (Hat)	0	1839	0
+1561	Women's Fashion Box G (Costume)	0	1839	0
+1562	Raid Package A	0	1399	0
+1563	Raid Package B	0	1399	0
+1564	Raid Package C	0	1399	0
+1565	Survival Package	0	1401	0
+1566	Autumn Package	0	1401	0
+1567	Mysterious Box Set	0	1401	0
+1568	Hairdresser Set	0	1401	0
+1569	Mysterious Treasure Chest D	0	1399	0
+1570	Sixth Fortune Key	0	1400	0
+1571	Sixth Legendary Treasure Chest	0	1401	0
+1572	Sixth Mysterious Treasure Chest	0	1402	0
+1573	Sixth Antique Treasure Chest	0	1403	0
+1574	Sixth Deluxe Treasure Chest	0	1404	0
+1575	Sixth Pretty Treasure Chest	0	1405	0
+1576	Rudolph's Antlers	0	1145	0
+1577	Santa's Little Gift Box	0	1402	0
+1578	Santa's Big Gift Box	0	1401	0
+1579	Santa's Special Gift Box	0	1399	0
+1580	Christmas Voucher	0	1580	0
+1581	Christmas Toy	0	1581	0
+1582	New Year's Toy	0	1582	0
+1583	Lucky Box	0	1399	0
+1584	Family Event Box A	0	1168	0
+1585	Firework	0	1585	0
+1586	Christmas Lucky Box	0	1399	0
+1587	Super Santa Bushtail Gift Box	0	1370	0
+1588	New Year's Gift Box (Costume)	0	1370	0
+1589	New Year's Gift Box (Hat)	0	1370	0
+1590	Super Santa Bushtail Treasure Chest	0	1370	0
+1591	Christmas Gift Box A	0	1370	0
+1592	Christmas Gift Box B	0	1370	0
+1593	none	0	1370	0
+1594	none	0	1594	0
+1595	none	0	1595	0
+1596	none	0	1596	0
+1597	none	0	1597	0
+1598	none	0	1598	0
+1599	none	0	1599	0
+1600	none	0	1600	0
+1601	none	0	1601	0
+1602	none	0	1402	0
+1603	none	0	1401	0
+1604	none	0	1289	0
+1605	none	0	1400	0
+1606	none	0	1401	0
+1607	none	0	1402	0
+1608	none	0	1403	0
+1609	none	0	1404	0
+1610	none	0	1405	0
+1611	Golden H	0	1611	0
+1612	Golden A	0	1612	0
+1613	Golden P	0	1613	0
+1614	Golden Y	0	1614	0
+1615	N	0	1615	0
+1616	E	0	1616	0
+1617	W	0	1617	0
+1618	Y	0	1618	0
+1619	A	0	1619	0
+1620	R	0	1620	0
+1621	Happy New Year Golden Box	0	1621	0
+1622	Happy New Year Box	0	336	0
+1623	Happy New Year Box	0	1399	0
+1624	Angel's Egg (Individual)	58	1624	0
+1625	Demon's Egg (Individual)	58	1625	0
+1626	Angel's Egg (Family)	58	1626	0
+1627	Demon's Egg (Family)	58	1627	0
+1628	none	0	1621	0
+1629	none	0	336	0
+1630	none	0	1630	0
+1631	none	0	1631	0
+1632	none	0	1632	0
+1633	none	0	1633	0
+1634	none	0	1634	0
+1635	none	0	1635	0
+1636	none	0	1636	0
+1637	none	0	1637	0
+1638	none	0	1374	0
+1639	none	0	1621	0
+1640	none	0	1289	0
+1641	none	0	1290	0
+1642	none	0	1405	0
+1643	none	0	1402	0
+1644	none	0	1399	0
+1645	none	0	1405	0
+1646	none	0	1402	0
+1647	none	0	1399	0
+1648	none	0	1405	0
+1649	none	0	1402	0
+1650	none	0	1399	0
+1651	none	0	1405	0
+1652	none	0	1402	0
+1653	none	0	1399	0
+1654	none	0	1405	0
+1655	none	0	1402	0
+1656	none	0	1399	0
+1657	none	0	1405	0
+1658	none	0	1402	0
+1659	none	0	1399	0
+1660	none	0	1405	0
+1661	none	0	1402	0
+1662	none	0	1399	0
+1663	none	0	1663	0
+1664	none	0	1400	0
+1665	none	0	1401	0
+1666	none	0	1402	0
+1667	none	0	1403	0
+1668	none	0	1404	0
+1669	none	0	1405	0
+1670	none	0	1670	0
+1671	none	0	1670	0
+1672	none	0	1672	0
+1673	none	0	1672	0
+1674	none	0	1674	0
+1675	none	0	1674	0
+1676	none	0	1676	0
+1677	none	0	1676	0
+1678	none	0	1678	0
+1679	none	0	1678	0
+1680	none	0	1680	0
+1681	none	0	1680	0
+1682	none	0	1374	0
+1683	NosMall Box	0	1507	0
+1684	NosMall Box	0	1507	0
+1685	Angel Wings	-118	1685	0
+1686	Devil Wings	-118	1686	0
+1687	none	0	1507	0
+1688	none	0	1688	0
+1689	none	0	1400	0
+1690	none	0	1401	0
+1691	none	0	1402	0
+1692	none	0	1403	0
+1693	none	0	1404	0
+1694	none	0	1405	0
+1695	none	0	1695	0
+1696	none	0	1696	0
+1697	none	0	1697	0
+1698	none	0	1698	0
+1699	none	0	1699	0
+1700	none	0	1700	0
+1701	none	0	1701	0
+1702	none	0	1702	0
+1703	none	0	1703	0
+1704	none	0	1704	0
+1705	none	0	1705	0
+1706	none	0	1706	0
+1707	none	0	1707	0
+1708	none	0	1708	0
+1709	none	0	1709	0
+1710	none	0	1710	0
+1711	none	0	1711	0
+1712	none	0	1712	0
+1713	none	0	1713	0
+1714	none	0	1399	0
+1715	none	0	1399	0
+1716	none	0	1405	0
+1717	none	0	1402	0
+1718	none	0	1399	0
+1719	none	0	1399	0
+1720	none	0	1399	0
+1721	none	0	1146	0
+1722	none	0	1400	0
+1723	none	0	1401	0
+1724	none	0	1402	0
+1725	none	0	1403	0
+1726	none	0	1404	0
+1727	none	0	1405	0
+1728	Half-Eaten Prickly Pear	0	1728	0
+1729	Prickly Pear	0	1729	0
+1730	Bag of Prickly Pears	0	1730	0
+1731	Letter for Assistant Hamid	0	1731	0
+1732	Neil's Letter	0	1731	0
+1733	Reconnaissance Report	0	1731	0
+1734	2nd Reconnaissance Report	0	1731	0
+1735	Invaluable Patrol Report (Hamid)	0	1731	0
+1736	Invaluable Patrol Report (Lighthouse Guard Chilton)	0	1731	0
+1737	Bag of Prickly Pears	0	1730	0
+1738	none	0	1743	0
+1739	Command List	0	1739	0
+1740	Desert Robber's Key	0	1740	0
+1741	Robber Gang Jailer's Key	0	1740	0
+1742	Low Value Trade Goods	0	1742	0
+1743	Medium Value Trade Goods	0	1742	0
+1744	High Value Trade Goods	0	1742	0
+1745	Inferior Trade Goods	0	1742	0
+1746	Average Trade Goods	0	1742	0
+1747	Superior Trade Goods	0	1742	0
+1748	Eastern Trade Goods	0	1742	0
+1749	Western Trade Goods	0	1742	0
+1750	Broken Trade Goods	0	1750	0
+1751	Akamur Merchants' Flag	0	1751	0
+1752	Trade Good (First Find)	0	1742	0
+1753	Trade Good (Second Find)	0	1742	0
+1754	Trade Good (Third Find)	0	1742	0
+1755	Trade Good (Fourth Find)	0	1742	0
+1756	Trade Good (Fifth Find)	0	1742	0
+1757	Trade Good (Sixth Find)	0	1742	0
+1758	Desert Robber Mask	0	1758	0
+1759	Desert Robber Emblem	0	1759	0
+1760	Commander Keru's Seal	0	1760	0
+1761	Second Mission Report	0	1731	0
+1762	Jailer's Key	0	1740	0
+1763	Keru's Hurried Report	0	1731	0
+1764	Patrol B's Hurried Report	0	1731	0
+1765	Medicine Bottle	0	1765	0
+1766	Upper Aster Temple Relict Piece	0	1766	0
+1767	Lower Aster Temple Relict Piece	0	1767	0
+1768	Central Aster Temple Relict Piece	0	1768	0
+1769	First Robber Key	0	1740	0
+1770	Second Robber Key	0	1740	0
+1771	Broken Relic Piece	0	1771	0
+1772	Spirit Essence	0	1772	0
+1773	Incense Sticks	0	1773	0
+1774	none	0	1744	0
+1775	Boxer Bushtail Box	0	1507	0
+1776	Boxer Bushtail Box	0	1507	0
+1777	none	0	1450	0
+1778	Grenigas' Relic Piece A	0	1778	0
+1779	Grenigas' Relic Piece B	0	1778	0
+1780	Grenigas' Relic Piece C	0	1778	0
+1781	Grenigas' Relic Piece D	0	1778	0
+1782	Ripped Document	0	1782	0
+1783	Report on Temple Site A	0	1731	0
+1784	Report on Temple Site B	0	1731	0
+1785	Stone Tablet Fragment	0	1785	0
+1786	Temple Site Report	0	1731	0
+1787	First Script Tablet	0	1787	0
+1788	Second Script Tablet	0	1787	0
+1789	Third Script Tablet	0	1787	0
+1790	Broken Script Tablet	0	1790	0
+1791	Broken Relic Piece	0	1791	0
+1792	Broken Script Tablet (Library)	0	1791	0
+1793	Broken Script Tablet (Underground Caves)	0	1791	0
+1794	Broken Script Tablet (Prayer Hall)	0	1791	0
+1795	Broken Script Tablet (Centre Sanctum)	0	1791	0
+1796	Treasure Hunter's Knapsack	0	1796	0
+1797	none	0	1450	0
+1798	Sand Essence	0	1798	0
+1799	Wind Essence	0	1799	0
+1800	Defeat Strong Fire Vampies	-94	1800	0
+1801	Defeating 108 Monsters	-94	1800	0
+1802	Monster Hunt	-94	1800	0
+1803	Battle between NosVille and Kenkos	-94	1800	0
+1804	Eliminating Demons	-94	1800	0
+1805	Mysterious Crystal Ball	-94	1800	0
+1806	Kill the Spider King	-94	1800	0
+1807	Collecting Artefacts	-94	1800	0
+1808	Saving the Guard	-94	1800	0
+1809	Breaking through Enemy Lines	-94	1800	0
+1810	Maze Trap	-94	1800	0
+1811	Commanding the NosVille Guards	-94	1800	0
+1812	Kenko Troop Infiltration	-94	1800	0
+1813	Terminating Horn-Imps	-94	1800	0
+1814	Devil Sculpture	-94	1800	0
+1815	Monster Safari	-94	1800	0
+1816	Maze Cave	-94	1800	0
+1817	Room of Eternity	-94	1800	0
+1818	Spider Troops - Part 1	-94	1800	0
+1819	Rum	0	1819	0
+1820	Forgotten Species	-94	1800	0
+1821	Do not use	0	1110	0
+1822	Den of Wolves	-94	1800	0
+1823	Cave of the Spider King	-94	1800	0
+1824	Den of Lion Wolves	-94	1800	0
+1825	Darkness' Hunting Grounds	-94	1800	0
+1826	Broken Magic Field	-94	1800	0
+1827	Shackles of the Past - Part 1	-94	1800	0
+1828	Exploration of Laboratory 1	-94	1800	0
+1829	Exploration of Laboratory 2	-94	1800	0
+1830	Exploration of Laboratory 3	-94	1800	0
+1831	Tombstone Gate	-116	1831	0
+1832	Sparkling Rock	-116	1832	0
+1833	Basilisk Time-Space	-94	1800	0
+1834	Hell Knight Time-Space (A)	-94	1800	0
+1835	Hell Knight Time-Space (B)	-94	1800	0
+1836	Hell Knight Time-Space (C)	-94	1800	0
+1837	Treekun Time-Space (A)	-94	1800	0
+1838	Treekun Time-Space (B)	-94	1800	0
+1839	Treekun Time-Space (C)	-94	1800	0
+1840	Chrysos Time-Space (A)	-94	1800	0
+1841	Chrysos Time-Space (B)	-94	1800	0
+1842	Chrysos Time-Space (C)	-94	1800	0
+1843	Fairy Dust	0	1843	0
+1844	Fragment of the Letter to the Desert Robber Leader	0	1782	0
+1845	Corner of the Letter to the Desert Robber Leader	0	1782	0
+1846	Elf's Leather Bag	0	1846	0
+1847	Earth Fairy Dust	0	1222	0
+1848	Wind Fairy Dust	0	1848	0
+1849	Sand Fairy Dust	0	1849	0
+1850	First Suspicious Bag	0	1850	0
+1851	Second Suspicious Bag	0	1850	0
+1852	Third Suspicious Bag	0	1850	0
+1853	Fourth Suspicious Bag	0	1850	0
+1854	none	0	1448	0
+1855	Sand Fairy Essence	0	1765	0
+1856	Wind Fairy Essence	0	1765	0
+1857	none	0	1449	0
+1858	Adventurer's Knapsack (10 Days/Event)	-49	1272	0
+1859	none	-49	1272	0
+1860	Neil's Command List	0	1731	0
+1861	Melki's Command List	0	1731	0
+1862	Keru's Command List	0	1731	0
+1863	Garton's Command List	0	1731	0
+1864	Shoran's Command List	0	1731	0
+1865	Shay's Command List	0	1731	0
+1866	Stolen Goods (Keru's Camp)	0	1866	0
+1867	Stolen Goods (Garton's Camp)	0	1866	0
+1868	Stolen Goods (Desert Robber Camp)	0	1866	0
+1869	Stolen Goods (Robber Courtyard)	0	1866	0
+1870	Strange Chest	0	1866	0
+1871	Delmon's Alarm Clock	0	1871	0
+1872	Robber Gang Gold Coin	0	1872	0
+1873	Robber Gang Silver Coin	0	1873	0
+1874	Robber Gang Copper Coin	0	1874	0
+1875	Robber Gang Key	0	1875	0
+1876	Ibrahim's Golden Key	0	1876	0
+1877	Ibrahim's Bag	0	1877	0
+1878	Unknown Relict	0	1878	0
+1879	Mysterious Relict	0	1879	0
+1880	Fresh Apple Juice	-48	1880	0
+1881	Strong Strawberry Cider	-60	1881	0
+1882	none	0	880	0
+1883	none	0	880	0
+1884	Premium Medal (10 Days)	0	880	0
+1885	Premium Medal (30 Days)	0	880	0
+1886	Partner's Backpack (10 Days/Event)	0	1275	0
+1887	Robber Gang's Blueprints	100	1241	0
+1888	Fresh Strawberry Juice	-48	1888	0
+1889	Fresh Grape Juice	0	1889	0
+1890	Strong Grape Wine	0	1890	0
+1891	Strong Cider	-60	1891	0
+1892	Robber Gang Seal	45	1892	0
+1893	none	0	880	0
+1894	Sealed Tarot Card (Fool)	0	1822	0
+1895	Sealed Tarot Card (The Magician)	0	1823	0
+1896	Sealed Tarot Card (The Lovers)	0	1824	0
+1897	Sealed Tarot Card (The Hermit)	0	1825	0
+1898	Sealed Tarot Card (Death)	0	1826	0
+1899	Sealed Tarot Card (The Devil)	0	1827	0
+1900	Sealed Tarot Card (The Tower)	0	1828	0
+1901	Sealed Tarot Card (The Star)	0	1829	0
+1902	Sealed Tarot Card (The Moon)	0	1830	0
+1903	Sealed Tarot Card (The Sun)	0	1840	0
+1904	Tarot Card Game	0	1841	0
+1905	none	0	1405	0
+1906	Magic Scooter	-24	1906	0
+1907	Magic Carpet	-24	1907	0
+1908	none	0	1402	0
+1909	none	0	1399	0
+1910	Mysterious Box A	0	1546	0
+1911	Mysterious Box B	0	1676	0
+1912	Mysterious Box C	0	1837	0
+1913	Halloween Costume Scroll	-23	1913	0
+1914	Book of Halloween Transformation	-23	1914	0
+1915	Halloween Costume Scroll (Event)	-23	1913	0
+1916	Jack O'Lantern's Seal	45	1915	0
+1917	Bag of Sweets (Event)	0	1916	0
+1918	Halloween Signpost	100	1917	0
+1919	Halloween Horror Box	0	1539	0
+1920	none	0	1541	0
+1921	NosMall Box	0	1507	0
+1922	none	0	1275	0
+1923	Pet Basket (10 Days/Event)	-4	1278	0
+1924	none	-4	1278	0
+1925	none	0	1541	0
+1926	Magic Scooter Box	0	336	0
+1927	Magic Carpet Box	0	336	0
+1928	none	0	1541	0
+1929	none	0	1541	0
+1930	none	0	1541	0
+1931	none	0	1541	0
+1932	none	0	1841	0
+1933	none	0	1399	0
+1934	none	0	1399	0
+1935	none	0	1507	0
+1936	none	0	1507	0
+1937	none	0	1507	0
+1938	none	0	1507	0
+1939	none	0	1507	0
+1940	none	0	1507	0
+1941	none	0	1507	0
+1942	none	0	1507	0
+1943	none	0	1507	0
+1944	none	0	1507	0
+1945	Sealed Vessel	-22	1945	0
+1946	Sealed Vessel (Event)	-22	1945	0
+1947	Ice Costume Scroll	-23	1947	0
+1948	Ice Costume Scroll (Event)	-23	1947	0
+1949	Sealed Treasure Chest	0	1253	0
+1950	Small Christmas Gift	0	1402	0
+1951	Large Christmas Gift	0	1401	0
+1952	Golden New Year's Chest	0	1621	0
+1953	none	0	1370	0
+1954	none	0	1168	0
+1955	none	0	1699	0
+1956	none	0	1374	0
+1957	none	0	1168	0
+1958	none	0	1699	0
+1959	none	0	1542	0
+1960	none	0	1676	0
+1961	none	0	1370	0
+1962	none	0	1370	0
+1963	none	0	1370	0
+1964	none	0	1370	0
+1965	Magic White Tiger	-24	1965	0
+1966	Magic White Tiger Box	0	336	0
+1967	none	0	1370	0
+1968	none	0	1370	0
+1969	none	0	1370	0
+1970	none	88	1970	0
+1971	none	0	1971	0
+1972	Sealed Tarot Card (Death)	0	1826	0
+1973	Sealed Tarot Card (The Sun)	0	1840	0
+1974	none	0	394	0
+1975	none	0	1370	0
+1976	none	0	1507	0
+1977	none	0	1370	0
+1978	none	0	1405	0
+1979	none	0	1405	0
+1980	none	0	1400	0
+1981	Cupid's Arrow	0	1981	0
+1982	Separation Letter	0	1982	0
+1983	Single Fireworks	0	1983	0
+1984	Double Fireworks	0	1984	0
+1985	Fountain Firework (Blue)	0	1985	0
+1986	Fountain Firework (Yellow)	0	1985	0
+1987	Heart Firework (Blue)	0	1987	0
+1988	Heart Firework (Red)	0	1987	0
+1989	none	0	1370	0
+1990	none	0	1370	0
+1991	none	0	1370	0
+1992	none	0	1370	0
+1993	none	0	1370	0
+1994	none	0	1370	0
+1995	none	0	1400	0
+1996	Sport Box	0	1411	0
+1997	none	0	1411	0
+1998	none	0	1411	0
+1999	none	0	1411	0
+2000	Fox Tail	0	2000	0
+2001	Hamster Thorn	0	2001	0
+2002	Wool	0	2002	0
+2003	Mandragora	0	2003	0
+2004	Dander Seed	0	2004	0
+2005	Seedle Leaf	0	2005	0
+2006	Small Bean	0	2006	0
+2007	Red Cuby	0	2007	0
+2008	Imp Horn	0	2008	0
+2009	Vampie Pellet	0	2009	0
+2010	Green Glass	0	2010	0
+2011	Red Glass	0	2011	0
+2012	Ore	0	2012	0
+2013	Old Pickaxe	0	2013	0
+2014	Broken Flute	0	2014	0
+2015	Bacon and Egg	44	2015	0
+2016	Ham & Egg Sandwich	-12	2016	0
+2017	Roasted Herring	-68	2017	0
+2018	Delicious Lunch	-24	2018	0
+2019	Roast Pork and Juice	100	2019	0
+2020	Pizza and Soft Drink	-112	2020	0
+2021	Bread and Beer	-106	2021	0
+2022	Healthy Lunch	0	2022	0
+2023	Peanuts	50	2023	0
+2024	Biscuits	100	2024	0
+2025	Jerky	-56	2025	0
+2026	Chocolate Bar	100	2026	0
+2027	Fried Chicken	-6	2027	0
+2028	Battle Potion	0	2028	0
+2029	Empty Bottle	0	2029	0
+2030	Blank Amulet	0	2030	0
+2031	Magic Bead	0	2031	0
+2032	Leaf of Luinia	0	2032	0
+2033	Mysterious Beetle	0	2033	0
+2034	Low Quality Metal	0	2034	0
+2035	Normal Metal	0	2035	0
+2036	High Quality Metal	0	2036	0
+2037	Rare Metal	0	2037	0
+2038	Low Quality Wood	0	2038	0
+2039	Normal Wood	0	2039	0
+2040	High Quality Wood	0	2040	0
+2041	Rare Wood	0	2041	0
+2042	Low Quality Rag	0	2042	0
+2043	Normal Rag	0	2043	0
+2044	High Quality Rag	0	2044	0
+2045	Rare Rag	0	2045	0
+2046	Low Quality Leather	0	2046	0
+2047	Normal Leather	0	2047	0
+2048	High Quality Leather	0	2048	0
+2049	Rare Leather	0	2049	0
+2050	Yellow Hair Dye	10	2050	0
+2051	Blue Hair Dye	10	2051	0
+2052	Purple Hair Dye	10	2052	0
+2053	Orange Hair Dye	10	2053	0
+2054	Brown Hair Dye	10	2054	0
+2055	Green Hair Dye	10	2055	0
+2056	Dark Brown Hair Dye	10	2056	0
+2057	Grey Hair Dye	10	2057	0
+2058	Red Hair Dye	10	2058	0
+2059	Yellow Hair Dye	10	2059	0
+2060	Hair Dye (11)	0	2119	0
+2061	Hair Dye (12)	0	2119	0
+2062	Hair Dye (13)	0	2119	0
+2063	Hair Dye (14)	0	2119	0
+2064	Hair Dye (15)	0	2119	0
+2065	Hair Dye (16)	0	2119	0
+2066	Hair Dye (17)	0	2119	0
+2067	Hair Dye (18)	0	2119	0
+2068	Hair Dye (19)	0	2119	0
+2069	Hair Dye (20)	0	2119	0
+2070	Wing of Return	1	2070	0
+2071	Amulet of Return	1	2071	0
+2072	Bell of Sweet Home	1	2072	0
+2073	Wolf Mane	0	2073	0
+2074	Pork Chop	0	2074	0
+2075	Turtle Shell	0	2075	0
+2076	Beeswax	0	2076	0
+2077	Pet Food	10	2077	0
+2078	Delicious Pet Food	10	2078	0
+2079	NosMate Trainer	0	2079	0
+2080	Spider's Web	1	2080	0
+2081	Catapult Ammo	0	2081	0
+2082	Crossbow Bolts	0	2082	0
+2083	Short Bow Arrows	0	2083	0
+2084	Long Bow Arrows	0	2084	0
+2085	Medicinal Plant	0	2085	0
+2086	Poisonous Plant	0	2086	0
+2087	Bandage	0	2087	0
+2088	Release Box	-24	2088	0
+2089	NosMate Guardian Angel	0	2089	0
+2090	Royal Jelly	0	2090	0
+2091	Spider Web	0	2091	0
+2092	Spider King's Eye	0	2092	0
+2093	Bug Shell	0	2093	0
+2094	Pearl of Darkness	0	2094	0
+2095	Damaged Broomstick	0	2095	0
+2096	New Year Lucky Charm	0	2096	0
+2097	Magic Potion	0	2097	0
+2098	Herb	0	2098	0
+2099	Red Fruits	0	2099	0
+2100	Blue Herb	0	2100	0
+2101	Mysterious Ink	0	2101	0
+2102	Sugar Beet	0	2102	0
+2103	Ginseng	0	2103	0
+2104	Antler	0	2104	0
+2105	Stone Block	0	2105	0
+2106	Mysterious Seed	0	2106	0
+2107	Small Flowerpot	0	2107	0
+2108	Glass Pearl	0	2108	0
+2109	Seedling	0	2109	0
+2110	Large Flowerpot	0	2110	0
+2111	Seedbed	0	2111	0
+2112	Blessed Earth	0	2112	0
+2113	Sprouting Seed	0	2113	0
+2114	Cereal Grains	0	2114	0
+2115	Vegetables	0	2115	0
+2116	Fruit	0	2116	0
+2117	Meat	0	2117	0
+2118	Seafood	0	2118	0
+2119	Sugar	0	2119	0
+2120	Salt	0	2120	0
+2121	Pepper	0	2121	0
+2122	Tarragon	0	2122	0
+2123	Vegetable Oil	0	2123	0
+2124	Eggs and Cheese	0	2124	0
+2125	Mixed Herbs	0	2125	0
+2126	Luinia of Protection	0	2126	0
+2127	Luinia of Restoration	12	2127	0
+2128	Good Bandage	0	2128	0
+2129	Strong NosMate Trainer	0	2129	0
+2130	Hairstyle Potion	11	2119	0
+2131	Taco	0	2131	0
+2132	Mashed Potato	0	2132	0
+2133	Noodles	0	2133	0
+2134	Sushi	0	2134	0
+2135	Cheese Sticks	0	2135	0
+2136	French Fries	0	2136	0
+2137	Fruit Tart	0	2137	0
+2138	Pudding	0	2138	0
+2139	Nigiri	0	2139	0
+2140	Bacon	0	2140	0
+2141	Vitamins	0	2141	0
+2142	Muesli	0	2142	0
+2143	Chocolate Coin	0	2143	0
+2144	NotUse	0	2144	0
+2145	Picnic Basket	0	2145	0
+2146	Barbecue	0	2146	0
+2147	Sweet Potatoes	0	2147	0
+2148	Garlic Bread	0	2148	0
+2149	Makis	0	2149	0
+2150	Mashed Potatoes	0	2150	0
+2151	Potato Salad	0	2151	0
+2152	Fruit Salad	0	2152	0
+2153	Chicken Salad	0	2153	0
+2154	Shrimp Salad	0	2154	0
+2155	Dowsing Rod	4	2155	0
+2156	Holy Crystal Ball of Dignity	14	1064	0
+2157	Name Tag for Pets	13	2157	0
+2158	Gourmet Pet Food	11	2158	0
+2159	Partner Medicine	12	2159	0
+2160	Wings of Friendship	0	2160	0
+2161	Super Hair Gel	11	2161	0
+2162	Super Hair Wax	11	2162	0
+2163	Pink Hair Dye	10	2163	0
+2164	Light Green Hair Dye	10	2164	0
+2165	White Hair Dye	10	2165	0
+2166	Light Blue Hair Dye	10	2166	0
+2167	Black Hair Dye	10	2167	0
+2168	Potion of Dignity	14	2168	0
+2169	NosMall Cake	-12	2169	0
+2170	Team Stone	44	2170	0
+2171	Handkerchief of Separation	-23	2171	0
+2172	Slade's Claw	0	2172	0
+2173	Speaker	15	2173	0
+2174	Speech Bubble	16	2174	0
+2175	Hot Chocolate	-12	2175	0
+2176	Noodle Soup	-12	2176	0
+2177	Red Gunk	0	2177	0
+2178	Zombie Antibiotics	20	2178	0
+2179	Blue Gunk	0	2179	0
+2180	Green Gunk	0	2180	0
+2181	Magic Egg	-68	2181	0
+2182	Chocolate	-48	2182	0
+2183	none	-48	1197	0
+2184	N (Event)	-56	1107	0
+2185	O (Event)	-56	1108	0
+2186	S (Event)	44	1109	0
+2187	Special Pet Food	14	2187	0
+2188	Sunset Teleport	1	2188	0
+2189	Building Block	0	1202	0
+2190	Seed of Life	0	2106	0
+2191	Chicken Egg	0	2181	0
+2192	Carp	0	2192	0
+2193	Orichalcum	0	1832	0
+2194	Rare Leaf	0	2194	0
+2195	Grub	0	1180	0
+2196	Mackerel	0	2196	0
+2197	Hammer	0	1220	0
+2198	Axe	0	2198	0
+2199	Mithrill Ore	0	1179	0
+2200	Needle	0	2200	0
+2201	Diamond	0	2201	0
+2202	Branch of the Worldly Wood	0	2202	0
+2203	Magic Powder	0	1209	0
+2204	Whale	0	2204	0
+2205	Mysterious Stone	0	1225	0
+2206	Apple	0	2206	0
+2207	Golden Feather	0	1099	0
+2208	Bobbin	0	2208	0
+2209	Pyrostone	0	1194	0
+2210	Aquastone	0	1193	0
+2211	Photostone	0	1191	0
+2212	Shadowstone	0	1192	0
+2213	Legendary Metal	0	2213	0
+2214	Legendary Wood	0	2214	0
+2215	Legendary Cloth	0	2215	0
+2216	Legendary Leather	0	2216	0
+2217	Halite	0	2217	0
+2218	Blue Mane	0	2218	0
+2219	Rotten Fruit	0	2219	0
+2220	Golden Fruit	0	2220	0
+2221	Locomotive	0	2221	0
+2222	Polluted Bark	0	2222	0
+2223	Gold Bark	0	2223	0
+2224	Cursed Root	0	2224	0
+2225	Giant Nut	0	2225	0
+2226	Stained Arrow Tip	0	2226	0
+2227	Yak's Horseshoe	0	2227	0
+2228	Mole Cricket Leg	0	2228	0
+2229	Gold Mushroom	0	2229	0
+2230	Giant Bolt	0	2230	0
+2231	Broken Sword	0	2231	0
+2232	Giant Molar	0	2232	0
+2233	Gold Moss	0	2233	0
+2234	Mole's Tail	0	2234	0
+2235	Crystal Pearl	0	2235	0
+2236	Doomed Pearl	0	2236	0
+2237	Violet Pearl	0	2237	0
+2238	Blood Pearl	0	2238	0
+2239	Pumpkin Pearl	0	2239	0
+2240	Gold Pearl	0	2240	0
+2241	Crab Claw	0	2241	0
+2242	Luminous Antenna	0	2242	0
+2243	Gear	0	2243	0
+2244	Rotting Bark	0	2222	0
+2245	Polluted Root	0	2224	0
+2246	Rat's Tail	0	2234	0
+2247	Glowing Antenna	0	2242	0
+2248	Tree Leaf	0	201	0
+2249	Flame Crystal Gem	0	1031	0
+2250	Water Wave Crystal Gem	0	1032	0
+2251	Wind Crystal Gem	0	1033	0
+2252	Doomed Skull	0	1101	0
+2253	Yak Antlers	0	1145	0
+2254	Black Armour Piece	0	1151	0
+2255	Black Powder	0	1172	0
+2256	Red Branch	0	1177	0
+2257	Lump of Mud	0	1200	0
+2258	Glittering Sand	0	1209	0
+2259	Sharp Paw	0	1213	0
+2260	Wish Crystal	0	1223	0
+2261	Black Gemstone	0	1229	0
+2262	Polluted Stem	0	1231	0
+2263	Basilisk Heart	0	1254	0
+2264	Skin Flake	0	1258	0
+2265	Moth Powder	0	1259	0
+2266	Wood Spirit Crystal	0	1263	0
+2267	Golden Leaf	0	1264	0
+2268	Fir Sap	0	1267	0
+2269	Hardened Heart	0	1295	0
+2270	Lizard Skin	0	2022	0
+2271	Brown Mane	0	2073	0
+2272	Hard Shell	0	2075	0
+2273	Giant Cell Clump	0	2076	0
+2274	Glowing Bag	0	2093	0
+2275	Sandstone	0	2105	0
+2276	Leech Tooth	0	2172	0
+2277	Clotted Blood	0	2177	0
+2278	Green Gel	0	2180	0
+2279	Polluted Sap	0	2180	0
+2280	Dye Bomb	30	2280	0
+2281	Pumpkin	-12	2281	0
+2282	Angel's Feather	0	2282	0
+2283	Shining Green Soul	0	2283	0
+2284	Shining Red Soul	0	2284	0
+2285	Shining Blue Soul	0	2285	0
+2286	Cake	-48	2286	0
+2287	Hot Chocolate	-24	2175	0
+2288	Cheese Sandwich	-112	2288	0
+2289	Spare Ribs	-36	2289	0
+2290	Fruit Tart	0	2290	0
+2291	Fruit Omelette	0	2291	0
+2292	Hamburger	-12	2292	0
+2293	Steak	-48	2293	0
+2294	Sweet Syrup	0	2294	0
+2295	Spices	0	2295	0
+2296	Water	0	2296	0
+2297	Holy Crystal Ball of Reputation	14	1064	0
+2298	Boiled Egg	-68	2298	0
+2299	Muffin	44	1801	0
+2300	Slice of Pizza	94	1802	0
+2301	Icicle with Syrup	-112	1803	0
+2302	Ice Lolly	-62	1804	0
+2303	Ice Cream Cone	38	2303	0
+2304	Coffee and Doughnut	-30	2304	0
+2305	Baguette	-36	2305	0
+2306	Sundae	8	2306	0
+2307	Ice Cubes	0	2307	0
+2308	Milk	0	2308	0
+2309	Fruit Ice Cream	0	2309	0
+2310	Chocolate Ice Cream	-48	2310	0
+2311	Base Teleporter	1	2311	0
+2312	Wing of Friendship (Event)	0	2160	0
+2313	Partner Medicine (Event)	12	2159	0
+2314	Pumpkin	-24	2281	0
+2315	Delicious Rye Bread	-24	2373	0
+2316	none	0	1134	0
+2317	none	0	1134	0
+2318	none	0	1134	0
+2319	none	0	1134	0
+2320	Raid Certificate	0	1523	0
+2321	Pirate Pet Trainer (Event)	0	2332	0
+2322	Yellow Pumpkin Sweet (Event)	-48	768	0
+2323	Scary Pet Trainer (Event)	0	2332	0
+2324	Black Pumpkin Sweet (Event)	0	769	0
+2325	Strange Pet Food	16	1445	0
+2326	Chocolate Cake	0	1534	0
+2327	Fresh Cream Cake	-48	2286	0
+2328	Rudolph's Pet Trainer	0	1535	0
+2329	Partner's Guardian Angel	0	1453	0
+2330	Tiny Lump of Gold	0	2644	0
+2331	Small Lump of Gold	0	2645	0
+2332	Large Lump of Gold	0	2646	0
+2333	Giant Lump of Gold	0	2647	0
+2336	Cake	-24	2286	0
+2337	Rice Cake Soup	-72	2176	0
+2338	Lucky Charm	0	2096	0
+2339	Flame Crystal	0	2339	0
+2341	none	0	2341	0
+2342	none	0	2342	0
+2343	none	0	2343	0
+2344	none	0	2344	0
+2345	none	0	2345	0
+2346	none	0	2346	0
+2347	Broken Relic Piece	0	2347	0
+2348	Shiny Violet Gemstone	0	2348	0
+2349	Shiny Sky Blue Gemstone	0	2349	0
+2350	Prickly Pear	-68	2350	0
+2351	Burning Chicken	-60	2351	0
+2352	Hot Leather	0	2047	0
+2353	Hot Fabric	0	2043	0
+2354	Hot Wood	0	2039	0
+2355	Hot Silver Thread	0	2208	0
+2356	Hot Golden Thread	0	2208	0
+2357	Godly Magic Crystal	0	2239	0
+2358	Dark Magic Crystal	0	2236	0
+2359	Godly Crystal	0	1194	0
+2360	Dark Crystal	0	1192	0
+2367	Violet Pumpkin Stone	0	2367	0
+2368	Orange Pumpkin Stone	0	2368	0
+2369	Light Blue Pumpkin Stone	0	2369	0
+2370	Akamur Mask Piece	0	2370	0
+2371	Desert Robber Mask Piece	0	2371	0
+2372	Akamur Badge	0	2372	0
+2373	Dried-Up Rye Bread	-68	2373	0
+2374	Oasis Spring Water	44	2374	0
+2375	Hot Lamb Skewer	-24	2375	0
+2376	Refreshing Groundwater	-12	2376	0
+2377	Hot Cocoa	0	2377	0
+2378	Cold Cocoa	-60	2378	0
+2379	Lamb	0	2379	0
+2380	Groundwater	0	2380	0
+2381	Huge Strawberry Box	0	2381	0
+2382	Ripe Grape Box	0	2382	0
+2383	Red Apple Box	0	2383	0
+2384	Wing of Return (Desert)	1	2384	0
+2385	Bag of Poisoned Prickly Pears	0	1738	0
+2386	Priest's Incense Stick	0	1774	0
+2387	Monk's Incense Stick	0	1774	0
+2388	Clergyman's Incense Stick	0	1774	0
+2389	Treasure Hunter's Incense Stick	0	1774	0
+2390	Medicine Bottle	0	1765	0
+2391	Sand Fairy Essence	0	1765	0
+2392	Wind Fairy Essence	0	1765	0
+2393	Earth Elf Essence	0	1765	0
+2394	Hot Lump of Metal	0	2035	0
+2395	Blue Gem	0	2352	0
+2396	Green Gem	0	2353	0
+2397	Yellow Gem	0	2354	0
+2399	Golden New Year's Carrot (Event)	0	1520	0
+2400	Fresh Carrot Juice (Event)	-120	1888	0
+2401	Tasty Carrot Snack (Event)	-48	1519	0
+2404	Evolution Fruit (Event)	0	2346	0
+2405	Chocolate Rabbit (Event)	-48	2405	0
+2418	Mysterious Hair Dye	10	2399	0
+2419	NosMate Summoning Book	17	2561	0
+2420	Summoning Horn	0	2014	0
+2421	Strange Partner Food	18	2580	0
+2422	Delicious Watermelon	-48	2618	0
+2423	Bean Rice Cake	-120	2670	0
+2424	Cure	-120	1251	0
+2425	Ginseng Leaf	-120	2715	0
+2426	Carrot	-12	2712	0
+2427	Zenas' Egg	0	2834	0
+2428	Glorious Multicoloured Acorn	0	2925	0
+2429	Erenia's Egg	0	2836	0
+2431	Fernon's Ei	0	2838	0
+2433	Holy Water of the Order	0	1154	0
+2434	Twilight Essence	0	2840	0
+2435	Abyssal Essence	0	2841	0
+2436	Sellaim's Essence	0	2842	0
+2437	Woondine's Essence	0	2843	0
+2438	Eperial's Essence	0	2844	0
+2439	Turik's Essence	0	2845	0
+2440	Elkaim's Essence	0	2846	0
+2441	Ladine's Essence	0	2847	0
+2442	Rumial's Essence	0	2848	0
+2443	Varik's Essence	0	2849	0
+2444	Fairy King's Essence	0	2850	0
+2445	Frost Crystal	0	2852	0
+2446	Fragment of the Fernon Tree	0	2853	0
+2447	Sealant	0	2854	0
+2448	Coolant	0	2855	0
+2449	Pure Mithril	0	2856	0
+2450	Adamantium	0	2857	0
+2451	Ertel	0	2858	0
+2452	Fernon's Energy	0	2859	0
+2453	Fernon's Essence	0	2860	0
+2454	Bloodstained Bandage	0	2875	0
+2455	Uncomfortable Clothing	0	2876	0
+2456	Lingering Malice	0	2877	0
+2457	Shining Dowsing Rod	4	2155	0
+2458	Ancient Dowsing Rod	4	2104	0
+2500	Grenigas Weapons Parchment	0	2443	0
+2501	Grenigas Secondary Weapons Parchment	0	2444	0
+2502	Grenigas Armour Parchment	0	2445	0
+2503	Earth Element	0	2446	0
+2504	Spring Water	0	2447	0
+2505	Earth Crystal	0	2448	0
+2506	Blazing Piece of Red Metal	0	2449	0
+2507	Ancient Civilisation Tablet	0	1787	0
+2508	Kertos' Pattern	0	1768	0
+2509	Katol's Pattern	0	1785	0
+2510	Grail's Pattern	0	1791	0
+2511	Dragon Skin	0	2550	0
+2512	Dragon Blood	0	2549	0
+2513	Dragon Heart	0	2548	0
+2514	Small Ruby of Completion	0	2601	0
+2515	Small Sapphire of Completion	0	2603	0
+2516	Small Obsidian of Completion	0	2602	0
+2517	Small Topaz of Completion	0	2604	0
+2518	Ruby of Completion	0	2597	0
+2519	Sapphire of Completion	0	2599	0
+2520	Obsidian of Completion	0	2598	0
+2521	Topaz of Completion	0	2600	0
+2522	Draco's Claw	0	2605	0
+2523	Glacerus' Mane	0	2606	0
+2524	Bean Flour Cake	0	2677	0
+2525	Bolt (Event)	0	2965	0
+2526	Nut (Event)	0	2966	0
+2527	Speed Booster Upgrade Kit	0	2967	0
+2528	Magic Cube (Event)	0	2981	0
+2529	Magic Cube (Event)	0	2981	0
+2530	Magic Cube (Event)	0	2981	0
+2531	Magic Cube (Event)	0	2981	0
+2532	Broken Key (Catacombs Exit)	0	2982	0
+2533	Savage Dyes	31	2987	0
+2534	Jelly Rolls Hair Wax	11	2983	0
+2535	Faux Hawk Undercut Hair Wax	11	2984	0
+2536	French Braid Hair Wax	11	2985	0
+2537	Choppy Bangs Hair Wax	11	2986	0
+2539	Cuarry Bank Debit Card	0	2992	0
+2600	Glob of Slime	0	2907	0
+2601	Familiar Mask	0	2335	0
+2602	Broken Key	0	2340	0
+2603	Dragon's Breath	0	2916	0
+2604	Pure Essence of Fire	0	2908	0
+2605	Fafnir's Energy	0	2917	0
+2606	Fafnir's Horn	0	2909	0
+2607	Fafnir's Heart	0	2910	0
+2608	Fafnir's Molar	0	2911	0
+2609	Fafnir's Scale	0	2913	0
+2610	Ancient Coin Bag	0	2912	0
+2611	Fafnir's Bugle	1	2914	0
+2797	Shining Parchment Scroll	0	2865	0
+2798	Parchment Scroll	0	2865	0
+2799	Mithril Medal	0	2886	0
+2800	Gold Medal	0	2611	0
+2801	Silver Medal	0	2612	0
+2802	Team Arena Snack	-84	1522	0
+2803	Element of Balance	0	2757	0
+2804	Essence of Balance	0	2756	0
+2805	Crystal of Balance	0	2755	0
+2806	Relic of the First Tribes	0	2733	0
+2807	Intact Relic of the First Tribes	0	2752	0
+2808	Mark of the Zealot	0	2734	0
+2809	Bacoom Horn	0	2738	0
+2810	Bacoom Tail	0	2737	0
+2811	Damaged Orichalcum	0	2740	0
+2812	Intact Orichalcum	0	2753	0
+2813	Floatstone	0	2851	0
+2814	Silk	0	2741	0
+2815	Soul of Innocence	0	2743	0
+2816	Unidentified Metal	0	2748	0
+2817	Unknown Sanctuary	0	2749	0
+2818	Silver Thread	0	2754	0
+2819	Golden Thread	0	2758	0
+2820	[Beginner] PvP Damage Boost	99	2797	0
+2821	[Intermediate] PvP Damage Boost	99	2797	0
+2822	[Advanced] PvP Damage Boost	99	2797	0
+2823	[Expert] PvP Damage Boost	99	2797	0
+2824	[Beginner] PvP Defence Boost	99	2798	0
+2825	[Intermediate] PvP Defence Boost	99	2798	0
+2826	[Advanced] PvP Defence Boost	99	2798	0
+2827	[Expert] PvP Defence Boost	99	2798	0
+2828	Journal of the Forgotten Hero D (1)	99	2799	0
+2829	Journal of the Forgotten Hero S (1)	99	2799	0
+2830	Journal of the Forgotten Hero J (1)	99	2799	0
+2831	Journal of the Forgotten Hero M (1)	99	2799	0
+2832	Journal of the Unknown Hero (1)	99	2799	0
+2833	Defensive Strategy of Lord Cuarry's Knights (1)	99	2799	0
+2834	Attack Strategy of Lord Cuarry's Knights (1)	99	2799	0
+2835	Fairy Affinity (1)	99	2799	0
+2836	Aurelius Roshu's Primordial History (1)	99	2799	0
+2837	Journal of the Akamur Merchants (1)	99	2799	0
+2838	Special	0	0	0
+2839	Journal of the Forgotten Hero D (2)	99	2799	0
+2840	Journal of the Forgotten Hero S (2)	99	2799	0
+2841	Journal of the Forgotten Hero J (2)	99	2799	0
+2842	Journal of the Forgotten Hero M (2)	99	2799	0
+2843	Journal of the Unknown Hero (2)	99	2799	0
+2844	Defensive Strategy of Lord Cuarry's Knights (2)	99	2799	0
+2845	Attack Strategy of Lord Cuarry's Knights (2)	99	2799	0
+2900	Broken Diamond	0	2454	0
+2901	Intact Diamond	0	2455	0
+3000	Residence	0	3000	0
+3001	Farmhouse	25	3001	0
+3002	Travel Tent	0	3002	0
+3003	Cottage	0	3003	0
+3004	Small Warehouse	14	3104	0
+3005	Medium Warehouse	21	3005	0
+3006	Steel Terrace Lamp	0	3006	0
+3007	Bronze Terrace Lamp	0	3007	0
+3008	Bonsai in a Round Pot	0	3008	0
+3009	Bonsai in a Square Pot	0	3009	0
+3010	Bonsai in Lotus-Shaped Pot	0	3010	0
+3011	Tomato Plant	0	3011	0
+3012	Yellow Tomato Plant	0	3012	0
+3013	Tomato Plant in Terracotta Pot	0	3013	0
+3014	Yellow Tomato Plant in Terracotta Pot	0	3014	0
+3015	White Shelf	0	3015	0
+3016	Pink Shelf	0	3016	0
+3017	Marble Wooly Sculpture	0	3017	0
+3018	Golden Wooly Sculpture	0	3018	0
+3019	NotUse	0	3019	0
+3020	Orange Flowers in White Tub	3	3020	0
+3021	Colourful Flowers in Brown Tub	3	3021	0
+3022	Orange Flowers in Brown Tub	3	3022	0
+3023	Colourful Flowers in White Tub	3	3023	0
+3024	Bronze Dryad Sculpture	12	3024	0
+3025	Green Dryad Sculpture	12	3025	0
+3026	Modern Bronze Lantern	6	3026	0
+3027	Modern Steel Lantern	6	3027	0
+3028	White Parasol	4	3028	0
+3029	Striped Parasol	4	3029	0
+3030	Pink Parasol	4	3030	0
+3031	Starry Parasol	4	3031	0
+3032	Dark Green Bush	1	3032	0
+3033	Bush with Yellow Fruits	1	3033	0
+3034	Light Green Bush	1	3034	0
+3035	Bush with Red Fruits	1	3035	0
+3036	White Lily in Blue Pot	0	3036	0
+3037	White Lily in Terracotta Pot	0	3037	0
+3038	White Lily in Green Pot	0	3038	0
+3039	Yellow Lily in Blue Pot	0	3039	0
+3040	Yellow Lily in Terracotta Pot	0	3040	0
+3041	Yellow Lily in Green Pot	0	3041	0
+3042	Red Lily in Blue Pot	0	3042	0
+3043	Red Lily in Terracotta Pot	0	3043	0
+3044	Red Lily in Green Pot	0	3044	0
+3045	Purple Hyacinth in Blue Pot	0	3045	0
+3046	Purple Hyacinth in Terracotta Pot	0	3046	0
+3047	Purple Hyacinth in Green Pot	0	3047	0
+3048	Pink Hyacinth in Blue Pot	0	3048	0
+3049	Pink Hyacinth in Terracotta Pot	0	3049	0
+3050	Pink Hyacinth in Green Pot	0	3050	0
+3051	Dusky Pink Hyacinth in Blue Pot	0	3051	0
+3052	Dusky Pink Hyacinth in Terracotta Pot	0	3052	0
+3053	Dusky Pink Hyacinth in Green Pot	0	3053	0
+3054	Elephant Sculpture	0	3054	0
+3055	Hamster Sculpture	8	3055	0
+3056	Little Pink Picnic Set	4	3056	0
+3057	Bushtail Sculpture	0	3057	0
+3058	NotUse	0	3058	0
+3059	Romantic Pond	0	3059	0
+3060	NotUse	0	3060	0
+3061	NotUse	0	3061	0
+3062	NotUse	0	3062	0
+3063	Flower Bed of Red Roses	0	3063	0
+3064	Flower Bed of White Roses	0	3064	0
+3065	NotUse	0	3065	0
+3066	NotUse	0	3066	0
+3067	NotUse	0	3067	0
+3068	NotUse	0	3068	0
+3069	Small Tent	0	3069	0
+3070	Pink Carpet	0	3070	0
+3071	Green Carpet	0	3071	0
+3072	Decorative Granite Stone	0	3072	0
+3073	Decorative Quartz Stone	0	3073	0
+3074	Light Decorative Rocks	0	3074	0
+3075	Dark Decorative Rocks	0	3075	0
+3076	NotUse	0	3076	0
+3077	NotUse	0	3077	0
+3078	Antique Tea Table	0	3078	0
+3079	Luxury Tea Table	0	3079	0
+3080	Mahogany Banquet Table	0	3080	0
+3081	Pine Banquet Table	0	3081	0
+3082	Marble Dinner Table	0	3082	0
+3083	Cherry Wood Dinner Table	0	3083	0
+3084	Pink Birthday Party Table	0	3084	0
+3085	Orange Birthday Party Table	0	3085	0
+3086	Dark Green Tree	0	3086	0
+3087	Tree with Red Fruit	0	3087	0
+3088	Tree with Yellow Fruit	0	3088	0
+3089	Light Green Tree	0	3089	0
+3090	Chestnut Pot with Violas	0	3090	0
+3091	Chestnut Pot with Summer Flowers	0	3091	0
+3092	Chestnut Pot with Pink Flowers	0	3092	0
+3093	Oak Pot with Violas	0	3093	0
+3094	Oak Pot with Summer Flowers	0	3094	0
+3095	Oak Pot with Pink Flowers	0	3095	0
+3096	Heart of Red Roses	0	3096	0
+3097	Heart of White Roses	0	3097	0
+3098	Blue Luxury Picnic Set	0	3098	0
+3099	Red Luxury Picnic Set	0	3099	0
+3100	Golden Fox Sculpture	0	3100	0
+3101	Marble Fox Sculpture	0	3101	0
+3102	Large Warehouse	35	3102	0
+3103	Beach House	0	3103	0
+3104	Tiny Warehouse	7	3104	0
+3105	NotUse	0	1500	0
+3106	Garden Shed	0	1500	0
+3107	NotUse	0	3107	0
+3108	Antique Steel Lantern	0	3108	0
+3109	Antique Bronze Lantern	0	3109	0
+3110	Tree with Orange Fruit	0	3110	0
+3111	Tree with Pink Fruit	0	3111	0
+3112	Extra Large Warehouse (30 Days)	56	3112	0
+3113	Christmas Tree	0	3113	0
+3114	Christmas Decoration	0	3114	0
+3115	NotUse	0	3115	0
+3116	Extra Large Warehouse (Permanent)	56	3112	0
+3117	Basic Quarry	-72	3117	0
+3118	Basic Sawmill	-72	3118	0
+3119	Basic Firing Range	-72	3119	0
+3120	Basic Fishpond	-72	3120	0
+3121	Good Quarry	112	3121	0
+3122	Good Sawmill	112	3122	0
+3123	Good Firing Range	112	3123	0
+3124	Good Fishpond	112	3124	10
+3125	Great Quarry	-32	3125	0
+3126	Great Sawmill	-32	3126	0
+3127	Great Firing Range	-32	3127	0
+3128	Great Fishpond	-32	3128	0
+3129	Airwaves	0	3129	0
+3130	Typewriter	-32	3130	0
+3131	Memory Table	-32	3131	0
+3132	Residence	0	3000	0
+3133	Farmhouse	25	3001	0
+3134	Travel Tent	0	3002	0
+3135	none	0	3135	0
+3136	Cottage	0	3003	0
+3137	Medium Warehouse	21	3005	0
+3138	Steel Terrace Lamp	0	3006	0
+3139	Bronze Terrace Lamp	0	3007	0
+3140	Bonsai in a Round Pot	0	3008	0
+3141	Bonsai in a Square Pot	0	3009	0
+3142	Bonsai in Lotus-Shaped Pot	0	3010	0
+3143	Tomato Plant	0	3011	0
+3144	Yellow Tomato Plant	0	3012	0
+3145	Tomato Plant in Terracotta Pot	0	3013	0
+3146	Yellow Tomato Plant in Terracotta Pot	0	3014	0
+3147	White Shelf	0	3015	0
+3148	Pink Shelf	0	3016	0
+3149	Marble Wooly Sculpture	0	3017	0
+3150	Golden Wooly Sculpture	0	3018	0
+3151	Orange Flowers in White Tub	3	3020	0
+3152	Colourful Flowers in Brown Tub	3	3021	0
+3153	Orange Flowers in Brown Tub	3	3022	0
+3154	Colourful Flowers in White Tub	3	3023	0
+3155	Bronze Dryad Sculpture	12	3024	0
+3156	Green Dryad Sculpture	12	3025	0
+3157	Modern Bronze Lantern	6	3026	0
+3158	Modern Steel Lantern	6	3027	0
+3159	White Parasol	4	3028	0
+3160	Striped Parasol	4	3029	0
+3161	Pink Parasol	4	3030	0
+3162	Starry Parasol	4	3031	0
+3163	Dark Green Bush	1	3032	0
+3164	Bush with Yellow Fruits	1	3033	0
+3165	Light Green Bush	1	3034	0
+3166	Bush with Red Fruits	1	3035	0
+3167	White Lily in Blue Pot	0	3036	0
+3168	White Lily in Terracotta Pot	0	3037	0
+3169	White Lily in Green Pot	0	3038	0
+3170	Yellow Lily in Blue Pot	0	3039	0
+3171	Yellow Lily in Terracotta Pot	0	3040	0
+3172	Yellow Lily in Green Pot	0	3041	0
+3173	Red Lily in Blue Pot	0	3042	0
+3174	Red Lily in Terracotta Pot	0	3043	0
+3175	Red Lily in Green Pot	0	3044	0
+3176	Purple Hyacinth in Blue Pot	0	3045	0
+3177	Purple Hyacinth in Terracotta Pot	0	3046	0
+3178	Purple Hyacinth in Green Pot	0	3047	0
+3179	Pink Hyacinth in Blue Pot	0	3048	0
+3180	Pink Hyacinth in Terracotta Pot	0	3049	0
+3181	Pink Hyacinth in Green Pot	0	3050	0
+3182	Dusky Pink Hyacinth in Blue Pot	0	3051	0
+3183	Dusky Pink Hyacinth in Terracotta Pot	0	3052	0
+3184	Dusky Pink Hyacinth in Green Pot	0	3053	0
+3185	Elephant Sculpture	0	3054	0
+3186	Hamster Sculpture	8	3055	0
+3187	Little Pink Picnic Set	4	3056	0
+3188	Bushtail Sculpture	0	3057	0
+3189	Romantic Pond	0	3059	0
+3190	Flower Bed of Red Roses	0	3063	0
+3191	Flower Bed of White Roses	0	3064	0
+3192	Small Tent	0	3069	0
+3193	Pink Carpet	0	3070	0
+3194	Green Carpet	0	3071	0
+3195	Decorative Granite Stone	0	3072	0
+3196	Decorative Quartz Stone	0	3073	0
+3197	Light Decorative Rocks	0	3074	0
+3198	Dark Decorative Rocks	0	3075	0
+3199	Antique Tea Table	0	3078	0
+3200	Luxury Tea Table	0	3079	0
+3201	Mahogany Banquet Table	0	3080	0
+3202	Pine Banquet Table	0	3081	0
+3203	Marble Dinner Table	0	3082	0
+3204	Cherry Wood Dinner Table	0	3083	0
+3205	Pink Birthday Party Table	0	3084	0
+3206	Orange Birthday Party Table	0	3085	0
+3207	Dark Green Tree	0	3086	0
+3208	Tree with Red Fruit	0	3087	0
+3209	Tree with Yellow Fruit	0	3088	0
+3210	Light Green Tree	0	3089	0
+3211	Chestnut Pot with Violas	0	3090	0
+3212	Chestnut Pot with Summer Flowers	0	3091	0
+3213	Chestnut Pot with Pink Flowers	0	3092	0
+3214	Oak Pot with Violas	0	3093	0
+3215	Oak Pot with Summer Flowers	0	3094	0
+3216	Oak Pot with Pink Flowers	0	3095	0
+3217	Heart of Red Roses	0	3096	0
+3218	Heart of White Roses	0	3097	0
+3219	Blue Luxury Picnic Set	0	3098	0
+3220	Red Luxury Picnic Set	0	3099	0
+3221	Golden Fox Sculpture	0	3100	0
+3222	Marble Fox Sculpture	0	3101	0
+3223	Large Warehouse	35	3102	0
+3224	Beach House	0	3103	0
+3225	Antique Steel Lantern	0	3108	0
+3226	Antique Bronze Lantern	0	3109	0
+3227	Tree with Orange Fruit	0	3110	0
+3228	Tree with Pink Fruit	0	3111	0
+3229	Extra Large Warehouse (30 Days)	56	3112	0
+3230	Christmas Tree	0	3113	0
+3231	Christmas Decoration	0	3114	0
+3232	Extra Large Warehouse (Permanent)	56	3112	0
+3800	Miniland Theme "Spring"	0	3000	0
+3801	Miniland Theme "Summer"	0	3000	0
+3802	Miniland Theme "Autumn"	0	3000	0
+3803	Miniland Theme "Winter"	0	3000	0
+4000	Desert Robbers' Longsword	83	349	2
+4001	Great Leader's Cut Sword	90	4001	2
+4002	Desert Robbers' Bow	83	353	4
+4003	Great Leader's Recurve Bow	90	4003	4
+4004	Desert Robbers' Walking Stick	83	356	8
+4005	Great Leader's Magic Wand	90	4005	8
+4006	Desert Vagabond's Crossbow	80	291	2
+4007	Great Leader's Crossbow	90	352	2
+4008	Desert Scorpion Dagger	80	289	4
+4009	Great Leader's Knife	90	351	4
+4010	Desert Magician's Magic Wand	80	293	8
+4011	Great Leader's Magic Weapon	90	355	8
+4012	Robber Gang's Golden Armour	85	298	2
+4013	Commander's Heavy Armour	90	360	2
+4014	Robber Gang's Shining Armour	88	409	2
+4015	Robber Gang's Golden Tunic	85	296	4
+4016	Commander's Leather Armour	90	359	4
+4017	Robber Gang's Shining Leather Armour	88	410	4
+4018	Robber Gang's Golden Robe	85	272	8
+4019	Commander's Robe	90	358	8
+4020	Robber Gang's Shining Robe	88	411	8
+4021	Master Robber's Hat	75	894	30
+4022	Commander's Turban	80	893	30
+4023	Great Leader's Turban	80	893	30
+4024	Sand Spirit's Protective Helmet	75	917	30
+4025	Wind Spirit's Protective Helmet	75	917	30
+4026	Desert Robbers' Protective Helmet	75	894	30
+4027	Merchant Protective Helmet	75	917	30
+4028	Newcomer Robbers' Headband	75	894	30
+4029	Master Robber's Mask	75	366	14
+4030	Merchant Mask	75	362	14
+4031	Robber Mask	75	361	14
+4032	First Aid Mask	75	362	14
+4033	Inspector's Mask	75	361	14
+4034	Mask of the Elite	80	363	30
+4035	Commander's Mask	80	225	30
+4036	Robber Gang's Silver Gloves	75	716	0
+4037	Robber Gang's Shining Gloves	75	61	0
+4038	Sea View Gloves	75	705	0
+4039	Black Stone Leather Gloves	75	703	0
+4040	Master Robber's Gloves	75	707	0
+4041	Robber Gang's Silver Shoes	75	710	0
+4042	Robber Gang's Shining Shoes	75	711	0
+4043	Sea View Boots	75	65	0
+4044	Black Stone Leather Boots	75	721	0
+4045	Master Robber's Shoes	75	722	0
+4046	Tarot Card (Fool)	1	656	0
+4047	Tarot Card (The Magician)	1	657	0
+4048	Tarot Card (The Lovers)	1	658	0
+4049	Tarot Card (The Hermit)	1	659	0
+4050	Tarot Card (Death)	1	660	0
+4051	Tarot Card (The Devil)	1	661	0
+4052	Tarot Card (The Tower)	1	662	0
+4053	Tarot Card (The Star)	1	663	0
+4054	Tarot Card (The Moon)	1	664	0
+4055	Tarot Card (The Sun)	1	588	0
+4056	Lightning Talisman	60	578	0
+4057	Wave Talisman	60	579	0
+4058	Cloud Talisman	60	581	0
+4059	Wind Talisman	60	582	0
+4060	Fire Talisman	60	584	0
+4061	Football Bushtail	1	776	0
+4062	Referee Bushtail	1	777	0
+4063	Rusty Robby	1	784	0
+4064	Aqua Bushi Hat (Permanent)	20	1414	14
+4065	Aqua Bushi Costume (Permanent)	20	1415	14
+4066	Super Pumpkin Bushi	1	950	0
+4067	Santa Bushtail Costume (1 Day)	20	1513	14
+4068	Santa Bushtail Hat (1 Day)	20	1512	14
+4069	Santa Bushtail Costume (7 Days)	20	1513	14
+4070	Santa Bushtail Hat (7 Days)	20	1512	14
+4071	Santa Bushtail Costume (30 Days)	20	1513	14
+4072	Santa Bushtail Hat (30 Days)	20	1512	14
+4073	Santa Bushi Costume (Permanent)	20	1513	14
+4074	Santa Bushtail Hat (Permanent)	20	1512	14
+4075	Christmas Costume (Permanent)	20	976	14
+4076	Christmas Hat (Permanent)	20	973	14
+4077	Santa Bushi Costume (Permanent)	20	1513	14
+4078	Santa Bushtail Hat (Permanent)	20	1512	14
+4079	none	1	348	0
+4080	Special Ops Bushi	1	1418	0
+4081	Shiny Chicken Queen's Egg (Event)	1	1406	0
+4082	Chicken Queen's Egg (Event)	1	1409	0
+4083	Raid Box (Event)	0	302	0
+4084	Chick Norris' Egg	1	4084	0
+4085	Black Bushi	1	1419	0
+4086	Blue Bushi	1	1420	0
+4087	Green Bushi	1	1421	0
+4088	Red Bushi	1	1422	0
+4089	Pink Bushi	1	1423	0
+4090	Turquoise Bushi	1	1424	0
+4091	Yellow Bushi	1	1425	0
+4092	none	20	969	14
+4093	none	20	969	14
+4094	none	20	969	14
+4095	none	20	971	14
+4096	none	20	971	14
+4097	none	20	971	14
+4098	none	1	192	0
+4099	Pirate Specialist Card	1	915	31
+4100	Pirate Specialist Card (Event)	1	915	31
+4101	Pirate Bushi (Water)	1	1524	0
+4102	Mini Jackpen	1	1438	0
+4103	Pirate Bushi (Fire)	1	1525	0
+4104	Pirate Bushi (Light)	1	1526	0
+4105	Pirate Bushi (Shadow)	1	1527	0
+4106	Mount Bead	0	798	0
+4107	Black Bushi Costume (Permanent)	20	764	14
+4108	Blue Bushi Costume (Permanent)	20	760	14
+4109	Green Bushi Costume (Permanent)	20	752	14
+4110	Red Bushi Costume (Permanent)	20	754	14
+4111	Pink Bushi Costume (Permanent)	20	758	14
+4112	Turquoise Bushi Costume (Permanent)	20	762	14
+4113	Yellow Bushi Costume (Permanent)	20	756	14
+4114	Black Bushi Hat (Permanent)	20	765	14
+4115	Blue Bushi Hat (Permanent)	20	761	14
+4116	Green Bushi Hat (Permanent)	20	753	14
+4117	Red Bushi Hat (Permanent)	20	755	14
+4118	Pink Bushi Hat (Permanent)	20	759	14
+4119	Turquoise Bushi Hat (Permanent)	20	763	14
+4120	Yellow Bushi Hat (Permanent)	20	757	14
+4121	Pumpkin Hat (1 Day)	20	767	14
+4122	Pumpkin Hat (7 Days)	20	767	14
+4123	Pumpkin Hat (30 Days)	20	767	14
+4124	Pumpkin Hat (Permanent)	20	767	14
+4125	Shogun Bushi	1	814	0
+4126	Centurio Bushi	1	1506	0
+4127	Rudolph Bushi	1	1528	0
+4128	Young Rudolph Bushi	1	1528	0
+4129	Elkaim	1	987	10
+4130	Ladine	2	988	10
+4131	Rumial	3	989	10
+4132	Varik	4	993	10
+4133	Mysterious Egg	1	2532	0
+4134	Seraphim Egg	1	2533	0
+4135	Fluffy Rabbit Ears (m) (1 Day)	20	2535	14
+4136	Fluffy Rabbit Ears (m) (7 Days)	20	2535	14
+4137	Fluffy Rabbit Ears (m) (30 Days)	20	2535	14
+4138	Fluffy Rabbit Ears (m) (Permanent)	20	2535	14
+4139	Fluffy Rabbit Ears (f) (1 Day)	20	2536	14
+4140	Fluffy Rabbit Ears (f) (7 Days)	20	2536	14
+4141	Fluffy Rabbit Ears (f) (30 Days)	20	2536	14
+4142	Fluffy Rabbit Ears (f) (Permanent)	20	2536	14
+4143	Fluffy Rabbit Costume (m) (1 Day)	20	2537	14
+4144	Fluffy Rabbit Costume (m) (7 Days)	20	2537	14
+4145	Fluffy Rabbit Costume (m) (30 Days)	20	2537	14
+4146	Fluffy Rabbit Costume (m) (Permanent)	20	2537	14
+4147	Fluffy Rabbit Costume (f) (1 Day)	20	2538	14
+4148	Fluffy Rabbit Costume (f) (7 Days)	20	2538	14
+4149	Fluffy Rabbit Costume (f) (30 Days)	20	2538	14
+4150	Fluffy Rabbit Costume (f) (Permanent)	20	2538	14
+4151	Mysterious Egg	1	2532	0
+4152	German Football Bushi	1	1989	0
+4153	French Football Bushi	1	1990	0
+4154	English Football Bushi	1	1991	0
+4155	Italian Football Bushi	1	1992	0
+4156	Spanish Football Bushi	1	1993	0
+4157	Polish Football Bushi	1	1994	0
+4158	Russian Football Bushi	1	1995	0
+4159	Czech Football Bushi	1	1996	0
+4160	Turkish Football Bushi	1	1997	0
+4161	Straw Hat (1 Day)	20	2557	14
+4162	Straw Hat (7 Days)	20	2557	14
+4163	Straw Hat (30 Days)	20	2557	14
+4164	Straw Hat (Permanent)	20	2557	14
+4165	Mini Kangpen	1	2559	0
+4166	Leona	1	2558	0
+4167	Darko the Hell Pup	1	2560	0
+4168	Fibi Frosty	1	2564	0
+4169	Glowing Pumpkin Hat (1 Day)	20	2565	14
+4170	Glowing Pumpkin Hat (7 Days)	20	2565	14
+4171	Glowing Pumpkin Hat (30 Days)	20	2565	14
+4172	Glowing Pumpkin Hat (Permanent)	20	2565	14
+4173	Spooky Tarot Card [Ghost]	1	2566	0
+4174	Spooky Tarot Card [Dracula]	1	2567	0
+4175	Spooky Tarot Card [Scarecrow]	1	2568	0
+4176	Oto-Fox Costume (30 Days)	20	2569	14
+4177	Oto-Fox Costume (Permanent)	20	2569	14
+4178	Oto-Fox Hat (30 Days)	20	2570	14
+4179	Oto-Fox Hat (Permanent)	20	2570	14
+4180	Magic Hat of Light (30 Days)	20	2609	14
+4181	Magic Hat of Light (Permanent)	20	2609	14
+4182	Magic Hat of Shadow (30 Days)	20	2607	14
+4183	Magic Hat of Shadow (Permanent)	20	2607	14
+4184	Magic Garment of Light (30 Days)	20	2610	14
+4185	Magic Garment of Light (Permanent)	20	2610	14
+4186	Magic Robe of Shadow (30 Days)	20	2608	14
+4187	Magic Robe of Shadow (Permanent)	20	2608	14
+4188	Navy Bushtail	1	2616	0
+4189	Pirate Bushi (Water)	1	1524	0
+4190	Pirate Bushi (Fire)	1	1525	0
+4191	Pirate Bushi (Light)	1	1526	0
+4192	Pirate Bushi (Shadow)	1	1527	0
+4193	Leona	1	2558	0
+4194	Fairy Bead	0	2562	0
+4195	Football Cap (Permanent)	20	2652	14
+4196	Football Jersey (Permanent)	20	2653	14
+4197	Rudi Rowdy	1	2572	0
+4198	Young Rudi Rowdy	1	2572	0
+4199	Fluffy Bally	1	2581	0
+4200	Inferno	1	2596	0
+4201	Navy Hat (1 Day)	20	2614	14
+4202	Navy Hat (7 Days)	20	2614	14
+4203	Navy Hat (30 Days)	20	2614	14
+4204	Navy Hat (Permanent)	20	2614	14
+4205	Navy Costume (1 Day)	20	2615	14
+4206	Navy Costume (7 Days)	20	2615	14
+4207	Navy Costume (30 Days)	20	2615	14
+4208	Navy Costume (Permanent)	20	2615	14
+4209	Aqua Bushtail Hat (7 Days)	20	1414	14
+4210	Aqua Bushtail Hat (30 Days)	20	1414	14
+4211	Aqua Bushi Hat (Permanent)	20	1414	14
+4212	Aqua Bushtail Costume (7 Days)	20	1415	14
+4213	Aqua Bushtail Costume (30 Days)	20	1415	14
+4214	Aqua Bushi Costume (Permanent)	20	1415	14
+4215	Navy Bushtail	1	2616	0
+4216	Pink Party Diadem (30 Days)	20	2632	14
+4217	Yellow Party Diadem (30 Days)	20	2633	14
+4218	Blue Party Diadem (30 Days)	20	2634	14
+4219	Pink Party Diadem (Permanent)	20	2632	14
+4220	Yellow Party Diadem (Permanent)	20	2633	14
+4221	Blue Party Diadem (Permanent)	20	2634	14
+4222	Pink Party Dress (30 Days)	20	2635	14
+4223	Yellow Party Dress (30 Days)	20	2636	14
+4224	Blue Party Dress (30 Days)	20	2637	14
+4225	Pink Party Dress (Permanent)	20	2635	14
+4226	Yellow Party Dress (Permanent)	20	2636	14
+4227	Blue Party Dress (Permanent)	20	2637	14
+4228	Red Peaked Cap (30 Days)	20	2638	14
+4229	Golden Peaked Cap (30 Days)	20	2639	14
+4230	Brown Peaked Cap (30 Days)	20	2640	14
+4231	Red Peaked Cap (Permanent)	20	2638	14
+4232	Golden Peaked Cap (Permanent)	20	2639	14
+4233	Brown Peaked Cap (Permanent)	20	2640	14
+4234	Red Detective's Suit (30 Days)	20	2641	14
+4235	Golden Detective's Suit (30 Days)	20	2642	14
+4236	Brown Detective's Suit (30 Days)	20	2643	14
+4237	Red Detective's Suit (Permanent)	20	2641	14
+4238	Golden Detective's Suit (Permanent)	20	2642	14
+4239	Brown Detective's Suit (Permanent)	20	2643	14
+4240	Golden Specialist Card Holder	0	2661	0
+4241	Cuddly Tiger Costume (1 Day)	20	2684	14
+4242	Cuddly Tiger Costume (7 Days)	20	2684	14
+4243	Cuddly Tiger Costume (30 Days)	20	2684	14
+4244	Cuddly Tiger Costume (Permanent)	20	2684	14
+4245	Snow White Tiger Costume (1 Day)	20	2686	14
+4246	Snow White Tiger Costume (7 Days)	20	2686	14
+4247	Snow White Tiger Costume (30 Days)	20	2686	14
+4248	Snow White Tiger Costume (Permanent)	20	2686	14
+4249	Cuddly Tiger Hat (1 Day)	20	2683	14
+4250	Cuddly Tiger Hat (7 Days)	20	2683	14
+4251	Cuddly Tiger Hat (30 Days)	20	2683	14
+4252	Cuddly Tiger Hat (Permanent)	20	2683	14
+4253	Snow White Tiger Hat (1 Day)	20	2685	14
+4254	Snow White Tiger Hat (7 Days)	20	2685	14
+4255	Snow White Tiger Hat (30 Days)	20	2685	14
+4256	Snow White Tiger Hat (Permanent)	20	2685	14
+4257	Illusionist's Costume (30 Days)	20	2802	14
+4258	Illusionist's Costume (Permanent)	20	2802	14
+4259	Illusionist's Top Hat (30 Days)	20	2801	14
+4260	Illusionist's Top Hat (Permanent)	20	2801	14
+4261	Champion Amulet for Increasing Rarity	1	2804	0
+4262	Champion Blessing Amulet (Random)	1	2805	0
+4263	Champion Amulet for Increasing Rarity	1	2807	0
+4264	Champion Blessing Amulet	1	2808	0
+4265	Groovy Beach Hat (30 Days)	20	2884	14
+4266	Groovy Beach Hat (Permanent)	20	2884	14
+4267	Groovy Beach Costume (30 Days)	20	2885	14
+4268	Groovy Beach Costume (Permanent)	20	2885	14
+4269	Leo the Coward	1	2883	0
+4270	Baseball Bat Skin (30 Days)	20	2887	2
+4271	Baseball Bat Skin (Permanent)	20	2887	2
+4272	Recurve Bow Skin (30 Days)	20	2888	4
+4273	Recurve Bow Skin (Permanent)	20	2888	4
+4274	Tennis Racquet Skin (30 Days)	20	2889	8
+4275	Tennis Racquet Skin (Permanent)	20	2889	8
+4276	Imp Cudgel Skin (30 Days)	20	2892	2
+4277	Imp Cudgel Skin (Permanent)	20	2892	2
+4278	Wildflower Bow Skin (30 Days)	20	2893	4
+4279	Wildflower Bow Skin (Permanent)	20	2893	4
+4280	Uchiwa Skin (30 Days)	20	2894	8
+4281	Uchiwa Skin (Permanent)	20	2894	8
+4282	Police Cap (30 Days)	20	2890	14
+4283	Police Cap (Permanent)	20	2890	14
+4284	Police Uniform (30 Days)	20	2891	14
+4285	Police Uniform (Permanent)	20	2891	14
+4286	Concierge Hat (30 Days)	20	2895	14
+4287	Concierge Hat (Permanent)	20	2895	14
+4288	Concierge Uniform (30 Days)	20	2896	14
+4289	Concierge Uniform (Permanent)	20	2896	14
+4290	none	1	656	0
+4291	none	1	657	0
+4292	none	1	658	0
+4293	none	1	659	0
+4294	none	1	660	0
+4295	none	1	661	0
+4296	none	1	662	0
+4297	none	1	663	0
+4298	none	1	664	0
+4299	none	1	588	0
+4300	Viking Helmet (30 Days)	20	2900	30
+4301	Viking Helmet (Permanent)	20	2900	30
+4302	Viking Armour (30 Days)	20	2901	30
+4303	Viking Armour (Permanent)	20	2901	30
+4304	Frigg's Key	1	2902	0
+4305	Ragnar's Key	1	2903	0
+4306	Erdimien's Key	1	2915	0
+4307	Dragon Wing Decoration	70	2904	14
+4308	Old Viking Costume (7 Days)	20	2901	30
+4309	Steampunk Chronoblade (Permanent)	20	2918	2
+4310	Steampunk Clockwork Bow (Permanent)	20	2919	4
+4311	Steampunk Geared Wand (Permanent)	20	2920	8
+4312	Steampunk Chronoblade (30 Days)	20	2918	2
+4313	Steampunk Clockwork Bow (30 Days)	20	2919	4
+4314	Steampunk Geared Wand (30 Days)	20	2920	8
+4315	Jennifer's Key	1	2926	0
+4316	Desert Turban (30 Days)	20	2933	14
+4317	Desert Turban (Permanent)	20	2933	14
+4318	Floral Crown (30 Days)	20	2935	14
+4319	Floral Crown (Permanent)	20	2935	14
+4320	Desert Robe (30 Days)	20	2934	14
+4321	Desert Robe (Permanent)	20	2934	14
+4322	Belly Dancer Costume (30 Days)	20	2936	14
+4323	Belly Dancer Costume (Permanent)	20	2936	14
+4326	Bone Warrior Ragnar's Specialist Partner Card	1	2943	0
+4327	Yertirand's Wand	85	2938	8
+4328	Twisted Yertirand's Wand	85	2939	8
+4329	Dragonrider's Gloves	80	2940	0
+4330	Yertirand's Key	1	2941	0
+4331	Lich Energy Necklace	80	2945	0
+4332	Lich Energy Ring	80	2947	0
+4333	Lich Energy Bracelet	80	2946	0
+4334	Dragonrider's Helm	80	2948	30
+4335	Dragonrider's Shoes	80	2949	0
+4336	Sir Purcival	1	2950	0
+4337	Baron Scratch	1	2951	0
+4338	Admiral Horatio Ginger Bead	1	2952	0
+4339	Pirate King Blackwhiskers Bead	1	2953	0
+4340	Magic Speed Booster (1 Day)	120	2957	10
+4341	Magic Speed Booster (3 Days)	120	2957	10
+4342	Magic Speed Booster (7 Days)	120	2957	0
+4343	Mad Professor Macavity's Test Subject	1	2962	0
+4344	White Witch Laurena's Disguise	30	2958	30
+4345	Mad Professor Macavity	1	2963	0
+4346	Skelekat Groom Bead	1	4042	0
+4347	Zombikit Bride Bead	1	4043	0
+4348	MechaMog Bead	1	4050	0
+4350	10th Anniversary Cake Knife Skin (10 Days)	20	2959	2
+4351	10th Anniversary Cake Skin (10 Days)	20	2960	4
+4352	10th Anniversary Firecracker Skin (10 Days)	20	2961	8
+4353	10th Anniversary Cake Knife Skin (Permanent)	20	2959	2
+4354	10th Anniversary Cake Skin (Permanent)	20	2960	4
+4355	10th Anniversary Firecracker Skin (Permanent)	20	2961	8
+4356	Mother Nature's Lightning Rune	30	2973	0
+4357	Mother Nature's Tree Rune	30	2974	0
+4358	Mother Nature's Cloud Rune	30	2975	0
+4359	Mother Nature's Fire Rune	30	2976	0
+4360	Mother Nature's Lightning Rune (Rare)	30	2977	0
+4361	Mother Nature's Tree Rune (Rare)	30	2978	0
+4362	Mother Nature's Cloud Rune (Rare)	30	2979	0
+4363	Mother Nature's Fire Rune (Rare)	30	2980	0
+4364	Reindeer Hat (30 Days)	20	2993	14
+4365	Reindeer Hat (Permanent)	20	2993	14
+4366	Reindeer Costume (30 Days)	20	2994	14
+4367	Reindeer Costume (Permanent)	20	2994	14
+4368	Christmas Tree (30 Days)	20	2995	2
+4369	Candy Bow (30 Days)	20	2996	4
+4370	Christmas Bell (30 Days)	20	2997	8
+4371	Christmas Tree (Permanent)	20	2995	2
+4372	Candy Bow (Permanent)	20	2996	4
+4373	Christmas Bell (Permanent)	20	2997	8
+4374	Winter Hat (30 days)	20	4006	14
+4375	Winter Hat (Permanent)	20	4006	14
+4376	Long Winter Coat (30 days)	20	4007	14
+4377	Long Winter Coat (Permanent)	20	4007	14
+4378	Spiky Hairstyle	20	429	14
+4379	Dragon Knight Costume (30 Days)	20	4008	14
+4380	Dragon Knight Costume (Permanent)	20	4008	14
+4381	Frost Warrior?s Helm (30 days)	20	4010	14
+4382	Frost Warrior?s Helm (Permanent)	20	4010	14
+4383	Frost Warrior?s Armour (30 days)	20	4011	14
+4384	Frost Warrior?s Armour (Permanent)	20	4011	14
+4385	Puppet Master's Hairpin (30 Days)	20	4046	30
+4386	Puppet Master's Hairpin (Permanent)	20	4046	30
+4387	Puppet Master's Dress (30 Days)	20	4047	30
+4388	Puppet Master's Dress (Permanent)	20	4047	30
+4389	Puppet Master's Bear Head (30 Days)	20	4044	30
+4390	Puppet Master's Bear Head (Permanent)	20	4044	30
+4391	Puppet Master's Bear Costume (30 Days)	20	4045	30
+4392	Puppet Master's Bear Costume (Permanent)	20	4045	30
+4393	Karate Hairstyle (30 days)	20	4056	30
+4394	Karate Hairstyle (Permanent)	20	4056	30
+4395	Karate Gi (30 Days)	20	4057	30
+4396	Karate Gi (Permanent)	20	4057	30
+4486	Draconic Fist Specialist Card	1	4048	16
+4487	Archmage Specialist Card	1	2708	8
+4488	Avenging Angel Specialist Card	1	2707	4
+4489	Renegade Specialist Card	1	2706	2
+4490	Caligor's Golden Horn	80	2657	30
+4491	Seer Specialist Card	1	2656	8
+4492	Demon Hunter Specialist Card	1	2655	4
+4493	Death Reaper Specialist Card	1	2654	2
+4494	Battle Monk Specialist Card (Time-Space)	1	2588	2
+4495	Scout Specialist Card (Time-Space)	1	2589	4
+4496	Tide Lord Specialist Card (Time-Space)	1	2590	8
+4497	Battle Monk Specialist Card	1	2588	2
+4498	Scout Specialist Card	1	2589	4
+4499	Tide Lord Specialist Card	1	2590	8
+4500	Gladiator Specialist Card	1	2544	2
+4501	Fire Cannoneer Specialist Card	1	2545	4
+4502	Volcano Specialist Card	1	2546	8
+4503	Hero's Amulet of Fire	75	2551	0
+4504	Mystical Glacier Stone	80	2582	0
+4699	Laurena's Witch Hat	70	2701	14
+4700	Cowboy Bushtail	1	2648	0
+4701	Ninja Bushtail	1	2649	0
+4702	Indian Bushi	1	2660	0
+4703	Viking Bushi	1	2673	0
+4704	Puss in Boots	1	2687	0
+4705	Zenas (Fire)	1	2879	10
+4706	Zenas (Water)	2	2879	10
+4707	Zenas (Light)	3	2879	10
+4708	Zenas (Shadow)	4	2879	10
+4709	Erenia (Fire)	1	2880	10
+4710	Erenia (Water)	2	2880	10
+4711	Erenia (Light)	3	2880	10
+4712	Erenia (Shadow)	4	2880	10
+4713	Fernon (Fire)	1	2881	10
+4714	Fernon (Water)	2	2881	10
+4715	Fernon (Light)	3	2881	10
+4716	Fernon (Shadow)	4	2881	10
+4717	Ancelloan the Creator Treasure Chest	0	302	0
+4718	Fernon the Destroyer Treasure Chest	0	302	0
+4719	Steel Fist	80	4014	16
+4720	Short Riding Gauntlet	80	4012	16
+4721	Martial Artist's Gauntlet	82	4013	16
+4722	Black Fist	82	4016	16
+4723	Toughened Leather Gauntlet	84	4012	16
+4724	Martial Artist's Leather Gauntlet	84	4013	16
+4725	Gauntlet of Power	86	4015	16
+4726	Apprentice Assassin's Gauntlet	86	4017	16
+4727	Sicario's Gauntlet	88	4017	16
+4728	Doom Fists' Gauntlet	88	4018	16
+4729	Cold Metal Gauntlet	90	4019	16
+4730	Ladine's Tear	90	4020	16
+4731	Fenris' Claw	92	4021	16
+4732	Fire Golem Gauntlet	92	4022	16
+4733	Chaos Scale Gauntlet	95	4023	16
+4734	Flame of Ifrit	95	4024	16
+4735	Sealed Goddess Fist	25	4025	16
+4736	Divine Fist	45	4026	16
+4737	Trainee Martial Artist's Uniform	80	4029	16
+4738	Grubby Riding Armour	81	4031	16
+4739	Riding Armour	83	4031	16
+4740	Black's Suit	83	4032	16
+4741	Leather Armour	85	4031	16
+4742	Toughened Leather Armour	85	4032	16
+4743	Power Armour	87	4033	16
+4744	Apprentice Assassin's Armour	87	4032	16
+4745	Sicario's Armour	89	4032	16
+4746	Doom Fists' Armour	89	4033	16
+4747	Desert Robbers' Armour	91	4034	16
+4748	Akamur Armour	91	4035	16
+4749	Mysterious Traveller's Armour	93	4036	16
+4750	Felice's Armour	93	4037	16
+4751	Lord Cuarry's Armour	96	4038	16
+4752	Challenger's Armour	96	4039	16
+4753	Rumial's Holiness	28	4040	16
+4754	Champion's Armour	48	4041	16
+4755	Zenas' Divine Ring	50	4049	30
+4756	Steel Fist	80	4014	16
+4757	Trainee Martial Artist's Uniform	80	4029	16
+4800	Aegir's Specialist Partner Card	1	2573	0
+4801	Specialist Partner Card Holder	0	2579	0
+4802	Barni's Specialist Partner Card	1	2574	0
+4803	Freya's Specialist Partner Card	1	2575	0
+4804	Shinobi's Specialist Partner Card	1	2623	0
+4805	Lotus' Specialist Partner Card	1	2624	0
+4806	Orkani's Specialist Partner Card	1	2625	0
+4807	Foxy's Specialist Partner Card	1	2672	0
+4808	Maru's Specialist Partner Card	1	2681	0
+4809	Maru in Mother's Fur (PSP)	1	2682	0
+4810	Hongbi's Specialist Partner Card	1	2694	0
+4811	Cheongbi's Specialist Partner Card	1	2695	0
+4812	Archangel Lucifer's Specialist Partner Card	1	2697	0
+4813	Laurena's Specialist Partner Card	1	2709	0
+4814	Amon's Specialist Partner Card	1	2710	0
+4815	Lucy Lopears' Specialist Partner Card	1	2711	0
+4816	Bunny Hairband	20	849	14
+4817	Cowgirl Chloe	1	2726	0
+4818	Fiona's Specialist Partner Card	1	2729	0
+4819	Jinn's Specialist Partner Card	1	2732	0
+4820	Ice Princess Eliza	1	2790	0
+4821	Daniel Ducats	1	2789	0
+4822	Palina Puppet Master's Specialist Partner Card	1	2803	0
+4823	Harlequin's Specialist Partner Card	1	2806	0
+4824	Nelia Nymph	1	2809	0
+4825	Little Princess Venus	1	2810	0
+4826	Nutcracker Shako (30 Days)	20	2811	14
+4827	Nutcracker Shako (Permanent)	20	2811	14
+4828	Nutcracker Uniform (30 Days)	20	2812	14
+4829	Nutcracker Uniform (Permanent)	20	2812	14
+4835	Laurena's Necklace	38	2829	0
+4836	Laurena's Ring	33	2828	0
+4837	Laurena's Bracelet	35	2827	0
+4838	Fernon's Gloves	0	2770	0
+4839	Fernon's Shoes	48	2826	0
+4840	Azrael's Mask	50	2825	30
+4841	Shares' Steel Helm	50	2822	2
+4842	Glacernon Leather Hat	50	2823	4
+4843	Mukraju's Circlet	50	2824	8
+4844	Honourable: Master Robber's Gloves	75	707	0
+4845	Honourable: Master Robber's Shoes	75	722	0
+4846	Mask of the Forgotten Hero D	70	225	30
+4847	Headband of the Unknown Hero	70	985	30
+4848	Necklace of the Forgotten Hero J	70	416	0
+4849	Ring of the Forgotten Hero S	70	419	0
+4850	Bracelet of the Forgotten Hero M	70	422	0
+4851	Honourable: Robber Gang's Golden Armour	80	298	2
+4852	Honourable: Robber Gang's Golden Tunic	80	296	4
+4853	Honourable: Robber Gang's Golden Robe	80	272	8
+4854	Honourable: Commander's Heavy Armour	88	360	2
+4855	Honourable: Commander's Robe	88	358	8
+4856	Honourable: Commander's Leather Armour	88	359	4
+4857	Honourable: Calvinas' Bluetooth Dagger	82	290	4
+4858	Honourable: Calvinas' Waterflower Wand	82	268	8
+4859	Honourable: Calvinas' Bluehorn Spellgun	82	294	8
+4860	Honourable: Calvinas' Firestorm Sword	82	262	2
+4861	Honourable: Calvinas' Bluethorn Crossbow	82	292	2
+4862	Honourable: Calvinas' Redwave Bow	82	265	4
+4863	Honourable: Great Leader's Crossbow	88	402	2
+4864	Honourable: Great Leader's Magic Weapon	88	408	8
+4865	Honourable: Great Leader's Knife	88	405	4
+4866	Honourable: Great Leader's Cut Sword	88	349	2
+4867	Honourable: Great Leader's Magic Wand	88	356	8
+4868	Honourable: Great Leader's Recurve Bow	88	353	4
+4869	Honourable: Antique Fire Mask	92	2428	30
+4871	Honourable: Flame Helmet	90	2430	30
+4872	Honourable: Magmaros' Glove	88	2431	0
+4873	Honourable: Valakus' Glove	91	2432	0
+4874	Honourable: Flame Giant Boots	88	2433	0
+4875	Honourable: Kertos' Boots	91	2434	0
+4876	Honourable: Flame Giant Bracelet	90	2435	0
+4877	Honourable: Katol's Bracelet	93	2436	0
+4878	Honourable: Phoenix Ring	90	2437	0
+4879	Honourable: Grail's Ring	93	2438	0
+4880	Honourable: Blaze Hound's Collar	90	2439	0
+4881	Honourable: Kertos' Collar	93	2440	0
+4882	Honourable: Flame Giant's Armoured Equipment	93	2418	2
+4883	Honourable: Katol's Steel Chest Armour	96	2419	2
+4884	Honourable: Blaze Hound's Leather Armour	93	2421	4
+4885	Honourable: Kertos' Leather Chest Armour	96	2422	4
+4886	Honourable: Fiery Phoenix's Robe	93	2424	8
+4887	Honourable: Gleaming Grail's Robe	96	2425	8
+4888	Honourable: Magmoros' Fire Sword	92	2464	2
+4889	Honourable: Valakus' Fire Sword	95	2406	2
+4890	Honourable: Phoenix Wings	92	2466	4
+4891	Honourable: Grail's Wings	95	2407	4
+4892	Honourable: Lava Ghost's Wand	92	2468	8
+4893	Honourable: Katol's Wand	95	2408	8
+4894	Honourable: Phoenix's Claw	92	2409	2
+4895	Honourable: Grail's Claw	95	2410	2
+4896	Honourable: Blaze Hound's Fang	92	2412	4
+4897	Honourable: Kertos' Fang	95	2413	4
+4898	Honourable: Valaket's Breath	92	2415	8
+4899	Honourable: Valakus' Breath	95	2416	8
+4900	Magmoros' Fire Sword	92	2464	2
+4901	Valakus' Fire Sword	95	2406	2
+4902	Forgotten Hero's Sword	90	2465	2
+4903	Phoenix Wings	92	2466	4
+4904	Grail's Wings	95	2407	4
+4905	Forgotten Hero's Bow	90	2467	4
+4906	Lava Ghost's Wand	92	2468	8
+4907	Katol's Wand	95	2408	8
+4908	Forgotten Hero's Magic Wand	90	2469	8
+4909	Phoenix's Claw	92	2409	2
+4910	Grail's Claw	95	2410	2
+4911	Forgotten Hero's Crossbow	90	2411	2
+4912	Blaze Hound's Fang	92	2412	4
+4913	Kertos' Fang	95	2413	4
+4914	Forgotten Hero's Dagger	90	2414	4
+4915	Valaket's Breath	92	2415	8
+4916	Valakus' Breath	95	2416	8
+4917	Forgotten Hero's Spell Gun	90	2417	8
+4918	Flame Giant Shell Armour	93	2418	2
+4919	Katol's Steel Chest Armour	96	2419	2
+4920	Forgotten Hero's Chest Armour	90	2420	2
+4921	Blaze Hound's Leather Armour	93	2421	4
+4922	Kertos' Leather Chest Armour	96	2422	4
+4923	Forgotten Hero's Leather Armour	90	2423	4
+4924	Fiery Phoenix's Robe	93	2424	8
+4925	Gleaming Grail's Robe	96	2425	8
+4926	Forgotten Hero's Robe	90	2426	8
+4927	Antique Mask	87	2427	30
+4928	Antique Fire Mask	92	2428	30
+4929	Lava Ghost Helmet	85	2429	30
+4930	Flame Giant Helmet	90	2430	30
+4931	Magmaros' Gloves	88	2431	0
+4932	Valakus' Gloves	91	2432	0
+4933	Flame Giant Boots	88	2433	0
+4934	Kertos' Boots	91	2434	0
+4935	Flame Giant Bracelet	90	2435	0
+4936	Katol's Bracelet	93	2436	0
+4937	Phoenix Ring	90	2437	0
+4938	Grail's Ring	93	2438	0
+4939	Blaze Hound's Collar	90	2439	0
+4940	Kertos' Collar	93	2440	0
+4941	Sealed Heavenly Helmet	30	2781	2
+4942	Erenia's Necklace	18	2786	0
+4943	Erenia's Ring	12	2787	0
+4944	Erenia's Bracelet	15	2788	0
+4945	Sealed Hellord Helmet	30	2782	2
+4946	Zenas' Necklace	18	2783	0
+4947	Zenas' Ring	12	2784	0
+4948	Zenas' Bracelet	15	2785	0
+4949	Sealed Heavy Heavenly Armour	28	2774	2
+4950	Sealed Heavenly Robe	28	2775	8
+4951	Sealed Heavenly Leather Armour	28	2776	4
+4952	Sealed Hellord Heavy Armour	28	2777	2
+4953	Sealed Hellord Robe	28	2778	8
+4954	Sealed Hellord Leather Armour	28	2779	4
+4955	Sealed Heavenly Crossbow	25	2762	2
+4956	Sealed Heavenly Spell Gun	25	2763	8
+4957	Sealed Heavenly Dagger	25	2764	4
+4958	Sealed Heavenly Sword	25	2759	2
+4959	Sealed Heavenly Staff	25	2760	8
+4960	Sealed Heavenly Bow	25	2761	4
+4961	Sealed Hellord Crossbow	25	2780	2
+4962	Sealed Hellord Spell Gun	25	2765	8
+4963	Sealed Hellord Dagger	25	2766	4
+4964	Sealed Hellord Sword	25	2767	2
+4965	Sealed Hellord Wand	25	2768	8
+4966	Sealed Hellord Bow	25	2769	4
+4967	Sealed Heavenly Gloves	20	2770	0
+4968	Sealed Heavenly Shoes	28	2771	0
+4969	Sealed Hellord Gloves	20	2772	0
+4970	Sealed Hellord Shoes	28	2773	0
+4971	Sealed Heavenly Leather Hat	30	2793	4
+4972	Sealed Hellord Leather Hat	30	2795	4
+4973	Sealed Heavenly Headband	30	2794	8
+4974	Sealed Hellord Headband	30	2796	8
+4975	Erenia's Crafted Horn	30	2791	30
+4976	Zenas' Luxury High Heels	30	2792	0
+4977	Graham's Holy Stone	1	2800	0
+4978	Luminiel's Shining Crossbow	45	2815	2
+4979	Abyssal Lorten's Spell Gun	45	2818	8
+4980	Broken Krem's Left Blade	45	2814	4
+4981	Broken Krem's Right Blade	45	2813	2
+4982	Seli-Lusha's Branch of Light	45	2817	8
+4983	Azrael's Wings	45	2816	4
+4984	Brave Shares' Heavy Armour	48	2819	2
+4985	Mukraju's Robe	48	2821	8
+4986	Leather Armour of Silver Soul Glacernon	48	2820	4
+4987	Angelic Ring	30	4049	30
+4988	Jennifer's Feathered Hat	30	2930	30
+4990	Lightning Rune	30	578	0
+4991	Wave Rune	30	579	0
+4992	Cloud Rune	30	581	0
+4993	Wind Rune	30	582	0
+4994	Fire Rune	30	584	0
+5001	none	0	1405	0
+5002	none	0	1411	0
+5003	none	0	1400	0
+5004	Sellaim Random Box	0	1744	0
+5005	Woondine Random Box	0	1744	0
+5006	Eperial Random Box	0	1744	0
+5007	Turik Random Box	0	1744	0
+5008	Magic Convertible	-24	1413	0
+5009	none	0	336	0
+5010	Star (Event)	0	1368	0
+5011	Coupon (Event)	0	1134	0
+5012	1 (Event)	88	1380	0
+5013	1 Year Anniversary Medal	0	1385	0
+5014	Grown Sellaim Random Box	0	1743	0
+5015	Grown Woondine Random Box	0	1743	0
+5016	Grown Eperial Random Box	0	1743	0
+5017	Grown Turik Random Box	0	1743	0
+5018	Wedding Box	0	1744	0
+5019	Aqua Bushtail Random Box	0	1370	0
+5020	Exterminator Bushtail Random Box	0	1370	0
+5021	Sick Bushtail Random Box	0	1370	0
+5022	Brown Bushi Random Box	0	1370	0
+5023	Samurai Bushtail Random Box	0	1370	0
+5024	Bull Bushtail Random Box	0	1370	0
+5025	none	0	1370	0
+5026	Rusty Robby Random Box	0	1370	0
+5027	none	0	1370	0
+5028	none	0	1370	0
+5029	none	0	1370	0
+5030	Magic Convertible Random Box	0	1370	0
+5031	none	0	1370	0
+5032	none	0	1370	0
+5033	none	0	1370	0
+5034	none	0	1400	0
+5035	Moonlight Powder	0	1209	0
+5036	Clay Soil	0	1200	0
+5037	Magic Fertiliser	0	2142	0
+5038	Potato Monster Seedling	0	2106	0
+5039	Muddy Bag	0	1730	0
+5040	Thanksgiving Gift Box	0	1621	0
+5041	Magic Carpet Random Box	0	1507	0
+5042	Magic Scooter Random Box	0	1507	0
+5043	Magic White Tiger Random Box	0	1507	0
+5044	Gladiator Bushtail Random Box	0	1370	0
+5045	Boxer Bushtail Random Box	0	1370	0
+5046	Super Pumpkin Bushi Random Box	0	1370	0
+5047	Santa Bushi Random Box	0	1370	0
+5048	Football Bushi Random Box	0	1370	0
+5049	Referee Bushtail Random Box	0	1370	0
+5050	Aqua Bushtail Bead and Costume Set	0	1405	0
+5051	Aqua Bushi Costume Set	0	1405	0
+5052	Aqua Bushi Costume Set	0	1542	0
+5053	none	0	1541	0
+5054	none	0	1541	0
+5055	none	0	1541	0
+5056	none	0	1541	0
+5057	none	0	1541	0
+5058	none	0	1541	0
+5059	none	0	1541	0
+5060	NosMerchant Medal (30 Days)	0	1508	0
+5061	NosMerchant Medal (7 Days)	0	1509	0
+5062	NosMerchant Medal (1 Day/Event)	0	1509	0
+5063	none	0	1370	0
+5064	Sealed Christmas Vessel	0	1511	0
+5065	Christmas Gift Box (Event)	0	1507	0
+5066	Movement Scroll (Event)	-24	1510	0
+5067	Mystical Flame (Event)	0	1772	0
+5068	Small Christmas Box	0	1699	0
+5069	Medium Christmas Box	0	1743	0
+5070	Large Christmas Box	0	1744	0
+5071	none	0	1399	0
+5072	none	0	1399	0
+5073	none	0	1370	0
+5074	none	0	1370	0
+5075	none	0	1370	0
+5076	none	0	1374	0
+5077	none	0	1743	0
+5078	none	0	1744	0
+5079	Santa Bushi Costume Random Box	0	1399	0
+5080	Santa Bushi Costume Set (Permanent)	0	1370	0
+5081	none	0	1399	0
+5082	none	0	1399	0
+5083	New Year's Gift Box (Event)	0	1743	0
+5084	Bushtail Costume Scroll (Event)	-23	1518	0
+5085	Stolen Gift Bag (Event)	0	2096	0
+5086	Stolen Lucky Charm (Event)	0	1374	0
+5087	Fire Wings	-118	1687	0
+5088	none	0	1399	0
+5089	none	0	1400	0
+5090	none	0	1399	0
+5091	10 (Event)	88	2954	0
+5092	none	0	1973	0
+5093	none	-24	1510	0
+5094	none	0	1507	0
+5095	none	0	1370	0
+5096	none	0	1507	0
+5097	none	0	1743	0
+5098	none	0	1744	0
+5099	Small Full Moon Box	0	1743	0
+5100	Large Full Moon Box	0	1743	0
+5101	Small Feather Chest	0	1744	0
+5102	Large Feather Chest	0	1744	0
+5103	none	0	1399	0
+5104	none	0	1744	0
+5105	Magic Lamp	0	1643	0
+5106	Cute Bunny Random Box	0	1744	0
+5107	Chicken Costume Upgrade Scroll (Event)	0	4085	0
+5108	Easter Signpost	100	4086	0
+5109	Chicken Queen Seal (Event)	45	4087	0
+5110	Magic Egg (Event)	0	1407	0
+5111	Chick Norris' Random Box	0	1743	0
+5112	none	0	1743	0
+5113	none	0	1743	0
+5114	none	0	1743	0
+5115	Point Initialisation Potion (Present)	0	1366	0
+5116	Rusty Robby Random Box	0	1507	0
+5117	Fluffy McFly	-24	1417	0
+5118	Fluffy McFly Box	0	336	0
+5119	Speed Booster	0	1426	0
+5120	FXP Reward	0	1431	0
+5121	none	0	1743	0
+5122	Fluffy McFly's Random Box	0	1743	0
+5123	none	0	1743	0
+5124	none	0	1744	0
+5125	none	0	1743	0
+5126	none	0	1399	0
+5127	none	0	1399	0
+5128	none	0	1399	0
+5129	none	0	1399	0
+5130	Pet Slot Expansion	0	1432	0
+5131	Motley Bushi Box	0	1743	0
+5132	Bushi Collector's Box	0	1744	0
+5133	none	0	1507	0
+5134	none	0	1507	0
+5135	none	0	1507	0
+5136	none	0	1507	0
+5137	none	0	1743	0
+5138	none	0	1743	0
+5139	none	0	1507	0
+5140	Pirate Seal (Event)	45	1440	0
+5141	Piece of the Pirate SP (Event)	0	1439	0
+5142	Pirate's Do-Rag (Event)	0	1441	0
+5143	Mariner's Symbol (Event)	0	1442	0
+5144	O'Peng's Treasure Map (Event)	0	1443	0
+5145	Lime Juice (Event)	32	1880	0
+5146	Pirate Flag Signpost	100	1444	0
+5147	none	0	1743	0
+5148	none	0	1744	0
+5149	none	0	1507	0
+5150	none	0	1743	0
+5151	none	0	1744	0
+5152	Horned Sweeper	-24	1433	0
+5153	Horned Sweeper Box	0	336	0
+5154	Horned Sweeper's Random Box	0	1744	0
+5155	none	0	1507	0
+5156	none	0	2398	0
+5157	none	0	1507	0
+5158	none	0	1743	0
+5159	none	0	1744	0
+5160	none	0	1743	0
+5161	none	0	1744	0
+5162	none	0	1744	0
+5163	none	0	1507	0
+5164	none	0	1401	0
+5165	none	0	1621	0
+5166	none	0	1399	0
+5167	none	0	1743	0
+5168	none	0	1744	0
+5169	none	0	1744	0
+5170	none	0	1744	0
+5171	none	0	1743	0
+5172	Pirate Bushi Random Box	0	1744	0
+5173	Winnie Whitefeather	-24	2463	0
+5174	none	0	1743	0
+5175	none	0	1374	0
+5176	none	0	1374	0
+5177	none	0	1374	0
+5178	none	0	1374	0
+5179	none	0	1374	0
+5180	none	0	1374	0
+5181	Winnie's Treasure Chest	0	1744	0
+5182	Motley Bushi Costume Random Box	0	1744	0
+5183	Black Bushi Costume Set (Permanent)	0	1507	0
+5184	Blue Bushi Costume Set (Permanent)	0	1507	0
+5185	Green Bushi Costume Set (Permanent)	0	1507	0
+5186	Red Bushi Costume Set (Permanent)	0	1507	0
+5187	Pink Bushi Costume Set (Permanent)	0	1507	0
+5188	Turquoise Bushi Costume Set (Permanent)	0	1507	0
+5189	Yellow Bushi Costume Set (Permanent)	0	1507	0
+5190	Classic Bushi Costume Set (Permanent)	0	1507	0
+5191	none	0	1744	0
+5192	Pumpkin (Event)	0	2281	0
+5193	Pumpkin Syrup (Event)	0	766	0
+5194	Fairy Booster (Event)	-6	1296	0
+5195	Soulstone Blessing (Event)	0	1362	0
+5196	Nossi the Dragon	-24	770	0
+5197	Nossi's Dragon Box	0	336	0
+5198	Nossi's Random Box	0	1744	0
+5199	none	0	1744	0
+5200	none	0	1743	0
+5201	none	0	1744	0
+5202	Shogun Bushi Random Box	0	1507	0
+5203	Ice Wings	-118	931	0
+5204	Elemental Full Moon Box	0	1743	0
+5205	Elemental Feather Chest	0	1744	0
+5206	Christmas Gift Box	0	1743	0
+5207	Pyjama Upgrade Scroll	0	1529	0
+5208	Christmas Signpost	100	1530	0
+5209	Santa's Blessing	-48	1536	0
+5210	Rudolph's Blessing	-46	1537	0
+5211	Christmas Blessing	0	1538	0
+5212	Mysterious Bell Bag	0	1531	0
+5213	Christmas Costume Box	0	1507	0
+5214	Movement Scroll	-24	1510	0
+5215	Magical Wool	0	2002	0
+5216	Magical Knitting Needle	0	2200	0
+5217	Soraya's Scarf	0	1532	0
+5218	Ice Flower Crystal	0	1533	0
+5219	none	0	1744	0
+5220	Magic dragon random box(TH)	0	1743	0
+5221	Snow box(TH)	0	1744	0
+5222	Magical pack(MY)	0	1743	0
+5223	Freezing pet pack(MY)	0	1744	0
+5224	Rudolph Bushi Random Box	0	1744	0
+5225	2011 Christmas random box(HK)	0	1744	0
+5226	Magical Skis (Invisible)	-24	1501	0
+5227	Magical Ski Box (Invisible)	0	336	0
+5228	Magical Snowboard (Invisible)	-24	1502	0
+5229	Magical Snowboard Box (Invisible)	0	336	0
+5230	Magical Ski Random Box	0	1744	0
+5231	Magical Snowboard Random Box	0	1743	0
+5232	'Billy Boneshaker' Bike	-24	1503	0
+5233	'Billy Boneshaker' Bike Box	0	336	0
+5234	'Blazing Blades' In-line Skates	-24	1504	0
+5235	'Blazing Blades' In-line Skates Box	0	336	0
+5236	'Doni Darkslide' Skateboard	-24	1505	0
+5237	'Doni Darkslide' Skateboard Box	0	336	0
+5238	'Icy Ike' Magical Skis	-24	1501	0
+5239	Magical Ski Box	0	336	0
+5240	'Crazy Chris' Magical Snowboard	-24	1502	0
+5241	Magical Snowboard Box	0	336	0
+5242	none	0	1744	0
+5243	none	0	1743	0
+5244	none	0	1744	0
+5245	none	0	1744	0
+5246	Centurio Bushi Random Box	0	1507	0
+5247	none	0	1743	0
+5248	none	0	1507	0
+5249	none	0	1744	0
+5250	none	0	1743	0
+5251	none	0	1507	0
+5252	none	0	1744	0
+5253	none	0	1743	0
+5254	'Billy Boneshaker' Bike Random Box	0	1744	0
+5255	'Blazing Blades' In-line Skates Random Box	0	1744	0
+5256	'Doni Darkslide' Skateboard Random Box	0	1744	0
+5257	none	0	1744	0
+5258	Golden Easter Egg (Event)	0	2534	0
+5259	Chicken Queen's Feather (Event)	0	1099	0
+5260	Calvin's Easter Present (Event)	0	1190	0
+5261	Easter Box	0	1743	0
+5262	Growth Fruit (Event)	0	2341	0
+5263	2012 Easter random box(HK)	0	1743	0
+5264	Seraphim box(TH)	0	1743	0
+5265	Male Fluffy Rabbit Costume Random Box	0	1743	0
+5266	Female Fluffy Rabbit Costume Random Box	0	1744	0
+5267	Fluffy Rabbit Costume Set (m) (Permanent)	0	1507	0
+5268	Fluffy Rabbit Costume Set (f) (Permanent)	0	1507	0
+5269	none	0	1743	0
+5270	none	0	1743	0
+5271	none	0	1743	0
+5272	none	0	1744	0
+5273	none	0	1743	0
+5274	European Championships 2012 Random Box	0	1744	0
+5275	none	0	1743	0
+5276	none	0	1744	0
+5277	none	0	1743	0
+5278	none	0	1744	0
+5279	Divine Fairy Random Box	0	1744	0
+5280	Pegasus Chest	0	1507	0
+5281	none	0	1743	0
+5282	none	0	1400	0
+5283	Leona's Fateful Treasure Chest	0	1744	0
+5284	none	0	1743	0
+5285	Darko's Hellish Random Box	0	1744	0
+5286	none	0	1743	0
+5287	none	0	1621	0
+5288	none	0	2532	0
+5289	none	0	1743	0
+5290	none	0	1744	0
+5291	none	0	1743	0
+5292	none	0	1744	0
+5293	none	0	1744	0
+5294	Fibi's Frosty Random Box	0	1744	0
+5295	none	0	1743	0
+5296	none	0	1743	0
+5297	Magic Scooter Random Box	0	1744	0
+5298	Magic Carpet Random Box	0	1743	0
+5299	Cuddly Bushi Costume Random Box	0	1744	0
+5300	Cuddly Bushi Random Box	0	1743	0
+5301	Cuddly Bushi Voucher	0	2571	0
+5302	Oto-Fox Costume Set	0	1402	0
+5303	Oto-Fox Costume Random Box	0	1401	0
+5304	Aqua Bushi Costume Set Random Box	0	1507	0
+5305	none	0	1743	0
+5306	none	0	1743	0
+5307	Christmas Gift Box	0	1743	0
+5308	Time-Space: Revenge of the Vikings	-116	1102	0
+5309	Magic White Tiger Random Box	0	1744	0
+5310	Santa Bushi Costume Random Box	0	1743	0
+5311	Rudi's Random Box	0	1744	0
+5312	none	0	1743	0
+5313	none	0	1402	0
+5314	none	0	1743	0
+5315	none	0	1744	0
+5316	none	0	1402	0
+5317	Fluffy Bally Random Box	0	1744	0
+5318	none	0	1743	0
+5319	White Unicorn	-24	2591	0
+5320	White Unicorn	0	336	0
+5321	Pink Unicorn	-24	2592	0
+5322	Pink Unicorn	0	336	0
+5323	Black Unicorn	-24	2593	0
+5324	Black Unicorn	0	336	0
+5325	Enchanting Unicorn Random Box	0	1743	0
+5326	none	0	1743	0
+5327	none	0	1744	0
+5328	none	0	1744	0
+5329	Enchanting Unicorn Box	0	1744	0
+5330	Peculiar UFO	-24	2594	0
+5331	Peculiar UFO	0	336	0
+5332	Marco Pollo	-24	2595	0
+5333	none	0	1744	0
+5334	none	0	1743	0
+5335	none	0	1743	0
+5336	none	0	1744	0
+5337	none	0	1743	0
+5338	none	0	1289	0
+5339	none	0	1290	0
+5340	none	0	1291	0
+5341	none	0	1743	0
+5342	Costume Pack 1 for Women	0	1546	0
+5343	Costume Pack 2 for Women	0	1676	0
+5344	Costume Pack 1 for Men	0	1542	0
+5345	Costume Pack 2 for Men	0	1670	0
+5346	Costume Hats for Women	0	1401	0
+5347	Costume Hats for Men	0	1402	0
+5348	Unisex Hats for Everyone	0	1403	0
+5349	Colour Pot for Hair	0	1370	0
+5350	Motley Bushi Box	0	1744	0
+5351	Motley Bushi Costume Box	0	1743	0
+5352	none	0	1743	0
+5353	none	0	1744	0
+5354	none	0	1743	0
+5355	none	0	1744	0
+5356	none	0	1401	0
+5357	none	0	1743	0
+5358	Magic Garment of Light Set	0	1401	0
+5359	Magic Robe of Shadow Set	0	1402	0
+5360	Windsurfer	-24	2619	0
+5361	Windsurfer Box	0	336	0
+5362	none	0	1744	0
+5363	none	0	1744	0
+5364	none	0	1743	0
+5365	none	0	1744	0
+5366	none	0	1743	0
+5367	none	0	1401	0
+5368	none	0	1744	0
+5369	Golden Equipment Protection Scroll	0	2620	0
+5370	Fairy Experience Potion	0	2621	0
+5371	none	0	1401	0
+5372	Titan Wings	-118	2622	0
+5373	none	0	1743	0
+5374	none	0	1401	0
+5375	Inspirational Feather Chest	0	1744	0
+5376	Inspirational Full Moon Box	0	1743	0
+5377	none	0	1743	0
+5378	none	0	1743	0
+5379	Mysterious Skill Ticket for all Partner Skills	0	1743	0
+5380	Extra Large Warehouse	0	1401	0
+5381	none	0	1744	0
+5382	none	0	1743	0
+5383	none	0	1743	0
+5384	none	0	1743	0
+5385	none	0	1744	0
+5386	Yellow Jeep	-24	2626	0
+5387	Blue Jeep	-24	2627	0
+5388	Red Jeep	-24	2628	0
+5389	Cyan Jeep	-24	2629	0
+5390	Black Jeep	-24	2630	0
+5391	Pink Jeep	-24	2631	0
+5392	Yellow Jeep	0	336	0
+5393	Blue Jeep	0	336	0
+5394	Red Jeep	0	336	0
+5395	Cyan Jeep	0	336	0
+5396	Black Jeep	0	336	0
+5397	Pink Jeep	0	336	0
+5398	none	0	1743	0
+5399	none	0	1744	0
+5400	none	0	1289	0
+5401	none	0	1290	0
+5402	none	0	1291	0
+5403	none	0	1743	0
+5404	none	0	1744	0
+5405	none	0	1743	0
+5406	none	0	1744	0
+5407	none	0	1743	0
+5408	none	0	1744	0
+5409	Spectacular Jackpot Box	0	1744	0
+5410	Colourful Jeep Box	0	1743	0
+5411	none	0	1744	0
+5412	Pink Party Set (Permanent)	0	1744	0
+5413	Yellow Party Set (Permanent)	0	1744	0
+5414	Blue Party Set (Permanent)	0	1744	0
+5415	Red Detective's Set (Permanent)	0	1743	0
+5416	Golden Detective's Set (Permanent)	0	1743	0
+5417	Brown Detective's Set (Permanent)	0	1743	0
+5418	Master Detective's Jackpot Box	0	1370	0
+5419	Party Queen's Jackpot Box	0	1370	0
+5420	none	0	1370	0
+5421	none	0	1370	0
+5422	Event Coupon	0	1134	0
+5423	Event Box	0	1743	0
+5424	Cowboy Bushtail Jackpot Box	0	1744	0
+5425	Ninja Bushtail Jackpot Box	0	1744	0
+5426	none	0	1744	0
+5427	none	0	1744	0
+5428	none	0	1744	0
+5429	none	0	1744	0
+5430	none	0	1744	0
+5431	Archangel Wings	-118	2650	0
+5432	Archdaemon Wings	-118	2651	0
+5433	Wings & More	0	1744	0
+5434	none	0	1744	0
+5435	none	0	1744	0
+5436	none	0	1744	0
+5437	none	0	1744	0
+5438	none	0	1744	0
+5439	Sneaky Bushtails & More	0	1744	0
+5440	Football Legend Box	0	1744	0
+5441	Football Fan Set	0	1370	0
+5442	none	0	1744	0
+5443	none	0	1744	0
+5444	none	0	1744	0
+5445	Casual Costume Box (f)	0	1744	0
+5446	Animalistic Costume Box (f)	0	1744	0
+5447	Casual Costume Box (m)	0	1744	0
+5448	Animalistic Costume Box (m)	0	1744	0
+5449	Women's Hat Box	0	1744	0
+5450	Men's Hat Box	0	1744	0
+5451	Unisex Hat Box	0	1744	0
+5452	Hair Colour Mix	0	1744	0
+5453	Brilliant Bushtails & More	0	1744	0
+5454	Magical Fairies & More	0	1744	0
+5455	Mighty Mounts & More	0	1744	0
+5456	Loyal Pets & More	0	1744	0
+5457	Unisex Costume Sets & More	0	1744	0
+5458	none	0	1744	0
+5459	none	0	1744	0
+5460	none	0	1744	0
+5461	none	0	1744	0
+5462	Wondrous Wings & More	0	1744	0
+5463	Indian Bushi & More	0	1744	0
+5464	none	0	1744	0
+5465	none	0	1744	0
+5466	none	0	1744	0
+5467	none	0	1744	0
+5468	none	0	1744	0
+5469	none	0	1744	0
+5470	Halloween & More	0	1744	0
+5471	Viking Bushi & More	0	1744	0
+5472	none	0	1744	0
+5473	none	0	1744	0
+5474	none	0	1744	0
+5475	none	0	1744	0
+5476	none	0	1744	0
+5477	Viking Family & More	0	1744	0
+5478	Ninja Unit & More	0	1744	0
+5479	Maru the Millennial Tiger & More	0	1744	0
+5480	none	0	1744	0
+5481	none	0	1744	0
+5482	none	0	1744	0
+5483	Top Tiger Costumes & More	0	1744	0
+5484	Vibrant Bushi Costumes & More	0	1744	0
+5485	none	0	1744	0
+5486	Cuddly Tiger Costume Set	0	1399	0
+5487	Snow White Tiger Costume Set	0	1399	0
+5488	none	0	1744	0
+5489	none	0	1744	0
+5490	none	0	1744	0
+5491	none	0	1744	0
+5492	none	0	1744	0
+5493	none	0	1744	0
+5494	none	0	1744	0
+5495	none	0	1744	0
+5496	none	0	1744	0
+5497	none	0	1744	0
+5498	Blazing Fire Wings	-118	2658	0
+5499	Frosty Ice Wings	-118	2659	0
+5500	Lord Draco's Raid Seal	45	2547	0
+5501	Time-Space: Heroes of Fire	-116	1102	0
+5502	Specialist Card of Experience	0	2144	0
+5503	Basilisk Horn	0	2552	0
+5504	Roberto's Helm	0	2553	0
+5505	Mysterious Sand	0	2554	0
+5506	Irene's Glasses	0	2555	0
+5507	Harold's Glove	0	2556	0
+5508	Roberto's Necklace	0	417	0
+5509	Irene's Bracelet	0	423	0
+5510	Harold's Ring	0	420	0
+5511	Ticket of the Elemental Journey Through Time	0	2563	0
+5512	Glacerus' Raid Seal	45	2583	0
+5513	Time-Space: Destroy Glacerus' Ice Seal!	-116	1102	0
+5514	Zangpo's Buddhist Prayer Beads	0	2584	0
+5515	Falco's Training Gloves	0	2585	0
+5516	Elisia's Hair Accessory	0	2586	0
+5517	Chaos Zone Attack Order	0	1731	0
+5518	Scroll of Icy Coldness	0	2587	0
+5519	Pirate SP Upgrade Scroll	0	2617	0
+5520	none	0	1744	0
+5521	none	0	1744	0
+5522	Puss in Boots & More	0	1744	0
+5523	none	0	1744	0
+5524	none	0	2688	0
+5525	Impish Devil Chest	0	1744	0
+5526	none	0	1744	0
+5527	none	0	1744	0
+5528	none	0	1744	0
+5529	none	0	1744	0
+5530	none	0	1744	0
+5531	none	0	1744	0
+5532	Lucifer's Lightbringer Chest	0	1744	0
+5533	none	0	1744	0
+5534	none	0	1744	0
+5535	none	0	1744	0
+5536	Laurena's Magic Chest	0	1744	0
+5537	none	0	1744	0
+5538	none	0	1744	0
+5539	none	0	1744	0
+5540	none	0	1744	0
+5541	none	0	1744	0
+5542	none	0	1744	0
+5543	none	0	1744	0
+5544	none	0	1744	0
+5545	none	0	1744	0
+5546	none	0	1744	0
+5547	none	0	1744	0
+5548	none	0	1744	0
+5549	none	0	1744	0
+5550	none	0	1744	0
+5551	none	0	1744	0
+5552	none	0	2727	0
+5553	Golden Wings	-118	2730	0
+5554	none	0	1744	0
+5555	none	0	1744	0
+5556	none	0	1744	0
+5557	none	0	1744	0
+5558	none	0	1744	0
+5559	none	0	1744	0
+5560	Onyx Wings	-118	2731	0
+5561	none	0	1744	0
+5562	none	0	1744	0
+5563	none	0	1744	0
+5564	none	0	1744	0
+5565	none	0	1744	0
+5566	none	0	1744	0
+5567	none	0	1744	0
+5568	none	0	1744	0
+5569	none	0	1744	0
+5570	none	0	1744	0
+5571	none	0	1744	0
+5572	Illusionist's Costume Set (Permanent)	0	1743	0
+5573	none	0	1744	0
+5574	none	0	1744	0
+5575	none	0	1744	0
+5576	none	0	1744	0
+5577	none	0	1744	0
+5578	none	0	1744	0
+5579	none	0	1744	0
+5580	none	0	1744	0
+5581	none	0	1743	0
+5582	none	0	1242	0
+5583	none	0	1243	0
+5584	none	0	1244	0
+5585	none	0	1744	0
+5586	none	0	1744	0
+5587	none	0	1744	0
+5588	none	0	1744	0
+5589	none	0	1744	0
+5590	none	0	1744	0
+5591	Fairy Wings	-118	2882	0
+5592	Groovy Beach Costume Set (Permanent)	0	1743	0
+5593	none	0	1744	0
+5594	none	0	1744	0
+5595	none	0	1744	0
+5596	none	0	1744	0
+5597	none	0	1744	0
+5598	Mithril Medal Chest	0	1405	0
+5599	Police Uniform Set (Permanent)	0	1743	0
+5600	none	0	1744	0
+5601	none	0	1744	0
+5602	none	0	1744	0
+5603	none	0	1744	0
+5604	Concierge Uniform Set (Permanent)	0	1743	0
+5605	none	0	1744	0
+5606	none	0	1744	0
+5607	none	0	1744	0
+5608	none	0	1744	0
+5609	none	0	2898	0
+5610	Viking Costume Set (Permanent)	0	1743	0
+5611	none	0	1744	0
+5612	none	0	1744	0
+5613	none	0	1822	0
+5614	none	0	1823	0
+5615	none	0	1824	0
+5616	none	0	1825	0
+5617	none	0	1826	0
+5618	none	0	1827	0
+5619	none	0	1828	0
+5620	none	0	1829	0
+5621	none	0	1830	0
+5622	none	0	1840	0
+5623	none	0	1841	0
+5624	none	0	1744	0
+5625	none	0	1744	0
+5626	none	0	1744	0
+5627	none	0	1744	0
+5628	none	0	1744	0
+5629	none	0	1744	0
+5630	none	0	1744	0
+5631	none	0	1744	0
+5632	none	0	1744	0
+5633	none	0	1744	0
+5634	none	0	1743	0
+5635	none	0	1744	0
+5636	none	0	1744	0
+5637	none	0	1744	0
+5638	Desert Set (Permanent)	0	1743	0
+5639	Dancer Set (Permanent)	0	1743	0
+5640	none	0	1744	0
+5641	none	0	1744	0
+5642	none	0	1744	0
+5643	none	0	1744	0
+5644	none	0	1744	0
+5645	none	0	1744	0
+5646	none	0	1744	0
+5647	none	0	1744	0
+5648	none	0	1744	0
+5649	none	0	1744	0
+5650	none	0	1744	0
+5651	none	0	1744	0
+5652	none	0	1744	0
+5653	none	0	1744	0
+5654	none	0	1744	0
+5655	10th Anniversary Medal	0	2955	0
+5656	none	0	1744	0
+5657	none	0	1744	0
+5658	none	0	1744	0
+5659	none	0	1744	0
+5660	none	0	1744	0
+5661	none	0	1744	0
+5662	none	0	1744	0
+5663	none	0	1744	0
+5664	none	0	1744	0
+5665	none	0	1744	0
+5666	none	0	1744	0
+5667	none	0	1744	0
+5668	none	0	1744	0
+5669	none	0	1744	0
+5670	none	0	1744	0
+5671	none	0	1744	0
+5672	none	0	1744	0
+5673	none	0	1744	0
+5674	none	0	1744	0
+5675	Adventurer's Knapsack (Permanent)	89	1272	0
+5676	Partner's Backpack (Permanent)	90	1275	0
+5677	Pet Basket (Permanent)	91	1278	0
+5678	none	92	1115	0
+5679	none	93	1116	0
+5680	none	0	1744	0
+5681	none	0	1744	0
+5682	Returning Hero Supply Box	0	1743	0
+5683	Deluxe Returning Hero Supply Box	0	1744	0
+5684	none	0	1743	0
+5685	none	0	1744	0
+5686	none	0	1743	0
+5687	none	0	1744	0
+5688	none	0	1744	0
+5689	none	0	1744	0
+5690	none	0	1744	0
+5691	none	0	1744	0
+5692	none	0	1744	0
+5693	none	0	1744	0
+5694	none	0	1744	0
+5695	none	0	1744	0
+5696	none	0	1744	0
+5697	none	0	1744	0
+5698	none	0	1744	0
+5699	none	0	1744	0
+5700	none	0	1744	0
+5701	none	0	1744	0
+5826	Martial Artist Starter Pack	0	1744	0
+5827	Skin for Frigg	49	4051	0
+5828	Skin for Ragnar	49	4052	0
+5829	Skin for Erdimien	49	4053	0
+5830	Skin for Yertirand	49	4054	0
+5831	Skin for Jennifer	49	4055	0
+5832	Martial Artist Starter Pack	0	1744	0
+5833	Novice Mount Scroll	-24	4009	0
+5834	Magic Jaguar	-24	2999	0
+5835	Magic Jaguar Box	0	336	0
+5836	Cuarry Bank Savings Book	0	2991	0
+5837	Mega Titan Wings	-118	2998	0
+5838	Cuarry Bank VIP Medal (10 Days)	0	2989	0
+5839	Cuarry Bank VIP Medal (30 Days)	0	2990	0
+5840	Mad Professor Macavity's Raid Ticket (Event)	0	2968	0
+5841	Mother Nature's Rune Pack	0	2969	0
+5842	Pretty Witch Box (Event)	0	302	0
+5843	Mad Professor Macavity's Junk Box (Event)	0	2970	0
+5844	Resistance Supply Box (Event)	0	2971	0
+5845	White Witch Laurena's Wand (Event)	0	2972	0
+5846	Mad Professor Macavity's Raid Seal	45	2964	0
+5847	Lich Mystery Chest	0	1699	0
+5848	Lich Mystery Chest	0	1699	0
+5849	Alchemist's Bag	0	1850	0
+5850	Bushi Stolen Goods Chest	0	2927	0
+5851	Old Viking Chest	0	2928	0
+5852	Old Goth Chest	0	2929	0
+5853	Bushi King Defence Raid Seal	0	2923	0
+5854	Sheep Farm Raid Seal	0	2924	0
+5855	Dodge Meteor Raid Seal	0	2922	0
+5856	Partner Slot Expansion	0	2921	0
+5857	Key to Castle Aria	45	2905	0
+5858	Akashic Record	45	2868	0
+5859	Toolbox	0	2833	0
+5860	Mystic Heaven Military Supplies	0	2863	0
+5861	Hellord Military Supplies	0	2864	0
+5862	Mystic Heaven Supply Ticket	0	2861	0
+5863	Hellord Supply Ticket	0	2862	0
+5864	Prayer Note	0	2865	0
+5865	Rosary Beads	0	2866	0
+5866	Bloodstained Testament	0	2867	0
+5867	Akashic Record	0	2868	0
+5868	Time-Space Fragment	0	2869	0
+5869	Time-Space Essence	0	2870	0
+5870	Time-Space Crystal Essence	0	2871	0
+5871	Natural Magic Paper	0	2587	0
+5872	Tattered Diary	0	2873	0
+5873	Tattered Scroll	0	2874	0
+5874	Costume Fusion	0	2899	0
+5875	Awakened Zenas Egg	0	2835	0
+5876	Awakened Erenia Egg	0	2837	0
+5877	Awakened Fernon Egg	0	2839	0
+5878	Nutcracker Set (Permanent)	0	1743	0
+5879	Unstable Energy	0	2739	0
+5880	Holy Blood	0	2742	0
+5881	Dark Energy Stone	0	2736	0
+5882	Raid Seal: Audience with Erenia	45	2751	0
+5883	Raid Seal: Audience with Zenas	45	2750	0
+5884	Ancelloan's Accessory Production Scroll	100	2746	0
+5885	Ancelloan's Weapon Production Scroll	100	2744	0
+5886	Ancelloan's Secondary Weapon Production Scroll	100	2745	0
+5887	Ancelloan's Armour Production Scroll	100	2747	0
+5888	Box of Honour	0	1743	0
+5889	Gold Medal Chest	0	1621	0
+5890	Silver Medal Chest	0	1399	0
+5891	Arena Booster (Talents)	0	2717	0
+5892	Legendary Medal of Honour	48	2725	0
+5893	Mysterious Medal of Honour	32	2723	0
+5894	Ancient Medal of Honour	16	2720	0
+5895	Excellent Medal of Honour	-120	2724	0
+5896	High-Quality Medal of Honour	-72	2722	0
+5897	Good Medal of Honour	-24	2719	0
+5898	Useful Medal of Honour	-12	2721	0
+5899	Medal of Honour	-56	2718	0
+5900	Charred Mask Parchment	100	2441	0
+5901	Grenigas Accessories Parchment	100	2442	0
+5902	Old Viking Costume (7 Days) - Sketch	100	2587	0
+5903	Fafnir's Bugle Blueprints	100	2188	0
+5904	Fafnir's Fried Dinner	-105	2906	0
+5909	Akamur Merchant Gift Bag	0	1850	0
+5910	Akamur Coupon	0	2450	0
+5911	Ice Flower	0	2451	0
+5912	Magical Sand	0	1849	0
+5913	Grenigas Relic	0	1778	0
+5914	Magical Camel	-24	2452	0
+5915	Magical Camel Box (Quest)	0	336	0
+5916	Strong Ice Flower Oil	0	2456	0
+5917	Left Side of Grenigas' Raid Seal	0	2457	0
+5918	Right Side of Grenigas' Raid Seal	0	2458	0
+5919	Rune Piece	0	2459	0
+5920	Kertos' Raid Seal	45	2460	0
+5921	Valakus' Raid Seal	45	2461	0
+5922	Grenigas' Raid Seal	45	2462	0
+5923	Magical Camel Parchment Scroll	-24	2453	0
+5924	Mysterious Pendant	0	1150	0
+5925	Valaket Egg	-47	2181	0
+5926	Flame Giant's Heart	-47	1159	0
+5927	Large Heat Resistance Potion	0	1199	0
+5928	Heat Resistance Potion	0	1199	0
+5929	Ice Flower Oil	0	2456	0
+5930	Heat Resistance Potion	0	1199	0
+5931	Partner Skill Ticket (Single)	0	2578	0
+5932	Partner Skill Ticket (All)	0	2577	0
+5933	Arena of Talents Ticket	0	1363	0
+5934	Arena of Masters Ticket	0	2613	0
+5935	Recovery Potion (TA)	-120	1244	0
+5936	Attack Potion (TA)	0	1246	0
+5937	Defence Potion (TA)	0	1247	0
+5938	Energy Potion (TA)	0	1248	0
+5939	Speed Potion (TA)	0	1249	0
+5940	Unveiling Potion (TA)	0	1058	0
+5941	Golden Arena Chest	0	1402	0
+5942	Erenia's Blessing	0	1332	0
+5943	Zenas' Blessing	0	1336	0
+5944	Astral Energy	0	1154	0
+5945	Camouflage Cap	0	1460	0
+5946	Revenge	0	1459	0
+5947	Acorn	0	1966	0
+5948	Bronze Acorn	0	1967	0
+5949	Silver Acorn	0	1968	0
+5950	Golden Acorn	0	1969	0
+5951	Wolf in Sheep's Clothing Gift Box	0	2931	0
+5952	Summon Pegasus	0	929	0
+5953	Summon Kangpen	0	1438	0
+5954	Summon Grumbly Chicky	0	4084	0
+5955	Summon Yeti	0	445	0
+5956	Summon Rudi	0	2572	0
+5957	Bushi King Gift Box	0	2932	0
+5958	Caligor's Treasure Chest	0	302	0
+5959	Caligor's Spirit	0	1060	0
+5960	Caligor's Glowing Treasure Chest	0	302	0
+5961	Caligor's Regular Treasure Chest	0	302	0
+5962	Foxy's Raid Seal	45	2662	0
+5963	Foxy's Wonder Chest	0	2663	0
+5964	Fresh Liver	0	2664	0
+5965	Blue Flask	0	2665	0
+5966	Yellow Flask	0	2666	0
+5967	Red Flask	0	2667	0
+5968	Halloween Wonder Chest	0	2668	0
+5969	Giant Rice Cake	-72	2669	0
+5970	Maru's Raid Seal	45	2674	0
+5971	Maru's Tiger Chest	0	2675	0
+5972	Sesame Oil	0	2676	0
+5974	Wanderer's Chest	0	2678	0
+5975	Red Bean Rice Cake	0	2679	0
+5976	Brass Coin	0	2680	0
+5977	Witch Laurena's Raid Seal	45	2698	0
+5978	Red Bean Soup	0	2696	0
+5979	Hongbi-Cheongbi Raid Seal	45	2690	0
+5980	Hungbu's Seed Grain	0	2691	0
+5981	Nolbu's Seed Grain	0	2692	0
+5982	Imp Raid Box	0	2693	0
+5983	Laurena's Gemstone	0	2699	0
+5984	Cleansing Powder	0	2704	0
+5985	Laurena's Ancient Witch's Chest	0	2702	0
+5986	Soul Sliver	0	2703	0
+5987	Seed of Damnation	0	2705	0
+5988	Laurena's Mysterious Witch's Chest	0	2702	0
+5989	Laurena's Fabled Witch's Chest	0	2702	0
+5990	Lola Lopears' Raid Seal	45	2716	0
+5991	Dragon King's Raid Box	0	2713	0
+5992	Tortoise Present	0	2714	0
+5993	Reward Box: Popularity Rankings	0	1744	0
+5994	Reward Box: Reputation Rankings	0	1744	0
+5995	Reward Box: Score Rankings	0	1744	0
+5996	Ancelloan Essence	0	1450	0
+5997	Magic Bone Drake	-24	2944	0
+5998	Magic Bone Drake Chest	0	336	0
+5999	Ancient Slade Tower Raid Seal	45	2942	0
+8001	Amulet of Attack Level	10	180	0
+8002	Amulet of Defence Level	10	181	0
+8003	Amulet of Attack and Defence Levels	10	182	0
+8004	Solaris	3	804	10
+8005	Sellaim	1	274	10
+8006	Woondine	2	275	10
+8007	Eperial	3	276	10
+8008	Turik	4	277	10
+8009	Grown Sellaim	1	274	10
+8010	Grown Woondine	2	275	10
+8011	Grown Eperial	3	276	10
+8012	Grown Turik	4	277	10
+8013	Cat Hat	20	337	14
+8014	Donkey Hat	20	338	14
+8015	Cowboy Hat	20	339	14
+8016	Monkey Hat	20	340	14
+8017	Antelope Horn Hat	20	341	14
+8018	Morning Glory Hat	20	342	14
+8019	Penguin Hat	20	343	14
+8020	Old Gentleman's Hat	20	344	14
+8021	Big Ear Hairband	20	345	14
+8022	Flower Vase Hat	20	346	14
+8023	Grasslin Fairy	1	348	0
+8024	Fierce Mask A	20	361	14
+8025	Fierce Mask B	20	362	14
+8026	Fierce Mask C	20	363	14
+8027	Silence Mask A	20	366	14
+8028	Silence Mask B	20	367	14
+8029	Silence Mask C	20	368	14
+8030	Abyssal Eye Bandage A	20	371	14
+8031	Abyssal Eye Bandage B	20	372	14
+8032	Abyssal Eye Bandage B	20	373	14
+8033	Brown Bushi	1	397	0
+8034	Gladiator Bushi	1	398	0
+8035	Exterminator Bushi	1	399	0
+8036	Azuris	3	425	10
+8037	Knight Helmet	20	426	14
+8038	Knight Mask	20	427	14
+8039	Wig	20	428	30
+8040	Spiky Hairstyle	20	429	30
+8041	Colourful Wig	20	441	30
+8042	Rare Spiky Hairstyle	20	442	30
+8043	Santa Bushi	1	444	0
+8044	Panda Hat (7 Days)	20	446	14
+8045	Sick Bushtail	1	447	0
+8046	Asian Black Bear Costume (7 Days)	20	450	14
+8047	Polar Bear Costume (7 Days)	20	451	14
+8048	Panda Costume (7 Days)	20	452	14
+8049	Teddy Bear Costume (7 Days)	20	453	14
+8050	Asian Black Bear Hat (7 Days)	20	454	14
+8051	Polar Bear Hat (7 Days)	20	455	14
+8052	Teddy Bear Hat (7 Days)	20	456	14
+8053	Rat Hat (Permanent)	20	457	14
+8054	Orange Hat (Permanent)	20	478	14
+8055	Luxury Flowerpot Hat (Permanent)	20	479	14
+8056	Nutshell Hat (Permanent)	20	480	14
+8057	Rat Hat (7 Days)	20	457	14
+8058	Rat Hat (30 Days)	20	457	14
+8059	Orange Hat (7 Days)	20	478	14
+8060	Orange Hat (30 Days)	20	478	14
+8061	Luxury Flowerpot Hat (7 Days)	20	479	14
+8062	Luxury Flowerpot Hat (30 Days)	20	479	14
+8063	Nutshell Hat (7 Days)	20	480	14
+8064	Nutshell Hat (30 Days)	20	480	14
+8065	Amulet of Strength	10	536	0
+8066	Amulet of Resolve	11	537	0
+8067	Egg Fairy	1	538	0
+8068	Polar Bear Costume (30 Days)	20	451	14
+8069	Panda Costume (30 Days)	20	452	14
+8070	Teddy Bear Costume (30 Days)	20	453	14
+8071	Asian Black Bear Costume (Permanent)	20	450	14
+8072	Polar Bear Costume (Permanent)	20	451	14
+8073	Panda Costume (Permanent)	20	452	14
+8074	Teddy Bear Costume (Permanent)	20	453	14
+8075	Panda Hat (30 Days)	20	446	14
+8076	Asian Black Bear Hat (30 Days)	20	454	14
+8077	Polar Bear Hat (30 Days)	20	455	14
+8078	Teddy Bear Hat (30 Days)	20	456	14
+8079	Panda Hat (Permanent)	20	446	14
+8080	Asian Black Bear Hat (Permanent)	20	454	14
+8081	Polar Bear Hat (Permanent)	20	455	14
+8082	Teddy Bear Hat (Permanent)	20	456	14
+8083	Aqua Bushtail	1	888	0
+8084	Pegasus	1	929	0
+8085	Cute Bunny	1	930	0
+8086	Boxer Bushi	1	943	0
+8087	Pumpkin Bushtail	1	950	0
+8088	Classic Bushi Costume (Permanent)	20	969	14
+8089	Classic Bushi Hat (Permanent)	20	971	14
+8090	Christmas Hat (1 Day)	20	973	14
+8091	Christmas Hat (7 Days)	20	973	14
+8092	Christmas Hat (30 Days)	20	973	14
+8093	Christmas Costume (1 Day)	20	976	14
+8094	Christmas Costume (7 Days)	20	976	14
+8095	Christmas Costume (30 Days)	20	976	14
+8096	Bull Bushtail	1	921	0
+8097	Wedding Clothes (3 Days)	20	981	30
+8098	Wedding Clothes (7 Days)	20	981	30
+8099	Wedding Clothes (30 Days)	20	981	30
+8100	Wedding Clothes (Permanent)	20	981	30
+8101	Wedding Hairstyle (3 Days)	20	4000	30
+8102	Wedding Hairstyle (7 Days)	20	4000	30
+8103	Wedding Hairstyle (30 Days)	20	4000	30
+8104	Wedding Hairstyle (Permanent)	20	4000	30
+8105	Tarot Card (Fool)	1	656	0
+8106	Tarot Card (The Magician)	1	657	0
+8107	Tarot Card (The Lovers)	1	658	0
+8108	Tarot Card (The Hermit)	1	659	0
+8109	Tarot Card (Death)	1	660	0
+8110	Tarot Card (The Devil)	1	661	0
+8111	Tarot Card (The Tower)	1	662	0
+8112	Tarot Card (The Star)	1	663	0
+8113	Tarot Card (The Moon)	1	664	0
+8114	Tarot Card (The Sun)	1	588	0
+8115	Rusty Robby	1	784	0
+8116	Santa Bushtail Costume (1 Day)	20	1513	14
+8117	Santa Bushtail Hat (1 Day)	20	1512	14
+8118	Santa Bushtail Costume (7 Days)	20	1513	14
+8119	Santa Bushtail Hat (7 Days)	20	1512	14
+8120	Santa Bushtail Costume (30 Days)	20	1513	14
+8121	Santa Bushtail Hat (30 Days)	20	1512	14
+8122	Santa Bushi Costume (Permanent)	20	1513	14
+8123	Santa Bushtail Hat (Permanent)	20	1512	14
+8124	Special Ops Bushi	1	1418	0
+8125	Chick Norris' Egg	1	4084	0
+8126	Black Bushi	1	1419	0
+8127	Blue Bushi	1	1420	0
+8128	Green Bushi	1	1421	0
+8129	Red Bushi	1	1422	0
+8130	Pink Bushi	1	1423	0
+8131	Turquoise Bushi	1	1424	0
+8132	Yellow Bushi	1	1425	0
+8133	Black Bushi Costume (Permanent)	20	764	14
+8134	Blue Bushi Costume (Permanent)	20	760	14
+8135	Green Bushi Costume (Permanent)	20	752	14
+8136	Red Bushi Costume (Permanent)	20	754	14
+8137	Pink Bushi Costume (Permanent)	20	758	14
+8138	Turquoise Bushi Costume (Permanent)	20	762	14
+8139	Yellow Bushi Costume (Permanent)	20	756	14
+8140	Black Bushi Hat (Permanent)	20	765	14
+8141	Blue Bushi Hat (Permanent)	20	761	14
+8142	Green Bushi Hat (Permanent)	20	753	14
+8143	Red Bushi Hat (Permanent)	20	755	14
+8144	Pink Bushi Hat (Permanent)	20	759	14
+8145	Turquoise Bushi Hat (Permanent)	20	763	14
+8146	Yellow Bushi Hat (Permanent)	20	757	14
+8147	Pumpkin Hat (1 Day)	20	767	14
+8148	Pumpkin Hat (7 Days)	20	767	14
+8149	Pumpkin Hat (30 Days)	20	767	14
+8150	Pumpkin Hat (Permanent)	20	767	14
+8151	Shogun Bushi	1	814	0
+8152	Centurio Bushi	1	1506	0
+8153	Elkaim	1	987	10
+8154	Ladine	2	988	10
+8155	Rumial	3	989	10
+8156	Varik	4	993	10
+8157	Straw Hat (1 Day)	20	2557	14
+8158	Straw Hat (7 Days)	20	2557	14
+8159	Straw Hat (30 Days)	20	2557	14
+8160	Straw Hat (Permanent)	20	2557	14
+8161	Leona	1	2558	0
+8162	Darko the Hell Pup	1	2560	0
+8163	Fibi Frosty	1	2564	0
+8164	Glowing Pumpkin Hat (1 Day)	20	2565	14
+8165	Glowing Pumpkin Hat (7 Days)	20	2565	14
+8166	Glowing Pumpkin Hat (30 Days)	20	2565	14
+8167	Glowing Pumpkin Hat (Permanent)	20	2565	14
+8168	Oto-Fox Costume (30 Days)	20	2569	14
+8169	Oto-Fox Costume (Permanent)	20	2569	14
+8170	Oto-Fox Hat (30 Days)	20	2570	14
+8171	Oto-Fox Hat (Permanent)	20	2570	14
+8172	Magic Hat of Light (30 Days)	20	2609	14
+8173	Magic Hat of Light (Permanent)	20	2609	14
+8174	Magic Hat of Shadow (30 Days)	20	2607	14
+8175	Magic Hat of Shadow (Permanent)	20	2607	14
+8176	Magic Garment of Light (30 Days)	20	2610	14
+8177	Magic Garment of Light (Permanent)	20	2610	14
+8178	Magic Robe of Shadow (30 Days)	20	2608	14
+8179	Magic Robe of Shadow (Permanent)	20	2608	14
+8180	Navy Bushtail	1	2616	0
+8181	Football Cap (Permanent)	20	2652	14
+8182	Football Jersey (Permanent)	20	2653	14
+8183	Fluffy Bally	1	2581	0
+8184	Inferno	1	2596	0
+8185	Navy Hat (1 Day)	20	2614	14
+8186	Navy Hat (7 Days)	20	2614	14
+8187	Navy Hat (30 Days)	20	2614	14
+8188	Navy Hat (Permanent)	20	2614	14
+8189	Navy Costume (1 Day)	20	2615	14
+8190	Navy Costume (7 Days)	20	2615	14
+8191	Navy Costume (30 Days)	20	2615	14
+8192	Navy Costume (Permanent)	20	2615	14
+8193	Aqua Bushtail Hat (7 Days)	20	1414	14
+8194	Aqua Bushtail Hat (30 Days)	20	1414	14
+8195	Aqua Bushi Hat (Permanent)	20	1414	14
+8196	Aqua Bushtail Costume (7 Days)	20	1415	14
+8197	Aqua Bushtail Costume (30 Days)	20	1415	14
+8198	Aqua Bushi Costume (Permanent)	20	1415	14
+8199	Cuddly Tiger Costume (1 Day)	20	2684	14
+8200	Cuddly Tiger Costume (7 Days)	20	2684	14
+8201	Cuddly Tiger Costume (30 Days)	20	2684	14
+8202	Cuddly Tiger Costume (Permanent)	20	2684	14
+8203	Snow White Tiger Costume (1 Day)	20	2686	14
+8204	Snow White Tiger Costume (7 Days)	20	2686	14
+8205	Snow White Tiger Costume (30 Days)	20	2686	14
+8206	Snow White Tiger Costume (Permanent)	20	2686	14
+8207	Cuddly Tiger Hat (1 Day)	20	2683	14
+8208	Cuddly Tiger Hat (7 Days)	20	2683	14
+8209	Cuddly Tiger Hat (30 Days)	20	2683	14
+8210	Cuddly Tiger Hat (Permanent)	20	2683	14
+8211	Snow White Tiger Hat (1 Day)	20	2685	14
+8212	Snow White Tiger Hat (7 Days)	20	2685	14
+8213	Snow White Tiger Hat (30 Days)	20	2685	14
+8214	Snow White Tiger Hat (Permanent)	20	2685	14
+8215	Illusionist's Costume (30 Days)	20	2802	14
+8216	Illusionist's Costume (Permanent)	20	2802	14
+8217	Illusionist's Top Hat (30 Days)	20	2801	14
+8218	Illusionist's Top Hat (Permanent)	20	2801	14
+8219	Cowboy Bushtail	1	2648	0
+8220	Ninja Bushtail	1	2649	0
+8221	Indian Bushi	1	2660	0
+8222	Viking Bushi	1	2673	0
+8223	Puss in Boots	1	2687	0
+8224	Aegir's Specialist Partner Card	1	2573	0
+8225	Barni's Specialist Partner Card	1	2574	0
+8226	Freya's Specialist Partner Card	1	2575	0
+8227	Shinobi's Specialist Partner Card	1	2623	0
+8228	Lotus' Specialist Partner Card	1	2624	0
+8229	Orkani's Specialist Partner Card	1	2625	0
+8230	Foxy's Specialist Partner Card	1	2672	0
+8231	Maru's Specialist Partner Card	1	2681	0
+8232	Maru in Mother's Fur (PSP)	1	2682	0
+8233	Hongbi's Specialist Partner Card	1	2694	0
+8234	Cheongbi's Specialist Partner Card	1	2695	0
+8235	Archangel Lucifer's Specialist Partner Card	1	2697	0
+8236	Laurena's Specialist Partner Card	1	2709	0
+8237	Amon's Specialist Partner Card	1	2710	0
+8238	Lucy Lopears' Specialist Partner Card	1	2711	0
+8239	Cowgirl Chloe	1	2726	0
+8240	Fiona's Specialist Partner Card	1	2729	0
+8241	Jinn's Specialist Partner Card	1	2732	0
+8242	Ice Princess Eliza	1	2790	0
+8243	Daniel Ducats	1	2789	0
+8244	Palina Puppet Master's Specialist Partner Card	1	2803	0
+8245	Harlequin's Specialist Partner Card	1	2806	0
+8246	Nelia Nymph	1	2809	0
+8247	Little Princess Venus	1	2810	0
+8248	Groovy Beach Costume (30 Days)	20	2885	14
+8249	Groovy Beach Costume (Permanent)	20	2885	14
+8250	Groovy Beach Hat (30 Days)	20	2884	14
+8251	Groovy Beach Hat (Permanent)	20	2884	14
+8252	Baseball Bat Skin (30 Days)	20	2887	2
+8253	Baseball Bat Skin (Permanent)	20	2887	2
+8254	Recurve Bow Skin (30 Days)	20	2888	4
+8255	Recurve Bow Skin (Permanent)	20	2888	4
+8256	Tennis Racquet Skin (30 Days)	20	2889	8
+8257	Tennis Racquet Skin (Permanent)	20	2889	8
+8258	Imp Cudgel Skin (30 Days)	20	2892	2
+8259	Imp Cudgel Skin (Permanent)	20	2892	2
+8260	Wildflower Bow Skin (30 Days)	20	2893	4
+8261	Wildflower Bow Skin (Permanent)	20	2893	4
+8262	Uchiwa Skin (30 Days)	20	2894	8
+8263	Uchiwa Skin (Permanent)	20	2894	8
+8264	Police Uniform (30 Days)	20	2891	14
+8265	Police Uniform (Permanent)	20	2891	14
+8266	Police Cap (30 Days)	20	2890	14
+8267	Police Cap (Permanent)	20	2890	14
+8268	Concierge Hat (30 Days)	20	2895	14
+8269	Concierge Hat (Permanent)	20	2895	14
+8270	Concierge Uniform (30 Days)	20	2896	14
+8271	Concierge Uniform (Permanent)	20	2896	14
+8272	Asian Black Bear Costume (30 Days)	20	450	14
+8273	Viking Helmet (30 Days)	20	2900	30
+8274	Viking Helmet (Permanent)	20	2900	30
+8275	Viking Armour (30 Days)	20	2901	30
+8276	Viking Armour (Permanent)	20	2901	30
+8277	Boing	1	546	0
+8278	Walker	1	543	0
+8279	Nutcracker Uniform (Permanent)	20	2812	14
+8280	Nutcracker Shako (Permanent)	20	2811	14
+8281	Frigg's Key	1	2902	0
+8282	Ragnar's Key	1	2903	0
+8283	Erdimien's Key	1	2915	0
+8284	Leo the Coward	1	2883	0
+8285	Steampunk Chronoblade (Permanent)	20	2918	2
+8286	Steampunk Clockwork Bow (Permanent)	20	2919	4
+8287	Steampunk Geared Wand (Permanent)	20	2920	8
+8288	Steampunk Chronoblade (30 Days)	20	2918	2
+8289	Steampunk Clockwork Bow (30 Days)	20	2919	4
+8290	Steampunk Geared Wand (30 Days)	20	2920	8
+8291	Jennifer's Key	1	2926	0
+8292	Desert Turban (30 Days)	20	2933	14
+8293	Desert Turban (Permanent)	20	2933	14
+8294	Floral Crown (30 Days)	20	2935	14
+8295	Floral Crown (Permanent)	20	2935	14
+8296	Desert Robe (30 Days)	20	2934	14
+8297	Desert Robe (Permanent)	20	2934	14
+8298	Belly Dancer Costume (30 Days)	20	2936	14
+8299	Belly Dancer Costume (Permanent)	20	2936	14
+8300	Bone Warrior Ragnar's Specialist Partner Card	1	2943	0
+8301	Yertirand's Key	1	2941	0
+8302	Sir Purcival	1	2950	0
+8303	Baron Scratch	1	2951	0
+8304	Admiral Horatio Ginger Bead	1	2952	0
+8305	Pirate King Blackwhiskers Bead	1	2953	0
+8306	Magic Speed Booster (1 Day)	120	2957	10
+8307	Magic Speed Booster (3 Days)	120	2957	10
+8308	Magic Speed Booster (7 Days)	120	2957	0
+8309	White Witch Laurena's Disguise	30	2958	30
+8310	Mad Professor Macavity's Test Subject	1	2962	0
+8311	Mad Professor Macavity	1	2963	0
+8312	Mother Nature's Lightning Rune	30	2973	0
+8313	Mother Nature's Tree Rune	30	2974	0
+8314	Mother Nature's Cloud Rune	30	2975	0
+8315	Mother Nature's Fire Rune	30	2976	0
+8316	Mother Nature's Lightning Rune (Rare)	30	2977	0
+8317	Mother Nature's Tree Rune (Rare)	30	2978	0
+8318	Mother Nature's Cloud Rune (Rare)	30	2979	0
+8319	Mother Nature's Fire Rune (Rare)	30	2980	0
+8320	Reindeer Hat (30 Days)	20	2993	14
+8321	Reindeer Hat (Permanent)	20	2993	14
+8322	Reindeer Costume (30 Days)	20	2994	14
+8323	Reindeer Costume (Permanent)	20	2994	14
+8324	Christmas Tree (30 Days)	20	2995	2
+8325	Candy Bow (30 Days)	20	2996	4
+8326	Christmas Bell (30 Days)	20	2997	8
+8327	Christmas Tree (Permanent)	20	2995	2
+8328	Candy Bow (Permanent)	20	2996	4
+8329	Christmas Bell (Permanent)	20	2997	8
+8330	Winter Hat (30 days)	20	4006	14
+8331	Winter Hat (Permanent)	20	4006	14
+8332	Long Winter Coat (30 days)	20	4007	14
+8333	Long Winter Coat (Permanent)	20	4007	14
+8334	Dragon Knight Costume (30 Days)	20	4008	14
+8335	Dragon Knight Costume (Permanent)	20	4008	14
+8336	Spiky Hairstyle	20	429	14
+8337	Frost Warrior?s Helm (30 days)	20	4010	14
+8338	Frost Warrior?s Helm (Permanent)	20	4010	14
+8339	Frost Warrior?s Armour (30 days)	20	4011	14
+8340	Frost Warrior?s Armour (Permanent)	20	4011	14
+8341	Skelekat Groom Bead	1	4042	0
+8342	Zombikit Bride Bead	1	4043	0
+8343	Puppet Master's Hairpin (30 Days)	20	4046	30
+8344	Puppet Master's Hairpin (Permanent)	20	4046	30
+8345	Puppet Master's Dress (30 Days)	20	4047	30
+8346	Puppet Master's Dress (Permanent)	20	4047	30
+8347	Puppet Master's Bear Head (30 Days)	20	4044	30
+8348	Puppet Master's Bear Head (Permanent)	20	4044	30
+8349	Puppet Master's Bear Costume (30 Days)	20	4045	30
+8350	Puppet Master's Bear Costume (Permanent)	20	4045	30
+8351	MechaMog Bead	1	4050	0
+8352	Karate Hairstyle (30 days)	20	4056	30
+8353	Karate Hairstyle (Permanent)	20	4056	30
+8354	Karate Gi (30 Days)	20	4057	30
+8355	Karate Gi (Permanent)	20	4057	30
+9001	Small Health Potion	44	1002	0
+9002	Medium Health Potion	88	1003	0
+9003	Large Health Potion	-24	1004	0
+9004	Small Mana Potion	0	1005	0
+9005	Medium Mana Potion	0	1006	0
+9006	Large Mana Potion	0	1007	0
+9007	Small Recovery Potion	44	1008	0
+9008	Medium Recovery Potion	88	1009	0
+9009	Large Recovery Potion	-24	1010	0
+9010	Small Signpost	100	1084	0
+9011	Large Signpost	100	1085	0
+9012	Skin for Bob	49	1103	0
+9013	Self-Introduction	-53	1117	0
+9014	Small Special Potion	-105	1118	0
+9015	Medium Special Potion	-105	1119	0
+9016	Large Special Potion	-105	1120	0
+9017	Cylloan Spring Water	-72	1122	0
+9018	Skin for Tom	49	1141	0
+9019	Skin for Kliff	49	1142	0
+9020	Attack Potion	0	1246	0
+9021	Defence Potion	0	1247	0
+9022	Energy Potion	0	1248	0
+9023	Experience Potion	0	1249	0
+9024	Adventurer's Knapsack (30 Days)	-49	1272	0
+9025	Adventurer's Knapsack (60 Days)	-49	1272	0
+9026	Partner's Backpack (10 Days)	0	1275	0
+9027	Partner's Backpack (30 Days)	0	1275	0
+9028	Partner's Backpack (60 Days)	0	1275	0
+9029	Pet Basket (30 Days)	-4	1278	0
+9030	Pet Basket (60 Days)	-4	1278	0
+9031	Airwaves Blackcurrant	0	1332	0
+9032	Airwaves Eucalyptus	0	1333	0
+9033	Airwaves Strawberry	0	1334	0
+9034	Airwaves Menthol	0	1335	0
+9035	Airwaves Lemon	0	1336	0
+9036	Airwaves Orange	0	1337	0
+9037	Airwaves Sweets	0	1338	0
+9038	Airwaves Cherry	0	1339	0
+9039	Soul Revival Stone	0	1365	0
+9040	Point Initialisation Potion	0	1366	0
+9041	Ancelloan's Blessing	-48	10119	0
+9042	Huge Recovery Potion	-36	1011	0
+9043	Guardian Angel's Blessing	-46	10120	0
+9044	Firework	0	1585	0
+9045	Angel Wings	-118	1685	0
+9046	Devil Wings	-118	1686	0
+9047	Adventurer's Knapsack (10 Days/Event)	-49	1272	0
+9048	Fresh Apple Juice	-48	1880	0
+9049	Strong Strawberry Cider	-60	1881	0
+9050	Fresh Strawberry Juice	-48	1888	0
+9051	Fresh Grape Juice	0	1889	0
+9052	Strong Grape Wine	0	1890	0
+9053	Strong Cider	-60	1891	0
+9054	Magic Scooter	-24	1906	0
+9055	Magic Carpet	-24	1907	0
+9056	Pet Basket (10 Days/Event)	-4	1278	0
+9057	Sealed Vessel	-22	1945	0
+9058	Magic White Tiger	-24	1965	0
+9059	Single Fireworks	0	1983	0
+9060	Double Fireworks	0	1984	0
+9061	Fountain Firework (Blue)	0	1985	0
+9062	Fountain Firework (Yellow)	0	1985	0
+9063	Heart Firework (Blue)	0	1987	0
+9064	Heart Firework (Red)	0	1987	0
+9065	Magic Convertible	-24	1413	0
+9066	NosMerchant Medal (30 Days)	0	1508	0
+9067	NosMerchant Medal (7 Days)	0	1509	0
+9068	NosMerchant Medal (1 Day/Event)	0	1509	0
+9069	Fire Wings	-118	1687	0
+9070	Fluffy McFly	-24	1417	0
+9071	Speed Booster	0	1426	0
+9072	Pet Slot Expansion	0	1432	0
+9073	Horned Sweeper	-24	1433	0
+9074	Fairy Booster	-6	1296	0
+9075	Soulstone Blessing	0	1362	0
+9076	Nossi the Dragon	-24	770	0
+9077	Ice Wings	-118	931	0
+9078	'Billy Boneshaker' Bike	-24	1503	0
+9079	'Blazing Blades' In-line Skates	-24	1504	0
+9080	'Doni Darkslide' Skateboard	-24	1505	0
+9081	'Icy Ike' Magical Skis	-24	1501	0
+9082	'Crazy Chris' Magical Snowboard	-24	1502	0
+9083	White Unicorn	-24	2591	0
+9084	Pink Unicorn	-24	2592	0
+9085	Black Unicorn	-24	2593	0
+9086	Peculiar UFO	-24	2594	0
+9087	Marco Pollo	-24	2595	0
+9088	Windsurfer	-24	2619	0
+9089	Titan Wings	-118	2622	0
+9090	Blue Jeep	-24	2627	0
+9091	Red Jeep	-24	2628	0
+9092	Cyan Jeep	-24	2629	0
+9093	Black Jeep	-24	2630	0
+9094	Pink Jeep	-24	2631	0
+9095	Archangel Wings	-118	2650	0
+9096	Archdaemon Wings	-118	2651	0
+9097	Blazing Fire Wings	-118	2658	0
+9098	Frosty Ice Wings	-118	2659	0
+9099	Golden Wings	-118	2730	0
+9100	Onyx Wings	-118	2731	0
+9101	Legendary Medal of Honour	48	2725	0
+9102	Mysterious Medal of Honour	32	2723	0
+9103	Ancient Medal of Honour	16	2720	0
+9104	Excellent Medal of Honour	-120	2724	0
+9105	High-Quality Medal of Honour	-72	2722	0
+9106	Good Medal of Honour	-24	2719	0
+9107	Useful Medal of Honour	-12	2721	0
+9108	Medal of Honour	-56	2718	0
+9109	Partner Skill Ticket (Single)	0	2578	0
+9110	Partner Skill Ticket (All)	0	2577	0
+9111	Fairy Wings	-118	2882	0
+9112	Costume Fusion	0	2899	0
+9113	Partner Slot Expansion	0	2921	0
+9114	none	0	336	0
+9115	Magic Bone Drake	-24	2944	0
+9116	Fairy Experience Potion	0	2621	0
+9117	Mother Nature's Rune Pack	0	2969	0
+9118	Cuarry Bank VIP Medal (10 Days)	0	2989	0
+9119	Cuarry Bank VIP Medal (30 Days)	0	2990	0
+9120	Mega Titan Wings	-118	2998	0
+9121	Magic Jaguar	-24	2999	0
+9122	none	0	336	0
+9123	Adventurer's Knapsack (Permanent)	89	1272	0
+9124	Partner's Backpack (Permanent)	90	1275	0
+9125	Pet Basket (Permanent)	91	1278	0
+9126	none	92	1115	0
+9127	none	93	1116	0
+9128	Novice Mount Scroll	-24	4009	0
+9129	Divine Recovery Potion	0	1244	0
+9130	Release Scroll	0	1219	0
+9131	Full Moon Crystal	0	1030	0
+9132	Skin for Frigg	49	4051	0
+9133	Skin for Ragnar	49	4052	0
+9134	Skin for Erdimien	49	4053	0
+9135	Skin for Yertirand	49	4054	0
+9136	Skin for Jennifer	49	4055	0
+10001	Bacon and Egg	44	2015	0
+10002	Ham & Egg Sandwich	-12	2016	0
+10003	Roasted Herring	-68	2017	0
+10004	Delicious Lunch	-24	2018	0
+10005	Roast Pork and Juice	100	2019	0
+10006	Pizza and Soft Drink	-112	2020	0
+10007	Bread and Beer	-106	2021	0
+10008	Chocolate Bar	100	2026	0
+10009	Fried Chicken	-6	2027	0
+10010	Wing of Return	1	2070	0
+10011	Amulet of Return	1	2071	0
+10012	Bell of Sweet Home	1	2072	0
+10013	Pet Food	10	2077	0
+10014	Delicious Pet Food	10	2078	0
+10015	Release Box	-24	2088	0
+10016	NosMate Guardian Angel	0	2089	0
+10017	Strong NosMate Trainer	0	2129	0
+10018	Taco	0	2131	0
+10019	Mashed Potato	0	2132	0
+10020	Noodles	0	2133	0
+10021	Sushi	0	2134	0
+10022	Holy Crystal Ball of Dignity	14	1064	0
+10023	Name Tag for Pets	13	2157	0
+10024	Gourmet Pet Food	11	2158	0
+10025	Super Hair Gel	11	2161	0
+10026	Super Hair Wax	11	2162	0
+10027	Potion of Dignity	14	2168	0
+10028	Speaker	15	2173	0
+10029	Speech Bubble	16	2174	0
+10030	Special Pet Food	14	2187	0
+10031	Dye Bomb	30	2280	0
+10032	Cheese Sandwich	-112	2288	0
+10033	Spare Ribs	-36	2289	0
+10034	Fruit Tart	0	2290	0
+10035	Fruit Omelette	0	2291	0
+10036	Hamburger	-12	2292	0
+10037	Steak	-48	2293	0
+10038	Boiled Egg	-68	2298	0
+10039	Muffin	44	1801	0
+10040	Slice of Pizza	94	1802	0
+10041	Icicle with Syrup	-112	1803	0
+10042	Ice Lolly	-62	1804	0
+10043	Coffee and Doughnut	-30	2304	0
+10044	Baguette	-36	2305	0
+10045	Sundae	8	2306	0
+10046	Fruit Ice Cream	0	2309	0
+10047	Chocolate Ice Cream	-48	2310	0
+10048	Wings of Friendship	0	2160	0
+10049	Partner Medicine	12	2159	0
+10050	Partner's Guardian Angel	0	1453	0
+10051	Prickly Pear	-68	2350	0
+10052	Burning Chicken	-60	2351	0
+10053	Dried-Up Rye Bread	-68	2373	0
+10054	Oasis Spring Water	44	2374	0
+10055	Hot Lamb Skewer	-24	2375	0
+10056	Refreshing Groundwater	-12	2376	0
+10057	Hot Cocoa	0	2377	0
+10058	Cold Cocoa	-60	2378	0
+10059	Mysterious Hair Dye	10	2399	0
+10060	Strange Partner Food	18	2580	0
+10061	Savage Dyes	31	2987	0
+10062	Jelly Rolls Hair Wax	11	2983	0
+10063	Faux Hawk Undercut Hair Wax	11	2984	0
+10064	French Braid Hair Wax	11	2985	0
+10065	Choppy Bangs Hair Wax	11	2986	0
+10066	Cuarry Bank Debit Card	0	2992	0

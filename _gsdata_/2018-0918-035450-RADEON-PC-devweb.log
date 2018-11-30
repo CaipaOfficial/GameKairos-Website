@@ -1,0 +1,15 @@
+2018-09-18 03:54:52: m4690.jfernandorojasc-gmail-com.goodsync is REMOTE, trying DIRECT at 213.136.67.9:33333
+2018-09-18 03:54:53: MustRetry after Recv: Recv: [requesting Digest auth]: 
+2018-09-18 03:54:54: -- Análisis iniciado por On File Change Incremental
+2018-09-18 03:54:56: Cambios: 7, Conflictos: 0, CopiaFecha: 0, CopiaEstado: 0, Errores: 0, All: 1210
+2018-09-18 03:54:56: Right to Left: Copy File: 7 
+2018-09-18 03:54:56: == Sinc comenzada por On File Change Incremental
+2018-09-18 03:54:57: Crear Carpeta 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/particles-js/css'
+2018-09-18 03:54:58: Crear Carpeta 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/particles-js/js'
+2018-09-18 03:54:58: Crear Carpeta 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/particles-js/js/lib'
+2018-09-18 03:55:00: Copiar Nueva 'C:/Users/RADEON/Desktop/wwwroot/particles-js/css/style.css' -> 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/particles-js/css/style.css' (2.585)
+2018-09-18 03:55:01: Copiar Nueva 'C:/Users/RADEON/Desktop/wwwroot/particles-js/js/app.js' -> 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/particles-js/js/app.js' (2.821)
+2018-09-18 03:55:03: Copiar Nueva 'C:/Users/RADEON/Desktop/wwwroot/particles-js/js/lib/stats.js' -> 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/particles-js/js/lib/stats.js' (3.560)
+2018-09-18 03:55:06: Copiar Nueva 'C:/Users/RADEON/Desktop/wwwroot/particles-js/js/particles.js' -> 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/particles-js/js/particles.js' (43.009)
+2018-09-18 03:55:09: == Sinc. Completa. Tiempo: 00:00:13, Velocidad: 9,00 KB/s, OK: 7, Errores: 0
+2018-09-18 03:55:09: 

@@ -1,0 +1,9 @@
+2018-09-18 04:04:37: m4690.jfernandorojasc-gmail-com.goodsync is REMOTE, trying DIRECT at 213.136.67.9:33333
+2018-09-18 04:04:38: MustRetry after Recv: Recv: [requesting Digest auth]: 
+2018-09-18 04:04:39: -- Análisis iniciado por On File Change Incremental
+2018-09-18 04:04:41: Cambios: 2, Conflictos: 0, CopiaFecha: 0, CopiaEstado: 0, Errores: 0, All: 1213
+2018-09-18 04:04:41: Right to Left: Rename/Move File/Folder: 2 
+2018-09-18 04:04:41: == Sinc comenzada por On File Change Incremental
+2018-09-18 04:04:42: Mover gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/particles-js/js/particlesjs.json -> gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/particles-js/js/particles.json
+2018-09-18 04:04:46: == Sinc. Completa. Tiempo: 00:00:05, Velocidad: 8,00 KB/s, OK: 2, Errores: 0
+2018-09-18 04:04:46: 

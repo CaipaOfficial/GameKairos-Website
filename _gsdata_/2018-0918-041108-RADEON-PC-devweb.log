@@ -1,0 +1,26 @@
+2018-09-18 04:11:10: m4690.jfernandorojasc-gmail-com.goodsync is REMOTE, trying DIRECT at 213.136.67.9:33333
+2018-09-18 04:11:11: MustRetry after Recv: Recv: [requesting Digest auth]: 
+2018-09-18 04:11:12: -- Análisis iniciado por On File Change Incremental
+2018-09-18 04:11:14: Cambios: 18, Conflictos: 0, CopiaFecha: 0, CopiaEstado: 0, Errores: 0, All: 1214
+2018-09-18 04:11:14: Right to Left: Delete File: 18 
+2018-09-18 04:11:14: == Sinc comenzada por On File Change Incremental
+2018-09-18 04:11:16: Borrar Archivo 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/particles-js/particles.js-master/.gitignore'
+2018-09-18 04:11:16: Borrar Archivo 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/particles-js/particles.js-master/bower.json'
+2018-09-18 04:11:18: Borrar Archivo 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/particles-js/particles.js-master/demo/css/style.css'
+2018-09-18 04:11:18: Borrar Carpeta 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/particles-js/particles.js-master/demo/css'
+2018-09-18 04:11:18: Borrar Archivo 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/particles-js/particles.js-master/demo/index.html'
+2018-09-18 04:11:19: Borrar Archivo 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/particles-js/particles.js-master/demo/js/app.js'
+2018-09-18 04:11:20: Borrar Archivo 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/particles-js/particles.js-master/demo/js/lib/stats.js'
+2018-09-18 04:11:20: Borrar Carpeta 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/particles-js/particles.js-master/demo/js/lib'
+2018-09-18 04:11:20: Borrar Archivo 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/particles-js/particles.js-master/demo/js/particles.js'
+2018-09-18 04:11:21: Borrar Carpeta 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/particles-js/particles.js-master/demo/js'
+2018-09-18 04:11:21: Borrar Archivo 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/particles-js/particles.js-master/demo/particles.json'
+2018-09-18 04:11:21: Borrar Carpeta 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/particles-js/particles.js-master/demo'
+2018-09-18 04:11:21: Borrar Archivo 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/particles-js/particles.js-master/LICENSE.md'
+2018-09-18 04:11:22: Borrar Archivo 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/particles-js/particles.js-master/package.json'
+2018-09-18 04:11:22: Borrar Archivo 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/particles-js/particles.js-master/particles.js'
+2018-09-18 04:11:22: Borrar Archivo 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/particles-js/particles.js-master/particles.min.js'
+2018-09-18 04:11:22: Borrar Archivo 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/particles-js/particles.js-master/README.md'
+2018-09-18 04:11:22: Borrar Carpeta 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/particles-js/particles.js-master'
+2018-09-18 04:11:25: == Sinc. Completa. Tiempo: 00:00:11, Velocidad: 17,0 KB/s, OK: 18, Errores: 0
+2018-09-18 04:11:25: 

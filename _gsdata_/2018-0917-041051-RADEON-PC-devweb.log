@@ -1,0 +1,10 @@
+2018-09-17 04:10:55: m4690.jfernandorojasc-gmail-com.goodsync is REMOTE, trying DIRECT at 213.136.67.9:33333
+2018-09-17 04:10:55: MustRetry after Recv: Recv: [requesting Digest auth]: 
+2018-09-17 04:10:57: -- Análisis iniciado por On File Change Incremental
+2018-09-17 04:11:54: Cambios: 1, Conflictos: 0, CopiaFecha: 0, CopiaEstado: 0, Errores: 0, All: 1156
+2018-09-17 04:11:54: Left to Right: Copy File: 1 
+2018-09-17 04:11:54: == Sinc comenzada por On File Change Incremental
+2018-09-17 04:11:55: gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/Ticket_system/server.py: Source file has changed between Analyze and Sync from '[file] size=186 accu-time=2018-09-17 04:09:38 attr=Archive cktype=0' to 'size=195 time=2018-09-17 04:11:52', noted in source file state
+2018-09-17 04:11:55: Copiar Sobre 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/Ticket_system/server.py' -> 'C:/Users/RADEON/Desktop/wwwroot/Ticket_system/server.py' (186)
+2018-09-17 04:11:57: == Sinc. Completa. Tiempo: 00:00:03, Velocidad: 0 bytes/s, OK: 1, Errores: 0
+2018-09-17 04:11:58: 

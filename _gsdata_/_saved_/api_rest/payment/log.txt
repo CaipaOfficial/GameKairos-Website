@@ -1,0 +1,1400 @@
+Requested at: Saturday, 01. September 2018 18:49:49
+
+Request: Array
+(
+    [currency] => EUR
+    [amount] => 10
+    [customer] => Array
+        (
+            [id] => cc03e747a6afbbcbf8be7668acfebee5
+            [ip] => 190.66.162.249
+        )
+
+    [redirect] => Array
+        (
+            [success_url] => http://gamekairos.org/api_rest/payment/success.php?payment_id={payment_id}
+            [failure_url] => http://gamekairos.org/api_rest/payment/failure.php?payment_id={payment_id}
+        )
+
+    [type] => PAYSAFECARD
+    [notification_url] => http://gamekairos.org/api_rest/payment/notification.php?payment_id={payment_id}
+    [shop_id] => 
+    [request_url] => https://apitest.paysafecard.com/v1/payments/
+)
+
+HTTP: Array
+(
+    [info] => Array
+        (
+            [url] => https://apitest.paysafecard.com/v1/payments/
+            [content_type] => application/json
+            [http_code] => 201
+            [header_size] => 505
+            [request_size] => 693
+            [filetime] => -1
+            [ssl_verify_result] => 20
+            [redirect_count] => 0
+            [total_time] => 1.531
+            [namelookup_time] => 0.109
+            [connect_time] => 0.125
+            [pretransfer_time] => 1.25
+            [size_upload] => 452
+            [size_download] => 798
+            [speed_download] => 521
+            [speed_upload] => 295
+            [download_content_length] => -1
+            [upload_content_length] => 452
+            [starttransfer_time] => 1.531
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 194.1.158.27
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 173.212.232.245
+            [local_port] => 52664
+        )
+
+    [error_nr] => 0
+    [error_text] => 
+    [http_status] => 201
+)
+
+Response: Array
+(
+    [object] => PAYMENT
+    [id] => pay_1000005843_testCorrID_5b8ab51b8122b_EUR
+    [created] => 1535816988991
+    [updated] => 1535816988991
+    [amount] => 10
+    [currency] => EUR
+    [status] => INITIATED
+    [type] => PAYSAFECARD
+    [redirect] => Array
+        (
+            [success_url] => http://gamekairos.org/api_rest/payment/success.php?payment_id=pay_1000005843_testCorrID_5b8ab51b8122b_EUR
+            [failure_url] => http://gamekairos.org/api_rest/payment/failure.php?payment_id=pay_1000005843_testCorrID_5b8ab51b8122b_EUR
+            [auth_url] => https://customer.test.at.paysafecard.com/rest/payment/panel?mid=1000005843&mtid=pay_1000005843_testCorrID_5b8ab51b8122b_EUR&amount=10.00&currency=EUR
+        )
+
+    [customer] => Array
+        (
+            [id] => cc03e747a6afbbcbf8be7668acfebee5
+        )
+
+    [notification_url] => http://gamekairos.org/api_rest/payment/notification.php?payment_id=pay_1000005843_testCorrID_5b8ab51b8122b_EUR
+)
+--------------------------------------------
+Requested at: Saturday, 01. September 2018 19:02:52
+
+Request: Array
+(
+    [currency] => EUR
+    [amount] => 10
+    [customer] => Array
+        (
+            [id] => cc03e747a6afbbcbf8be7668acfebee5
+            [ip] => 190.66.162.249
+        )
+
+    [redirect] => Array
+        (
+            [success_url] => http://gamekairos.org/api_rest/payment/success.php?payment_id={payment_id}
+            [failure_url] => http://gamekairos.org/api_rest/payment/failure.php?payment_id={payment_id}
+        )
+
+    [type] => PAYSAFECARD
+    [notification_url] => http://gamekairos.org/api_rest/payment/notification.php?payment_id={payment_id}
+    [shop_id] => 
+    [request_url] => https://apitest.paysafecard.com/v1/payments/
+)
+
+HTTP: Array
+(
+    [info] => Array
+        (
+            [url] => https://apitest.paysafecard.com/v1/payments/
+            [content_type] => application/json
+            [http_code] => 201
+            [header_size] => 505
+            [request_size] => 693
+            [filetime] => -1
+            [ssl_verify_result] => 20
+            [redirect_count] => 0
+            [total_time] => 0.36
+            [namelookup_time] => 0.016
+            [connect_time] => 0.032
+            [pretransfer_time] => 0.11
+            [size_upload] => 452
+            [size_download] => 815
+            [speed_download] => 2263
+            [speed_upload] => 1255
+            [download_content_length] => -1
+            [upload_content_length] => 452
+            [starttransfer_time] => 0.36
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 194.1.158.27
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 173.212.232.245
+            [local_port] => 52700
+        )
+
+    [error_nr] => 0
+    [error_text] => 
+    [http_status] => 201
+)
+
+Response: Array
+(
+    [object] => PAYMENT
+    [id] => pay_1000046085_testCorrID_5b8ab82bbd125_EUR
+    [created] => 1535817772056
+    [updated] => 1535817772056
+    [amount] => 10
+    [currency] => EUR
+    [status] => INITIATED
+    [type] => PAYSAFECARD
+    [redirect] => Array
+        (
+            [success_url] => http://gamekairos.org/api_rest/payment/success.php?payment_id=pay_1000046085_testCorrID_5b8ab82bbd125_EUR
+            [failure_url] => http://gamekairos.org/api_rest/payment/failure.php?payment_id=pay_1000046085_testCorrID_5b8ab82bbd125_EUR
+            [auth_url] => https://customer.test.at.paysafecard.com/psccustomer/GetCustomerPanelServlet?mid=1000046085&mtid=pay_1000046085_testCorrID_5b8ab82bbd125_EUR&amount=10.00&currency=EUR
+        )
+
+    [customer] => Array
+        (
+            [id] => cc03e747a6afbbcbf8be7668acfebee5
+        )
+
+    [notification_url] => http://gamekairos.org/api_rest/payment/notification.php?payment_id=pay_1000046085_testCorrID_5b8ab82bbd125_EUR
+)
+--------------------------------------------
+Requested at: Saturday, 01. September 2018 19:03:18
+
+Request: Array
+(
+    [currency] => EUR
+    [amount] => 10
+    [customer] => Array
+        (
+            [id] => cc03e747a6afbbcbf8be7668acfebee5
+            [ip] => 190.66.162.249
+        )
+
+    [redirect] => Array
+        (
+            [success_url] => http://gamekairos.org/api_rest/payment/success.php?payment_id={payment_id}
+            [failure_url] => http://gamekairos.org/api_rest/payment/failure.php?payment_id={payment_id}
+        )
+
+    [type] => PAYSAFECARD
+    [notification_url] => http://gamekairos.org/api_rest/payment/notification.php?payment_id={payment_id}
+    [shop_id] => 
+    [request_url] => https://apitest.paysafecard.com/v1/payments/
+)
+
+HTTP: Array
+(
+    [info] => Array
+        (
+            [url] => https://apitest.paysafecard.com/v1/payments/
+            [content_type] => application/json
+            [http_code] => 201
+            [header_size] => 505
+            [request_size] => 693
+            [filetime] => -1
+            [ssl_verify_result] => 20
+            [redirect_count] => 0
+            [total_time] => 0.297
+            [namelookup_time] => 1.0E-6
+            [connect_time] => 0.031
+            [pretransfer_time] => 0.109
+            [size_upload] => 452
+            [size_download] => 815
+            [speed_download] => 2744
+            [speed_upload] => 1521
+            [download_content_length] => -1
+            [upload_content_length] => 452
+            [starttransfer_time] => 0.297
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 194.1.158.27
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 173.212.232.245
+            [local_port] => 52703
+        )
+
+    [error_nr] => 0
+    [error_text] => 
+    [http_status] => 201
+)
+
+Response: Array
+(
+    [object] => PAYMENT
+    [id] => pay_1000046085_testCorrID_5b8ab8465de94_EUR
+    [created] => 1535817798602
+    [updated] => 1535817798602
+    [amount] => 10
+    [currency] => EUR
+    [status] => INITIATED
+    [type] => PAYSAFECARD
+    [redirect] => Array
+        (
+            [success_url] => http://gamekairos.org/api_rest/payment/success.php?payment_id=pay_1000046085_testCorrID_5b8ab8465de94_EUR
+            [failure_url] => http://gamekairos.org/api_rest/payment/failure.php?payment_id=pay_1000046085_testCorrID_5b8ab8465de94_EUR
+            [auth_url] => https://customer.test.at.paysafecard.com/psccustomer/GetCustomerPanelServlet?mid=1000046085&mtid=pay_1000046085_testCorrID_5b8ab8465de94_EUR&amount=10.00&currency=EUR
+        )
+
+    [customer] => Array
+        (
+            [id] => cc03e747a6afbbcbf8be7668acfebee5
+        )
+
+    [notification_url] => http://gamekairos.org/api_rest/payment/notification.php?payment_id=pay_1000046085_testCorrID_5b8ab8465de94_EUR
+)
+--------------------------------------------
+Requested at: Saturday, 01. September 2018 19:04:18
+
+Request: Array
+(
+    [currency] => EUR
+    [amount] => 50
+    [customer] => Array
+        (
+            [id] => cc03e747a6afbbcbf8be7668acfebee5
+            [ip] => 190.66.162.249
+        )
+
+    [redirect] => Array
+        (
+            [success_url] => http://gamekairos.org/api_rest/payment/success.php?payment_id={payment_id}
+            [failure_url] => http://gamekairos.org/api_rest/payment/failure.php?payment_id={payment_id}
+        )
+
+    [type] => PAYSAFECARD
+    [notification_url] => http://gamekairos.org/api_rest/payment/notification.php?payment_id={payment_id}
+    [shop_id] => 
+    [request_url] => https://apitest.paysafecard.com/v1/payments/
+)
+
+HTTP: Array
+(
+    [info] => Array
+        (
+            [url] => https://apitest.paysafecard.com/v1/payments/
+            [content_type] => application/json
+            [http_code] => 201
+            [header_size] => 505
+            [request_size] => 693
+            [filetime] => -1
+            [ssl_verify_result] => 20
+            [redirect_count] => 0
+            [total_time] => 0.359
+            [namelookup_time] => 1.0E-6
+            [connect_time] => 0.031
+            [pretransfer_time] => 0.094
+            [size_upload] => 452
+            [size_download] => 815
+            [speed_download] => 2270
+            [speed_upload] => 1259
+            [download_content_length] => -1
+            [upload_content_length] => 452
+            [starttransfer_time] => 0.359
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 194.1.158.27
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 173.212.232.245
+            [local_port] => 52717
+        )
+
+    [error_nr] => 0
+    [error_text] => 
+    [http_status] => 201
+)
+
+Response: Array
+(
+    [object] => PAYMENT
+    [id] => pay_1000046085_testCorrID_5b8ab88267060_EUR
+    [created] => 1535817858691
+    [updated] => 1535817858691
+    [amount] => 50
+    [currency] => EUR
+    [status] => INITIATED
+    [type] => PAYSAFECARD
+    [redirect] => Array
+        (
+            [success_url] => http://gamekairos.org/api_rest/payment/success.php?payment_id=pay_1000046085_testCorrID_5b8ab88267060_EUR
+            [failure_url] => http://gamekairos.org/api_rest/payment/failure.php?payment_id=pay_1000046085_testCorrID_5b8ab88267060_EUR
+            [auth_url] => https://customer.test.at.paysafecard.com/psccustomer/GetCustomerPanelServlet?mid=1000046085&mtid=pay_1000046085_testCorrID_5b8ab88267060_EUR&amount=50.00&currency=EUR
+        )
+
+    [customer] => Array
+        (
+            [id] => cc03e747a6afbbcbf8be7668acfebee5
+        )
+
+    [notification_url] => http://gamekairos.org/api_rest/payment/notification.php?payment_id=pay_1000046085_testCorrID_5b8ab88267060_EUR
+)
+--------------------------------------------
+Requested at: Saturday, 01. September 2018 19:04:36
+
+Request: Array
+(
+    [request_url] => https://apitest.paysafecard.com/v1/payments/pay_1000046085_testCorrID_5b8ab88267060_EUR
+)
+
+HTTP: Array
+(
+    [info] => Array
+        (
+            [url] => https://apitest.paysafecard.com/v1/payments/pay_1000046085_testCorrID_5b8ab88267060_EUR
+            [content_type] => application/json
+            [http_code] => 200
+            [header_size] => 500
+            [request_size] => 220
+            [filetime] => -1
+            [ssl_verify_result] => 20
+            [redirect_count] => 0
+            [total_time] => 0.282
+            [namelookup_time] => 1.0E-6
+            [connect_time] => 0.032
+            [pretransfer_time] => 0.094
+            [size_upload] => 0
+            [size_download] => 947
+            [speed_download] => 3358
+            [speed_upload] => 0
+            [download_content_length] => -1
+            [upload_content_length] => -1
+            [starttransfer_time] => 0.282
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 194.1.158.27
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 173.212.232.245
+            [local_port] => 52719
+        )
+
+    [error_nr] => 0
+    [error_text] => 
+    [http_status] => 200
+)
+
+Response: Array
+(
+    [object] => PAYMENT
+    [id] => pay_1000046085_testCorrID_5b8ab88267060_EUR
+    [created] => 1535817858691
+    [updated] => 1535817876255
+    [amount] => 50
+    [currency] => EUR
+    [status] => AUTHORIZED
+    [type] => PAYSAFECARD
+    [redirect] => Array
+        (
+            [success_url] => http://gamekairos.org/api_rest/payment/success.php?payment_id=pay_1000046085_testCorrID_5b8ab88267060_EUR
+            [failure_url] => http://gamekairos.org/api_rest/payment/failure.php?payment_id=pay_1000046085_testCorrID_5b8ab88267060_EUR
+            [auth_url] => https://customer.test.at.paysafecard.com/psccustomer/GetCustomerPanelServlet?mid=1000046085&mtid=pay_1000046085_testCorrID_5b8ab88267060_EUR&amount=50.00&currency=EUR
+        )
+
+    [customer] => Array
+        (
+            [id] => cc03e747a6afbbcbf8be7668acfebee5
+            [ip] => 190.66.162.249
+        )
+
+    [notification_url] => http://gamekairos.org/api_rest/payment/notification.php?payment_id=pay_1000046085_testCorrID_5b8ab88267060_EUR
+    [card_details] => Array
+        (
+            [0] => Array
+                (
+                    [serial] => 3428031305927021
+                    [type] => 00044
+                    [country] => XX
+                    [currency] => EUR
+                    [amount] => 50
+                )
+
+        )
+
+)
+--------------------------------------------
+Requested at: Saturday, 01. September 2018 19:04:37
+
+Request: Array
+(
+    [id] => pay_1000046085_testCorrID_5b8ab88267060_EUR
+    [request_url] => https://apitest.paysafecard.com/v1/payments/pay_1000046085_testCorrID_5b8ab88267060_EUR/capture
+)
+
+HTTP: Array
+(
+    [info] => Array
+        (
+            [url] => https://apitest.paysafecard.com/v1/payments/pay_1000046085_testCorrID_5b8ab88267060_EUR/capture
+            [content_type] => application/json
+            [http_code] => 200
+            [header_size] => 500
+            [request_size] => 301
+            [filetime] => -1
+            [ssl_verify_result] => 20
+            [redirect_count] => 0
+            [total_time] => 0.422
+            [namelookup_time] => 1.0E-6
+            [connect_time] => 0.031
+            [pretransfer_time] => 0.078
+            [size_upload] => 52
+            [size_download] => 764
+            [speed_download] => 1810
+            [speed_upload] => 123
+            [download_content_length] => -1
+            [upload_content_length] => 52
+            [starttransfer_time] => 0.422
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 194.1.158.27
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 173.212.232.245
+            [local_port] => 52720
+        )
+
+    [error_nr] => 0
+    [error_text] => 
+    [http_status] => 200
+)
+
+Response: Array
+(
+    [object] => PAYMENT
+    [id] => pay_1000046085_testCorrID_5b8ab88267060_EUR
+    [created] => 1535817858691
+    [updated] => 1535817876255
+    [amount] => 50
+    [currency] => EUR
+    [status] => SUCCESS
+    [type] => PAYSAFECARD
+    [redirect] => Array
+        (
+            [success_url] => http://gamekairos.org/api_rest/payment/success.php?payment_id=pay_1000046085_testCorrID_5b8ab88267060_EUR
+            [failure_url] => http://gamekairos.org/api_rest/payment/failure.php?payment_id=pay_1000046085_testCorrID_5b8ab88267060_EUR
+        )
+
+    [customer] => Array
+        (
+            [id] => cc03e747a6afbbcbf8be7668acfebee5
+            [ip] => 190.66.162.249
+        )
+
+    [notification_url] => http://gamekairos.org/api_rest/payment/notification.php?payment_id=pay_1000046085_testCorrID_5b8ab88267060_EUR
+    [card_details] => Array
+        (
+            [0] => Array
+                (
+                    [serial] => 3428031305927021
+                    [type] => 00044
+                    [country] => XX
+                    [currency] => EUR
+                    [amount] => 50
+                )
+
+        )
+
+    [message] => Transaction could not be initiated due to connection problems. If the problem persists, please contact our support. 
+)
+--------------------------------------------
+Requested at: Saturday, 01. September 2018 19:04:38
+
+Request: Array
+(
+    [request_url] => https://apitest.paysafecard.com/v1/payments/pay_1000046085_testCorrID_5b8ab88267060_EUR
+)
+
+HTTP: Array
+(
+    [info] => Array
+        (
+            [url] => https://apitest.paysafecard.com/v1/payments/pay_1000046085_testCorrID_5b8ab88267060_EUR
+            [content_type] => application/json
+            [http_code] => 200
+            [header_size] => 500
+            [request_size] => 220
+            [filetime] => -1
+            [ssl_verify_result] => 20
+            [redirect_count] => 0
+            [total_time] => 0.281
+            [namelookup_time] => 1.0E-6
+            [connect_time] => 0.031
+            [pretransfer_time] => 0.094
+            [size_upload] => 0
+            [size_download] => 944
+            [speed_download] => 3359
+            [speed_upload] => 0
+            [download_content_length] => -1
+            [upload_content_length] => -1
+            [starttransfer_time] => 0.281
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 194.1.158.27
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 173.212.232.245
+            [local_port] => 52721
+        )
+
+    [error_nr] => 0
+    [error_text] => 
+    [http_status] => 200
+)
+
+Response: Array
+(
+    [object] => PAYMENT
+    [id] => pay_1000046085_testCorrID_5b8ab88267060_EUR
+    [created] => 1535817858691
+    [updated] => 1535817877033
+    [amount] => 50
+    [currency] => EUR
+    [status] => SUCCESS
+    [type] => PAYSAFECARD
+    [redirect] => Array
+        (
+            [success_url] => http://gamekairos.org/api_rest/payment/success.php?payment_id=pay_1000046085_testCorrID_5b8ab88267060_EUR
+            [failure_url] => http://gamekairos.org/api_rest/payment/failure.php?payment_id=pay_1000046085_testCorrID_5b8ab88267060_EUR
+            [auth_url] => https://customer.test.at.paysafecard.com/psccustomer/GetCustomerPanelServlet?mid=1000046085&mtid=pay_1000046085_testCorrID_5b8ab88267060_EUR&amount=50.00&currency=EUR
+        )
+
+    [customer] => Array
+        (
+            [id] => cc03e747a6afbbcbf8be7668acfebee5
+            [ip] => 190.66.162.249
+        )
+
+    [notification_url] => http://gamekairos.org/api_rest/payment/notification.php?payment_id=pay_1000046085_testCorrID_5b8ab88267060_EUR
+    [card_details] => Array
+        (
+            [0] => Array
+                (
+                    [serial] => 3428031305927021
+                    [type] => 00044
+                    [country] => XX
+                    [currency] => EUR
+                    [amount] => 50
+                )
+
+        )
+
+)
+--------------------------------------------
+Requested at: Saturday, 01. September 2018 19:09:28
+
+Request: Array
+(
+    [currency] => EUR
+    [amount] => 50
+    [customer] => Array
+        (
+            [id] => cc03e747a6afbbcbf8be7668acfebee5
+            [ip] => 190.66.162.249
+        )
+
+    [redirect] => Array
+        (
+            [success_url] => http://gamekairos.org/api_rest/payment/success.php?payment_id={payment_id}
+            [failure_url] => http://gamekairos.org/api_rest/payment/failure.php?payment_id={payment_id}
+        )
+
+    [type] => PAYSAFECARD
+    [notification_url] => http://gamekairos.org/api_rest/payment/notification.php?payment_id={payment_id}
+    [shop_id] => 
+    [request_url] => https://apitest.paysafecard.com/v1/payments/
+)
+
+HTTP: Array
+(
+    [info] => Array
+        (
+            [url] => https://apitest.paysafecard.com/v1/payments/
+            [content_type] => application/json
+            [http_code] => 201
+            [header_size] => 505
+            [request_size] => 693
+            [filetime] => -1
+            [ssl_verify_result] => 20
+            [redirect_count] => 0
+            [total_time] => 0.328
+            [namelookup_time] => 0.047
+            [connect_time] => 0.078
+            [pretransfer_time] => 0.125
+            [size_upload] => 452
+            [size_download] => 815
+            [speed_download] => 2484
+            [speed_upload] => 1378
+            [download_content_length] => -1
+            [upload_content_length] => 452
+            [starttransfer_time] => 0.328
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 194.1.158.27
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 173.212.232.245
+            [local_port] => 52727
+        )
+
+    [error_nr] => 0
+    [error_text] => 
+    [http_status] => 201
+)
+
+Response: Array
+(
+    [object] => PAYMENT
+    [id] => pay_1000046085_testCorrID_5b8ab9b80eba3_EUR
+    [created] => 1535818168321
+    [updated] => 1535818168321
+    [amount] => 50
+    [currency] => EUR
+    [status] => INITIATED
+    [type] => PAYSAFECARD
+    [redirect] => Array
+        (
+            [success_url] => http://gamekairos.org/api_rest/payment/success.php?payment_id=pay_1000046085_testCorrID_5b8ab9b80eba3_EUR
+            [failure_url] => http://gamekairos.org/api_rest/payment/failure.php?payment_id=pay_1000046085_testCorrID_5b8ab9b80eba3_EUR
+            [auth_url] => https://customer.test.at.paysafecard.com/psccustomer/GetCustomerPanelServlet?mid=1000046085&mtid=pay_1000046085_testCorrID_5b8ab9b80eba3_EUR&amount=50.00&currency=EUR
+        )
+
+    [customer] => Array
+        (
+            [id] => cc03e747a6afbbcbf8be7668acfebee5
+        )
+
+    [notification_url] => http://gamekairos.org/api_rest/payment/notification.php?payment_id=pay_1000046085_testCorrID_5b8ab9b80eba3_EUR
+)
+--------------------------------------------
+Requested at: Saturday, 01. September 2018 19:09:35
+
+Request: Array
+(
+    [request_url] => https://apitest.paysafecard.com/v1/payments/pay_1000046085_testCorrID_5b8ab9b80eba3_EUR
+)
+
+HTTP: Array
+(
+    [info] => Array
+        (
+            [url] => https://apitest.paysafecard.com/v1/payments/pay_1000046085_testCorrID_5b8ab9b80eba3_EUR
+            [content_type] => application/json
+            [http_code] => 200
+            [header_size] => 500
+            [request_size] => 220
+            [filetime] => -1
+            [ssl_verify_result] => 20
+            [redirect_count] => 0
+            [total_time] => 0.25
+            [namelookup_time] => 1.0E-6
+            [connect_time] => 0.032
+            [pretransfer_time] => 0.078
+            [size_upload] => 0
+            [size_download] => 947
+            [speed_download] => 3788
+            [speed_upload] => 0
+            [download_content_length] => -1
+            [upload_content_length] => -1
+            [starttransfer_time] => 0.25
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 194.1.158.27
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 173.212.232.245
+            [local_port] => 52729
+        )
+
+    [error_nr] => 0
+    [error_text] => 
+    [http_status] => 200
+)
+
+Response: Array
+(
+    [object] => PAYMENT
+    [id] => pay_1000046085_testCorrID_5b8ab9b80eba3_EUR
+    [created] => 1535818168321
+    [updated] => 1535818175065
+    [amount] => 50
+    [currency] => EUR
+    [status] => AUTHORIZED
+    [type] => PAYSAFECARD
+    [redirect] => Array
+        (
+            [success_url] => http://gamekairos.org/api_rest/payment/success.php?payment_id=pay_1000046085_testCorrID_5b8ab9b80eba3_EUR
+            [failure_url] => http://gamekairos.org/api_rest/payment/failure.php?payment_id=pay_1000046085_testCorrID_5b8ab9b80eba3_EUR
+            [auth_url] => https://customer.test.at.paysafecard.com/psccustomer/GetCustomerPanelServlet?mid=1000046085&mtid=pay_1000046085_testCorrID_5b8ab9b80eba3_EUR&amount=50.00&currency=EUR
+        )
+
+    [customer] => Array
+        (
+            [id] => cc03e747a6afbbcbf8be7668acfebee5
+            [ip] => 190.66.162.249
+        )
+
+    [notification_url] => http://gamekairos.org/api_rest/payment/notification.php?payment_id=pay_1000046085_testCorrID_5b8ab9b80eba3_EUR
+    [card_details] => Array
+        (
+            [0] => Array
+                (
+                    [serial] => 4482608721781374
+                    [type] => 00044
+                    [country] => XX
+                    [currency] => EUR
+                    [amount] => 50
+                )
+
+        )
+
+)
+--------------------------------------------
+Requested at: Saturday, 01. September 2018 19:09:35
+
+Request: Array
+(
+    [id] => pay_1000046085_testCorrID_5b8ab9b80eba3_EUR
+    [request_url] => https://apitest.paysafecard.com/v1/payments/pay_1000046085_testCorrID_5b8ab9b80eba3_EUR/capture
+)
+
+HTTP: Array
+(
+    [info] => Array
+        (
+            [url] => https://apitest.paysafecard.com/v1/payments/pay_1000046085_testCorrID_5b8ab9b80eba3_EUR/capture
+            [content_type] => application/json
+            [http_code] => 200
+            [header_size] => 500
+            [request_size] => 301
+            [filetime] => -1
+            [ssl_verify_result] => 20
+            [redirect_count] => 0
+            [total_time] => 0.359
+            [namelookup_time] => 1.0E-6
+            [connect_time] => 0.016
+            [pretransfer_time] => 0.062
+            [size_upload] => 52
+            [size_download] => 764
+            [speed_download] => 2128
+            [speed_upload] => 144
+            [download_content_length] => -1
+            [upload_content_length] => 52
+            [starttransfer_time] => 0.359
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 194.1.158.27
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 173.212.232.245
+            [local_port] => 52730
+        )
+
+    [error_nr] => 0
+    [error_text] => 
+    [http_status] => 200
+)
+
+Response: Array
+(
+    [object] => PAYMENT
+    [id] => pay_1000046085_testCorrID_5b8ab9b80eba3_EUR
+    [created] => 1535818168321
+    [updated] => 1535818175065
+    [amount] => 50
+    [currency] => EUR
+    [status] => SUCCESS
+    [type] => PAYSAFECARD
+    [redirect] => Array
+        (
+            [success_url] => http://gamekairos.org/api_rest/payment/success.php?payment_id=pay_1000046085_testCorrID_5b8ab9b80eba3_EUR
+            [failure_url] => http://gamekairos.org/api_rest/payment/failure.php?payment_id=pay_1000046085_testCorrID_5b8ab9b80eba3_EUR
+        )
+
+    [customer] => Array
+        (
+            [id] => cc03e747a6afbbcbf8be7668acfebee5
+            [ip] => 190.66.162.249
+        )
+
+    [notification_url] => http://gamekairos.org/api_rest/payment/notification.php?payment_id=pay_1000046085_testCorrID_5b8ab9b80eba3_EUR
+    [card_details] => Array
+        (
+            [0] => Array
+                (
+                    [serial] => 4482608721781374
+                    [type] => 00044
+                    [country] => XX
+                    [currency] => EUR
+                    [amount] => 50
+                )
+
+        )
+
+    [message] => Transaction could not be initiated due to connection problems. If the problem persists, please contact our support. 
+)
+--------------------------------------------
+Requested at: Saturday, 01. September 2018 19:09:37
+
+Request: Array
+(
+    [request_url] => https://apitest.paysafecard.com/v1/payments/pay_1000046085_testCorrID_5b8ab9b80eba3_EUR
+)
+
+HTTP: Array
+(
+    [info] => Array
+        (
+            [url] => https://apitest.paysafecard.com/v1/payments/pay_1000046085_testCorrID_5b8ab9b80eba3_EUR
+            [content_type] => application/json
+            [http_code] => 200
+            [header_size] => 500
+            [request_size] => 220
+            [filetime] => -1
+            [ssl_verify_result] => 20
+            [redirect_count] => 0
+            [total_time] => 0.235
+            [namelookup_time] => 1.0E-6
+            [connect_time] => 0.032
+            [pretransfer_time] => 0.079
+            [size_upload] => 0
+            [size_download] => 944
+            [speed_download] => 4017
+            [speed_upload] => 0
+            [download_content_length] => -1
+            [upload_content_length] => -1
+            [starttransfer_time] => 0.235
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 194.1.158.27
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 173.212.232.245
+            [local_port] => 52731
+        )
+
+    [error_nr] => 0
+    [error_text] => 
+    [http_status] => 200
+)
+
+Response: Array
+(
+    [object] => PAYMENT
+    [id] => pay_1000046085_testCorrID_5b8ab9b80eba3_EUR
+    [created] => 1535818168321
+    [updated] => 1535818175654
+    [amount] => 50
+    [currency] => EUR
+    [status] => SUCCESS
+    [type] => PAYSAFECARD
+    [redirect] => Array
+        (
+            [success_url] => http://gamekairos.org/api_rest/payment/success.php?payment_id=pay_1000046085_testCorrID_5b8ab9b80eba3_EUR
+            [failure_url] => http://gamekairos.org/api_rest/payment/failure.php?payment_id=pay_1000046085_testCorrID_5b8ab9b80eba3_EUR
+            [auth_url] => https://customer.test.at.paysafecard.com/psccustomer/GetCustomerPanelServlet?mid=1000046085&mtid=pay_1000046085_testCorrID_5b8ab9b80eba3_EUR&amount=50.00&currency=EUR
+        )
+
+    [customer] => Array
+        (
+            [id] => cc03e747a6afbbcbf8be7668acfebee5
+            [ip] => 190.66.162.249
+        )
+
+    [notification_url] => http://gamekairos.org/api_rest/payment/notification.php?payment_id=pay_1000046085_testCorrID_5b8ab9b80eba3_EUR
+    [card_details] => Array
+        (
+            [0] => Array
+                (
+                    [serial] => 4482608721781374
+                    [type] => 00044
+                    [country] => XX
+                    [currency] => EUR
+                    [amount] => 50
+                )
+
+        )
+
+)
+--------------------------------------------
+Requested at: Saturday, 01. September 2018 19:52:32
+
+Request: Array
+(
+    [currency] => EUR
+    [amount] => 50
+    [customer] => Array
+        (
+            [id] => cc03e747a6afbbcbf8be7668acfebee5
+            [ip] => 190.66.162.249
+        )
+
+    [redirect] => Array
+        (
+            [success_url] => http://gamekairos.org/api_rest/payment/success.php?payment_id={payment_id}
+            [failure_url] => http://gamekairos.org/api_rest/payment/failure.php?payment_id={payment_id}
+        )
+
+    [type] => PAYSAFECARD
+    [notification_url] => http://gamekairos.org/api_rest/payment/notification.php?payment_id={payment_id}
+    [shop_id] => 
+    [request_url] => https://apitest.paysafecard.com/v1/payments/
+)
+
+HTTP: Array
+(
+    [info] => Array
+        (
+            [url] => https://apitest.paysafecard.com/v1/payments/
+            [content_type] => application/json
+            [http_code] => 201
+            [header_size] => 505
+            [request_size] => 693
+            [filetime] => -1
+            [ssl_verify_result] => 20
+            [redirect_count] => 0
+            [total_time] => 1.609
+            [namelookup_time] => 0.203
+            [connect_time] => 0.234
+            [pretransfer_time] => 1.359
+            [size_upload] => 452
+            [size_download] => 815
+            [speed_download] => 506
+            [speed_upload] => 280
+            [download_content_length] => -1
+            [upload_content_length] => 452
+            [starttransfer_time] => 1.609
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 194.1.158.27
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 173.212.232.245
+            [local_port] => 52841
+        )
+
+    [error_nr] => 0
+    [error_text] => 
+    [http_status] => 201
+)
+
+Response: Array
+(
+    [object] => PAYMENT
+    [id] => pay_1000046085_testCorrID_5b8ac3cf4bac7_EUR
+    [created] => 1535820752839
+    [updated] => 1535820752839
+    [amount] => 50
+    [currency] => EUR
+    [status] => INITIATED
+    [type] => PAYSAFECARD
+    [redirect] => Array
+        (
+            [success_url] => http://gamekairos.org/api_rest/payment/success.php?payment_id=pay_1000046085_testCorrID_5b8ac3cf4bac7_EUR
+            [failure_url] => http://gamekairos.org/api_rest/payment/failure.php?payment_id=pay_1000046085_testCorrID_5b8ac3cf4bac7_EUR
+            [auth_url] => https://customer.test.at.paysafecard.com/psccustomer/GetCustomerPanelServlet?mid=1000046085&mtid=pay_1000046085_testCorrID_5b8ac3cf4bac7_EUR&amount=50.00&currency=EUR
+        )
+
+    [customer] => Array
+        (
+            [id] => cc03e747a6afbbcbf8be7668acfebee5
+        )
+
+    [notification_url] => http://gamekairos.org/api_rest/payment/notification.php?payment_id=pay_1000046085_testCorrID_5b8ac3cf4bac7_EUR
+)
+--------------------------------------------
+Requested at: Saturday, 01. September 2018 19:52:52
+
+Request: Array
+(
+    [request_url] => https://apitest.paysafecard.com/v1/payments/pay_1000046085_testCorrID_5b8ac3cf4bac7_EUR
+)
+
+HTTP: Array
+(
+    [info] => Array
+        (
+            [url] => https://apitest.paysafecard.com/v1/payments/pay_1000046085_testCorrID_5b8ac3cf4bac7_EUR
+            [content_type] => application/json
+            [http_code] => 200
+            [header_size] => 500
+            [request_size] => 220
+            [filetime] => -1
+            [ssl_verify_result] => 20
+            [redirect_count] => 0
+            [total_time] => 0.282
+            [namelookup_time] => 1.0E-6
+            [connect_time] => 0.032
+            [pretransfer_time] => 0.094
+            [size_upload] => 0
+            [size_download] => 947
+            [speed_download] => 3358
+            [speed_upload] => 0
+            [download_content_length] => -1
+            [upload_content_length] => -1
+            [starttransfer_time] => 0.282
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 194.1.158.27
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 173.212.232.245
+            [local_port] => 52843
+        )
+
+    [error_nr] => 0
+    [error_text] => 
+    [http_status] => 200
+)
+
+Response: Array
+(
+    [object] => PAYMENT
+    [id] => pay_1000046085_testCorrID_5b8ac3cf4bac7_EUR
+    [created] => 1535820752839
+    [updated] => 1535820772158
+    [amount] => 50
+    [currency] => EUR
+    [status] => AUTHORIZED
+    [type] => PAYSAFECARD
+    [redirect] => Array
+        (
+            [success_url] => http://gamekairos.org/api_rest/payment/success.php?payment_id=pay_1000046085_testCorrID_5b8ac3cf4bac7_EUR
+            [failure_url] => http://gamekairos.org/api_rest/payment/failure.php?payment_id=pay_1000046085_testCorrID_5b8ac3cf4bac7_EUR
+            [auth_url] => https://customer.test.at.paysafecard.com/psccustomer/GetCustomerPanelServlet?mid=1000046085&mtid=pay_1000046085_testCorrID_5b8ac3cf4bac7_EUR&amount=50.00&currency=EUR
+        )
+
+    [customer] => Array
+        (
+            [id] => cc03e747a6afbbcbf8be7668acfebee5
+            [ip] => 190.66.162.249
+        )
+
+    [notification_url] => http://gamekairos.org/api_rest/payment/notification.php?payment_id=pay_1000046085_testCorrID_5b8ac3cf4bac7_EUR
+    [card_details] => Array
+        (
+            [0] => Array
+                (
+                    [serial] => 2936054813784275
+                    [type] => 00044
+                    [country] => XX
+                    [currency] => EUR
+                    [amount] => 50
+                )
+
+        )
+
+)
+--------------------------------------------
+Requested at: Saturday, 01. September 2018 19:52:52
+
+Request: Array
+(
+    [id] => pay_1000046085_testCorrID_5b8ac3cf4bac7_EUR
+    [request_url] => https://apitest.paysafecard.com/v1/payments/pay_1000046085_testCorrID_5b8ac3cf4bac7_EUR/capture
+)
+
+HTTP: Array
+(
+    [info] => Array
+        (
+            [url] => https://apitest.paysafecard.com/v1/payments/pay_1000046085_testCorrID_5b8ac3cf4bac7_EUR/capture
+            [content_type] => application/json
+            [http_code] => 200
+            [header_size] => 500
+            [request_size] => 301
+            [filetime] => -1
+            [ssl_verify_result] => 20
+            [redirect_count] => 0
+            [total_time] => 0.344
+            [namelookup_time] => 1.0E-6
+            [connect_time] => 0.016
+            [pretransfer_time] => 0.062
+            [size_upload] => 52
+            [size_download] => 764
+            [speed_download] => 2220
+            [speed_upload] => 151
+            [download_content_length] => -1
+            [upload_content_length] => 52
+            [starttransfer_time] => 0.344
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 194.1.158.27
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 173.212.232.245
+            [local_port] => 52844
+        )
+
+    [error_nr] => 0
+    [error_text] => 
+    [http_status] => 200
+)
+
+Response: Array
+(
+    [object] => PAYMENT
+    [id] => pay_1000046085_testCorrID_5b8ac3cf4bac7_EUR
+    [created] => 1535820752839
+    [updated] => 1535820772158
+    [amount] => 50
+    [currency] => EUR
+    [status] => SUCCESS
+    [type] => PAYSAFECARD
+    [redirect] => Array
+        (
+            [success_url] => http://gamekairos.org/api_rest/payment/success.php?payment_id=pay_1000046085_testCorrID_5b8ac3cf4bac7_EUR
+            [failure_url] => http://gamekairos.org/api_rest/payment/failure.php?payment_id=pay_1000046085_testCorrID_5b8ac3cf4bac7_EUR
+        )
+
+    [customer] => Array
+        (
+            [id] => cc03e747a6afbbcbf8be7668acfebee5
+            [ip] => 190.66.162.249
+        )
+
+    [notification_url] => http://gamekairos.org/api_rest/payment/notification.php?payment_id=pay_1000046085_testCorrID_5b8ac3cf4bac7_EUR
+    [card_details] => Array
+        (
+            [0] => Array
+                (
+                    [serial] => 2936054813784275
+                    [type] => 00044
+                    [country] => XX
+                    [currency] => EUR
+                    [amount] => 50
+                )
+
+        )
+
+    [message] => Transaction could not be initiated due to connection problems. If the problem persists, please contact our support. 
+)
+--------------------------------------------
+Requested at: Saturday, 01. September 2018 19:52:54
+
+Request: Array
+(
+    [request_url] => https://apitest.paysafecard.com/v1/payments/pay_1000046085_testCorrID_5b8ac3cf4bac7_EUR
+)
+
+HTTP: Array
+(
+    [info] => Array
+        (
+            [url] => https://apitest.paysafecard.com/v1/payments/pay_1000046085_testCorrID_5b8ac3cf4bac7_EUR
+            [content_type] => application/json
+            [http_code] => 200
+            [header_size] => 500
+            [request_size] => 220
+            [filetime] => -1
+            [ssl_verify_result] => 20
+            [redirect_count] => 0
+            [total_time] => 0.281
+            [namelookup_time] => 1.0E-6
+            [connect_time] => 0.047
+            [pretransfer_time] => 0.094
+            [size_upload] => 0
+            [size_download] => 944
+            [speed_download] => 3359
+            [speed_upload] => 0
+            [download_content_length] => -1
+            [upload_content_length] => -1
+            [starttransfer_time] => 0.281
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 194.1.158.27
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 173.212.232.245
+            [local_port] => 52845
+        )
+
+    [error_nr] => 0
+    [error_text] => 
+    [http_status] => 200
+)
+
+Response: Array
+(
+    [object] => PAYMENT
+    [id] => pay_1000046085_testCorrID_5b8ac3cf4bac7_EUR
+    [created] => 1535820752839
+    [updated] => 1535820772778
+    [amount] => 50
+    [currency] => EUR
+    [status] => SUCCESS
+    [type] => PAYSAFECARD
+    [redirect] => Array
+        (
+            [success_url] => http://gamekairos.org/api_rest/payment/success.php?payment_id=pay_1000046085_testCorrID_5b8ac3cf4bac7_EUR
+            [failure_url] => http://gamekairos.org/api_rest/payment/failure.php?payment_id=pay_1000046085_testCorrID_5b8ac3cf4bac7_EUR
+            [auth_url] => https://customer.test.at.paysafecard.com/psccustomer/GetCustomerPanelServlet?mid=1000046085&mtid=pay_1000046085_testCorrID_5b8ac3cf4bac7_EUR&amount=50.00&currency=EUR
+        )
+
+    [customer] => Array
+        (
+            [id] => cc03e747a6afbbcbf8be7668acfebee5
+            [ip] => 190.66.162.249
+        )
+
+    [notification_url] => http://gamekairos.org/api_rest/payment/notification.php?payment_id=pay_1000046085_testCorrID_5b8ac3cf4bac7_EUR
+    [card_details] => Array
+        (
+            [0] => Array
+                (
+                    [serial] => 2936054813784275
+                    [type] => 00044
+                    [country] => XX
+                    [currency] => EUR
+                    [amount] => 50
+                )
+
+        )
+
+)
+--------------------------------------------
+Requested at: Tuesday, 04. September 2018 08:51:49
+
+Request: Array
+(
+    [currency] => EUR
+    [amount] => 0.10
+    [customer] => Array
+        (
+            [id] => cc03e747a6afbbcbf8be7668acfebee5
+            [ip] => 190.66.162.249
+        )
+
+    [redirect] => Array
+        (
+            [success_url] => http://gamekairos.org/api_rest/payment/success.php?payment_id={payment_id}
+            [failure_url] => http://gamekairos.org/api_rest/payment/failure.php?payment_id={payment_id}
+        )
+
+    [type] => PAYSAFECARD
+    [notification_url] => http://gamekairos.org/api_rest/payment/notification.php?payment_id={payment_id}
+    [shop_id] => 
+    [request_url] => https://apitest.paysafecard.com/v1/payments/
+)
+
+HTTP: Array
+(
+    [info] => Array
+        (
+            [url] => https://apitest.paysafecard.com/v1/payments/
+            [content_type] => application/json
+            [http_code] => 201
+            [header_size] => 505
+            [request_size] => 695
+            [filetime] => -1
+            [ssl_verify_result] => 20
+            [redirect_count] => 0
+            [total_time] => 0.969
+            [namelookup_time] => 0.094
+            [connect_time] => 0.094
+            [pretransfer_time] => 0.75
+            [size_upload] => 454
+            [size_download] => 813
+            [speed_download] => 839
+            [speed_upload] => 468
+            [download_content_length] => -1
+            [upload_content_length] => 454
+            [starttransfer_time] => 0.953
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 194.1.158.27
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 443
+            [local_ip] => 173.212.232.245
+            [local_port] => 59265
+        )
+
+    [error_nr] => 0
+    [error_text] => 
+    [http_status] => 201
+)
+
+Response: Array
+(
+    [object] => PAYMENT
+    [id] => pay_1000046085_testCorrID_5b8e1d740a8a1_EUR
+    [created] => 1536040308924
+    [updated] => 1536040308924
+    [amount] => 0.1
+    [currency] => EUR
+    [status] => INITIATED
+    [type] => PAYSAFECARD
+    [redirect] => Array
+        (
+            [success_url] => http://gamekairos.org/api_rest/payment/success.php?payment_id=pay_1000046085_testCorrID_5b8e1d740a8a1_EUR
+            [failure_url] => http://gamekairos.org/api_rest/payment/failure.php?payment_id=pay_1000046085_testCorrID_5b8e1d740a8a1_EUR
+            [auth_url] => https://customer.test.at.paysafecard.com/psccustomer/GetCustomerPanelServlet?mid=1000046085&mtid=pay_1000046085_testCorrID_5b8e1d740a8a1_EUR&amount=0.10&currency=EUR
+        )
+
+    [customer] => Array
+        (
+            [id] => cc03e747a6afbbcbf8be7668acfebee5
+        )
+
+    [notification_url] => http://gamekairos.org/api_rest/payment/notification.php?payment_id=pay_1000046085_testCorrID_5b8e1d740a8a1_EUR
+)
+--------------------------------------------

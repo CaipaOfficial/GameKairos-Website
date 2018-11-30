@@ -1,0 +1,16 @@
+2018-09-18 00:24:48: nMinPassed=67 nMinBeforeTrying=1 nPos=3 nNeg=1 trydirect=1 nLastGoodDirectTxnDurationSec=1
+2018-09-18 00:24:48: m4690.jfernandorojasc-gmail-com.goodsync is REMOTE, trying DIRECT at 213.136.67.9:33333
+2018-09-18 00:24:49: MustRetry after Recv: Recv: [requesting Digest auth]: 
+2018-09-18 00:24:49: On File Change Monitoring started on file:///~RADEON/Desktop/wwwroot
+2018-09-18 00:24:50: On File Change Monitoring started on gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos
+2018-09-18 00:24:50: m4690.jfernandorojasc-gmail-com.goodsync is REMOTE, trying DIRECT at 213.136.67.9:33333
+2018-09-18 00:24:51: MustRetry after Recv: Recv: [requesting Digest auth]: 
+2018-09-18 00:24:52: -- Análisis iniciado por On File Change First Full Analyze Upon File Monitoring Start
+2018-09-18 00:25:13: Cambios: 3, Conflictos: 0, CopiaFecha: 0, CopiaEstado: 0, Errores: 0, All: 1166
+2018-09-18 00:25:13: Right to Left: Copy File: 3 
+2018-09-18 00:25:13: == Sinc comenzada por On File Change First Full Analyze Upon File Monitoring Start
+2018-09-18 00:25:14: Crear Carpeta 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/Ticket_system/controller'
+2018-09-18 00:25:18: Copiar Sobre 'C:/Users/RADEON/Desktop/wwwroot/Pillory/controller/pillory_controller.php' -> 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/Pillory/controller/pillory_controller.php' (70)
+2018-09-18 00:25:19: Copiar Nueva 'C:/Users/RADEON/Desktop/wwwroot/Pillory/view/pillory_view.php' -> 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/Pillory/view/pillory_view.php' (427)
+2018-09-18 00:25:22: == Sinc. Completa. Tiempo: 00:00:09, Velocidad: 2,73 KB/s, OK: 3, Errores: 0
+2018-09-18 00:25:22: 

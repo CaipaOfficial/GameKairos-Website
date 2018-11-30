@@ -1,0 +1,26 @@
+2018-09-18 03:48:37: m4690.jfernandorojasc-gmail-com.goodsync is REMOTE, trying DIRECT at 213.136.67.9:33333
+2018-09-18 03:48:38: MustRetry after Recv: Recv: [requesting Digest auth]: 
+2018-09-18 03:48:39: -- Análisis iniciado por On File Change Incremental
+2018-09-18 03:48:41: Cambios: 18, Conflictos: 0, CopiaFecha: 0, CopiaEstado: 0, Errores: 0, All: 1184
+2018-09-18 03:48:41: Right to Left: Copy File: 18 
+2018-09-18 03:48:41: == Sinc comenzada por On File Change Incremental
+2018-09-18 03:48:42: Crear Carpeta 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/particles.js'
+2018-09-18 03:48:43: Crear Carpeta 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/particles.js/particles.js-master'
+2018-09-18 03:48:43: Crear Carpeta 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/particles.js/particles.js-master/demo'
+2018-09-18 03:48:44: Crear Carpeta 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/particles.js/particles.js-master/demo/css'
+2018-09-18 03:48:45: Crear Carpeta 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/particles.js/particles.js-master/demo/js'
+2018-09-18 03:48:45: Crear Carpeta 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/particles.js/particles.js-master/demo/js/lib'
+2018-09-18 03:48:47: Copiar Nueva 'C:/Users/RADEON/Desktop/wwwroot/particles.js/particles.js-master/.gitignore' -> 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/particles.js/particles.js-master/.gitignore' (16)
+2018-09-18 03:48:48: Copiar Nueva 'C:/Users/RADEON/Desktop/wwwroot/particles.js/particles.js-master/bower.json' -> 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/particles.js/particles.js-master/bower.json' (435)
+2018-09-18 03:48:49: Copiar Nueva 'C:/Users/RADEON/Desktop/wwwroot/particles.js/particles.js-master/demo/css/style.css' -> 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/particles.js/particles.js-master/demo/css/style.css' (2.585)
+2018-09-18 03:48:51: Copiar Nueva 'C:/Users/RADEON/Desktop/wwwroot/particles.js/particles.js-master/demo/index.html' -> 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/particles.js/particles.js-master/demo/index.html' (1.448)
+2018-09-18 03:48:52: Copiar Nueva 'C:/Users/RADEON/Desktop/wwwroot/particles.js/particles.js-master/demo/js/app.js' -> 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/particles.js/particles.js-master/demo/js/app.js' (2.821)
+2018-09-18 03:48:54: Copiar Nueva 'C:/Users/RADEON/Desktop/wwwroot/particles.js/particles.js-master/demo/js/lib/stats.js' -> 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/particles.js/particles.js-master/demo/js/lib/stats.js' (3.560)
+2018-09-18 03:48:55: Copiar Nueva 'C:/Users/RADEON/Desktop/wwwroot/particles.js/particles.js-master/demo/particles.json' -> 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/particles.js/particles.js-master/demo/particles.json' (2.137)
+2018-09-18 03:48:56: Copiar Nueva 'C:/Users/RADEON/Desktop/wwwroot/particles.js/particles.js-master/LICENSE.md' -> 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/particles.js/particles.js-master/LICENSE.md' (1.083)
+2018-09-18 03:48:58: Copiar Nueva 'C:/Users/RADEON/Desktop/wwwroot/particles.js/particles.js-master/package.json' -> 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/particles.js/particles.js-master/package.json' (693)
+2018-09-18 03:49:01: Copiar Nueva 'C:/Users/RADEON/Desktop/wwwroot/particles.js/particles.js-master/particles.js' -> 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/particles.js/particles.js-master/particles.js' (43.009)
+2018-09-18 03:49:04: Copiar Nueva 'C:/Users/RADEON/Desktop/wwwroot/particles.js/particles.js-master/particles.min.js' -> 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/particles.js/particles.js-master/particles.min.js' (23.364)
+2018-09-18 03:49:05: Copiar Nueva 'C:/Users/RADEON/Desktop/wwwroot/particles.js/particles.js-master/README.md' -> 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/particles.js/particles.js-master/README.md' (7.502)
+2018-09-18 03:49:08: == Sinc. Completa. Tiempo: 00:00:27, Velocidad: 8,00 KB/s, OK: 18, Errores: 0
+2018-09-18 03:49:08: 

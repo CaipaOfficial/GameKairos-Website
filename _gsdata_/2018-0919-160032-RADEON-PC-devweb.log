@@ -1,0 +1,9 @@
+2018-09-19 16:00:34: m4690.jfernandorojasc-gmail-com.goodsync is REMOTE, trying DIRECT at 213.136.67.9:33333
+2018-09-19 16:00:35: MustRetry after Recv: Recv: [requesting Digest auth]: 
+2018-09-19 16:00:36: -- Análisis iniciado por On File Change Incremental
+2018-09-19 16:00:41: Cambios: 1, Conflictos: 0, CopiaFecha: 0, CopiaEstado: 0, Errores: 0, All: 6738
+2018-09-19 16:00:41: Right to Left: Copy File: 1 
+2018-09-19 16:00:44: == Sinc comenzada por On File Change Incremental
+2018-09-19 16:00:48: Copiar Sobre 'C:/Users/RADEON/Desktop/wwwroot/api_rest/controller/api_payment_mailer_controller.php' -> 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/api_rest/controller/api_payment_mailer_controller.php' (4.598)
+2018-09-19 16:00:51: == Sinc. Completa. Tiempo: 00:00:07, Velocidad: 1,12 KB/s, OK: 1, Errores: 0
+2018-09-19 16:00:52: 

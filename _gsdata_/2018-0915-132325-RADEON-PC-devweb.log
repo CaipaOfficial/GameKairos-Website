@@ -1,0 +1,34 @@
+2018-09-15 13:23:26: m4690.jfernandorojasc-gmail-com.goodsync is REMOTE, trying DIRECT at 213.136.67.9:33333
+2018-09-15 13:23:27: MustRetry after Recv: Recv: [requesting Digest auth]: 
+2018-09-15 13:23:28: -- Análisis iniciado por On File Change Incremental
+2018-09-15 13:23:30: Cambios: 26, Conflictos: 0, CopiaFecha: 0, CopiaEstado: 0, Errores: 0, All: 953
+2018-09-15 13:23:30: Right to Left: Copy File: 26 
+2018-09-15 13:23:30: == Sinc comenzada por On File Change Incremental
+2018-09-15 13:23:31: Crear Carpeta 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/Email_template'
+2018-09-15 13:23:31: Crear Carpeta 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/Email_template/img'
+2018-09-15 13:23:33: Copiar Nueva 'C:/Users/RADEON/Desktop/wwwroot/Email_template/img/arrow.png' -> 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/Email_template/img/arrow.png' (965)
+2018-09-15 13:23:38: Copiar Nueva 'C:/Users/RADEON/Desktop/wwwroot/Email_template/img/billboard.jpg' -> 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/Email_template/img/billboard.jpg' (207.313)
+2018-09-15 13:23:39: Copiar Nueva 'C:/Users/RADEON/Desktop/wwwroot/Email_template/img/facebook.png' -> 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/Email_template/img/facebook.png' (986)
+2018-09-15 13:23:41: Copiar Nueva 'C:/Users/RADEON/Desktop/wwwroot/Email_template/img/footer_logo.png' -> 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/Email_template/img/footer_logo.png' (2.057)
+2018-09-15 13:23:44: Copiar Nueva 'C:/Users/RADEON/Desktop/wwwroot/Email_template/img/gallery_img1.jpg' -> 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/Email_template/img/gallery_img1.jpg' (34.517)
+2018-09-15 13:23:46: Copiar Nueva 'C:/Users/RADEON/Desktop/wwwroot/Email_template/img/gallery_img2.jpg' -> 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/Email_template/img/gallery_img2.jpg' (46.185)
+2018-09-15 13:23:49: Copiar Nueva 'C:/Users/RADEON/Desktop/wwwroot/Email_template/img/gallery_img3.jpg' -> 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/Email_template/img/gallery_img3.jpg' (68.465)
+2018-09-15 13:23:51: Copiar Nueva 'C:/Users/RADEON/Desktop/wwwroot/Email_template/img/gallery_img4.jpg' -> 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/Email_template/img/gallery_img4.jpg' (16.547)
+2018-09-15 13:23:52: Copiar Nueva 'C:/Users/RADEON/Desktop/wwwroot/Email_template/img/gplus.png' -> 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/Email_template/img/gplus.png' (1.051)
+2018-09-15 13:23:53: Copiar Nueva 'C:/Users/RADEON/Desktop/wwwroot/Email_template/img/header_logo.png' -> 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/Email_template/img/header_logo.png' (1.817)
+2018-09-15 13:23:55: Copiar Nueva 'C:/Users/RADEON/Desktop/wwwroot/Email_template/img/icon1.png' -> 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/Email_template/img/icon1.png' (8.255)
+2018-09-15 13:23:56: Copiar Nueva 'C:/Users/RADEON/Desktop/wwwroot/Email_template/img/icon2.png' -> 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/Email_template/img/icon2.png' (8.107)
+2018-09-15 13:23:58: Copiar Nueva 'C:/Users/RADEON/Desktop/wwwroot/Email_template/img/icon3.png' -> 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/Email_template/img/icon3.png' (8.328)
+2018-09-15 13:23:59: Copiar Nueva 'C:/Users/RADEON/Desktop/wwwroot/Email_template/img/img_post1.jpg' -> 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/Email_template/img/img_post1.jpg' (16.362)
+2018-09-15 13:24:02: Copiar Nueva 'C:/Users/RADEON/Desktop/wwwroot/Email_template/img/img_post2.jpg' -> 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/Email_template/img/img_post2.jpg' (24.718)
+2018-09-15 13:24:03: Copiar Nueva 'C:/Users/RADEON/Desktop/wwwroot/Email_template/img/img_post3.jpg' -> 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/Email_template/img/img_post3.jpg' (25.596)
+2018-09-15 13:24:05: Copiar Nueva 'C:/Users/RADEON/Desktop/wwwroot/Email_template/img/linkedin.png' -> 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/Email_template/img/linkedin.png' (1.023)
+2018-09-15 13:24:06: Copiar Nueva 'C:/Users/RADEON/Desktop/wwwroot/Email_template/img/quote.png' -> 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/Email_template/img/quote.png' (1.148)
+2018-09-15 13:24:09: Copiar Nueva 'C:/Users/RADEON/Desktop/wwwroot/Email_template/img/quote_img.jpg' -> 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/Email_template/img/quote_img.jpg' (142.012)
+2018-09-15 13:24:10: Copiar Nueva 'C:/Users/RADEON/Desktop/wwwroot/Email_template/img/twitter.png' -> 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/Email_template/img/twitter.png' (1.077)
+2018-09-15 13:24:12: Copiar Nueva 'C:/Users/RADEON/Desktop/wwwroot/Email_template/license & credits.txt' -> 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/Email_template/license & credits.txt' (1.110)
+2018-09-15 13:24:14: Copiar Nueva 'C:/Users/RADEON/Desktop/wwwroot/Email_template/not_res.html' -> 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/Email_template/not_res.html' (39.184)
+2018-09-15 13:25:56: Copiar Nueva 'C:/Users/RADEON/Desktop/wwwroot/Email_template/passion.psd' -> 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/Email_template/passion.psd' (9.110.885)
+2018-09-15 13:25:58: Copiar Nueva 'C:/Users/RADEON/Desktop/wwwroot/Email_template/template.html' -> 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/Email_template/template.html' (40.878)
+2018-09-15 13:26:02: == Sinc. Completa. Tiempo: 00:02:32, Velocidad: 65,2 KB/s, OK: 26, Errores: 0
+2018-09-15 13:26:02: 

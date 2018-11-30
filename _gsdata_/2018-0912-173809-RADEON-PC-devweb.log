@@ -1,0 +1,13 @@
+2018-09-12 17:38:11: nMinPassed=0 nMinBeforeTrying=1 nPos=3 nNeg=1 trydirect=0 nLastGoodDirectTxnDurationSec=1
+2018-09-12 17:38:11: m4690.jfernandorojasc-gmail-com.goodsync is REMOTE, trying FORWARDER PIPE at forwarder-euro.forwarders.goodsync(forwarder-euro.goodsync.com:443) local=0
+2018-09-12 17:38:13: Recovered the connection, continuing operations
+2018-09-12 17:38:16: nMinPassed=1 nMinBeforeTrying=1 nPos=3 nNeg=1 trydirect=1 nLastGoodDirectTxnDurationSec=1
+2018-09-12 17:38:16: m4690.jfernandorojasc-gmail-com.goodsync is REMOTE, trying DIRECT at 213.136.67.9:33333
+2018-09-12 17:38:17: MustRetry after Recv: Recv: [requesting Digest auth]: 
+2018-09-12 17:38:19: -- Análisis iniciado por On File Change Incremental
+2018-09-12 17:38:20: Cambios: 1, Conflictos: 0, CopiaFecha: 0, CopiaEstado: 0, Errores: 0, All: 741
+2018-09-12 17:38:20: Right to Left: Copy File: 1 
+2018-09-12 17:38:20: == Sinc comenzada por On File Change Incremental
+2018-09-12 17:38:23: Copiar Sobre 'C:/Users/RADEON/Desktop/wwwroot/translate/_EN.php' -> 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/translate/_EN.php' (1.606)
+2018-09-12 17:38:26: == Sinc. Completa. Tiempo: 00:00:06, Velocidad: 535 bytes/s, OK: 1, Errores: 0
+2018-09-12 17:38:26: 

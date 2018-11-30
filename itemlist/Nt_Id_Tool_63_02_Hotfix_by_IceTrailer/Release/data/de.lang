@@ -1,0 +1,47 @@
+window.title=Id Tool für NosTale by IceTrailer
+
+menu.start=Start
+start.title=Willkommen zum 
+start.caption=Konfiguriere mich zuerst.{br}Bitte wähle deine bevorzugte Sprache.
+start.design=Helles oder dunkles UI-Design?
+start.light_button=Hell
+start.dark_button=Dunkel
+start.button=Weiter
+
+start.title_done=Ok, das ist alles.
+start.greeting=Willkommen zurück!
+start.caption_done=Bitte wähle eine Kategorie aus der linken Seite.
+start.changeLanguage=Want to change your preferred language? Choose here.
+
+menu.settings=Einstellungen
+settings.paths_question=Wo liegen Deine .NOS Dateien?
+settings.button_save=Speichern
+settings.explorer_filter=NosTale-Dateien
+settings.msg_title=Fehler
+settings.msg_existing_error=Die Datei "%1" existiert nicht! Bitte gib einen gültigen Pfad an.
+settings.msg_no_filter_selected=Im Filter wurde kein Item-Typ ausgewählt. Konnte nichts extrahieren.
+
+menu.list_creator=Listen erstellen
+list_creator.title=Wähle einen Typ und ändere (falls gewünscht){br}das Ausgabeformat
+list_creator.group_type=Typ
+list_creator.group_format=Ausgabeformat
+list_creator.group_output_path=Ausgabepfad
+list_creator.headline_example=Erstelle das Format mithilfe der Liste rechts (Beispiel: {id}{\t}{translation}):
+list_creator.output_instruction=Gib einen Ausgabepfad an (oder lass das Feld so):
+list_creator.format_example=[Standardformat: {id}{\t}{translation}]
+list_creator.headline_possible_elements=Mögliche Elemente:
+list_creator.button_clear=Leeren
+list_creator.button_add_all=Alle hinzufügen
+list_creator.button_explore=Durchsuchen
+list_creator.button_open_folder=In Explorer zeigen
+list_creator.button_open_file=Öffne Datei
+list_creator.button_extract=Erstellen
+list_creator.export_txt_filter=Textdateien
+list_creator.export_all_filter=Alle Dateien
+list_creator.status_process=Erstelle '%1' Id-Liste...
+list_creator.status_fail_file=Der Dateipfad %1 ist invalid.
+list_creator.status_fail=Erstellen fehlgeschlagen. Ein Fehler ist aufgetreten.
+list_creator.status_done=Id-Liste wurde in %1s erfolgreich erstellt!{br}Datei: '%2'.
+list_creator.filter.item_type=Waffe,Rüstung,Mode,Accessoire,Spezialist,Box,Muschel,Haupt,Upgrade,Produktion,Map,Spezial,Tränke,Event,Quest1,Verkauf,Essen,Snack,Magisch,Material,Trainer,Munition,Quest2,Haus,Terrasse,Minigame,Garten,MinilandTheme
+
+menu.item_editor=Items bearbeiten

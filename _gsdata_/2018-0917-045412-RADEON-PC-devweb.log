@@ -1,0 +1,10 @@
+2018-09-17 04:54:14: m4690.jfernandorojasc-gmail-com.goodsync is REMOTE, trying DIRECT at 213.136.67.9:33333
+2018-09-17 04:54:14: MustRetry after Recv: Recv: [requesting Digest auth]: 
+2018-09-17 04:54:16: -- Análisis iniciado por On File Change Incremental
+2018-09-17 04:54:19: Cambios: 2, Conflictos: 0, CopiaFecha: 0, CopiaEstado: 0, Errores: 0, All: 1159
+2018-09-17 04:54:19: Left to Right: Copy File: 2 
+2018-09-17 04:54:19: == Sinc comenzada por On File Change Incremental
+2018-09-17 04:54:20: Copiar Nueva 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/Ticket_system/hola.py' -> 'C:/Users/RADEON/Desktop/wwwroot/Ticket_system/hola.py' (68)
+2018-09-17 04:54:21: Copiar Sobre 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/Ticket_system/server.py' -> 'C:/Users/RADEON/Desktop/wwwroot/Ticket_system/server.py' (68)
+2018-09-17 04:54:24: == Sinc. Completa. Tiempo: 00:00:05, Velocidad: 4,00 KB/s, OK: 2, Errores: 0
+2018-09-17 04:54:24: 

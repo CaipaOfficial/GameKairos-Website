@@ -1,0 +1,5 @@
+act_desc=id;translation;stringName
+item=id;translation;stringName;price;inventoryType;itemType;levelRequired;equipmentSlot;iconId;classType;isSalable;isDropable;isMinilandInteractive;isWarehouse;sexType;reputationPrice;isHeroic
+map=id;translation;stringName
+monster=id;translation;stringName
+skill=id;translation;stringName

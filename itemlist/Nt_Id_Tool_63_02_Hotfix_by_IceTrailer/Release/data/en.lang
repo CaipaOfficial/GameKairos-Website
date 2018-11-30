@@ -1,0 +1,47 @@
+window.title=Id Tool for NosTale by IceTrailer
+
+menu.start=Start
+start.title=Welcome to 
+start.caption=How about configuring?{br}Please choose your preferred language.
+start.design=Light or dark UI design?
+start.light_button=Light
+start.dark_button=Dark
+start.button=Continue
+
+start.title_done=Ok, that's all.
+start.greeting=Welcome back!
+start.caption_done=Please choose one of the categories to the left.
+start.changeLanguage=Want to change your preferred language? Choose here.
+
+menu.settings=Settings
+settings.paths_question=What are the paths to your .NOS files?
+settings.button_save=Save
+settings.explorer_filter=NosTale files
+settings.msg_title=Error
+settings.msg_existing_error=File "%1" doesn't exist! Please enter a valid file path.
+settings.msg_no_filter_selected=No item type selected in filter list. Couldn't extract anything.
+
+menu.list_creator=List creator
+list_creator.title=Choose one of the type and change (if required){br}the output format
+list_creator.group_type=Type
+list_creator.group_format=Output format
+list_creator.group_output_path=Output path
+list_creator.headline_example=Enter desired format using list on the right (example: {id}{\t}{translation}):
+list_creator.output_instruction=Enter (or explore) desired output path (or leave default):
+list_creator.format_example=[default format: {id}{\t}{translation}]
+list_creator.headline_possible_elements=Possible elements:
+list_creator.button_clear=Clear
+list_creator.button_add_all=Add all
+list_creator.button_explore=Explore
+list_creator.button_open_folder=Show in explorer
+list_creator.button_open_file=Show file
+list_creator.button_extract=Extract
+list_creator.export_txt_filter=Text files
+list_creator.export_all_filter=All files
+list_creator.status_process=Extracting '%1' ID list...
+list_creator.status_fail_file=Path %1 is invalid.
+list_creator.status_fail=Extraction failed! An error appeared.
+list_creator.status_done=Extraction done in %1s! List can be found at{br}'%2'.
+list_creator.filter.item_type=Weapon,Armor,Fashion,Jewelery,Specialist,Box,Shell,Main,Upgrade,Production,Map,Special,Potion,Event,Quest1,Sell,Food,Snack,Magical,Part,Teacher,Ammo,Quest2,House,Terrace,Minigame,Garden,MinilandTheme
+
+menu.item_editor=Item editor

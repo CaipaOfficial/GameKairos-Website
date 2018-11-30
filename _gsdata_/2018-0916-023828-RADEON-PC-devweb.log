@@ -1,0 +1,13 @@
+2018-09-16 02:38:28: On File Change Monitoring started on file:///~RADEON/Desktop/wwwroot
+2018-09-16 02:38:31: m4690.jfernandorojasc-gmail-com.goodsync is REMOTE, trying DIRECT at 213.136.67.9:33333
+2018-09-16 02:38:32: MustRetry after Recv: Recv: [requesting Digest auth]: 
+2018-09-16 02:38:33: On File Change Monitoring started on gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos
+2018-09-16 02:38:33: m4690.jfernandorojasc-gmail-com.goodsync is REMOTE, trying DIRECT at 213.136.67.9:33333
+2018-09-16 02:38:34: MustRetry after Recv: Recv: [requesting Digest auth]: 
+2018-09-16 02:38:35: -- Análisis iniciado por On File Change First Full Analyze Upon File Monitoring Start
+2018-09-16 02:38:50: Cambios: 1, Conflictos: 0, CopiaFecha: 0, CopiaEstado: 0, Errores: 0, All: 955
+2018-09-16 02:38:50: Right to Left: Copy File: 1 
+2018-09-16 02:38:50: == Sinc comenzada por On File Change First Full Analyze Upon File Monitoring Start
+2018-09-16 02:38:51: Crear Carpeta 'gstps://m4690.jfernandorojasc-gmail-com.goodsync/C:/inetpub/wwwroot/Kairos/Ticket_system'
+2018-09-16 02:39:01: == Sinc. Completa. Tiempo: 00:00:11, Velocidad: 0 bytes/s, OK: 1, Errores: 0
+2018-09-16 02:39:02: 
